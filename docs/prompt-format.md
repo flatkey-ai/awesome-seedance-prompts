@@ -1,6 +1,6 @@
 # Prompt format
 
-Each prompt is a Markdown file with YAML frontmatter. The frontmatter is the shared contract used by GitHub rendering, the README generator, the Flatkey import adapter, and the website Prompt Library.
+Each prompt is a Markdown file with YAML frontmatter. The frontmatter keeps the GitHub cases consistent across README rendering, internal review, and links to Flatkey's model and prompt pages.
 
 ## Required fields
 

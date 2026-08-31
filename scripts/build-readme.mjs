@@ -20,11 +20,15 @@ function readEntry(file) {
   const end = text.indexOf("\n---", 4);
   const frontmatter = text.slice(4, end).split("\n");
   const values = {};
+  let section = "";
   for (const line of frontmatter) {
     const scalar = line.match(/^([A-Za-z_][A-Za-z0-9_-]*):\s*(.*)$/);
-    if (scalar) values[scalar[1]] = scalar[2].replace(/^['\"]|['\"]$/g, "");
+    if (scalar) {
+      section = scalar[1];
+      values[scalar[1]] = scalar[2].replace(/^['\"]|['\"]$/g, "");
+    }
     const title = line.match(/^\s{2}en:\s*(.*)$/);
-    if (title) values.title = title[1].replace(/^['\"]|['\"]$/g, "");
+    if (title && section === "title") values.title = title[1].replace(/^['\"]|['\"]$/g, "");
   }
   return { ...values, file: path.relative(root, file).replaceAll(path.sep, "/") };
 }
