@@ -7,6 +7,7 @@ Each prompt is a Markdown file with YAML frontmatter. The frontmatter keeps the 
 ```yaml
 slug: seedance-commercial-product-reveal
 model: seedance-2.5
+industry: ecommerce-retail
 category: commercial
 title:
   en: Commercial Product Reveal
@@ -50,6 +51,21 @@ captured_at: 2026-08-31
 ```
 
 Keep `model` aligned with the public model identifier used by Flatkey. If the upstream provider uses another internal name, do not expose that internal name in the public entry.
+
+`industry` is the primary business audience for the prompt. Use one of the controlled values below; keep `category` for the production pattern or technical shape of the shot.
+
+| Industry | Use for |
+| --- | --- |
+| `automotive-mobility` | Cars, motorsport, transport, and mobility products |
+| `creator-social` | Creator explainers, UGC, influencer, and social-first clips |
+| `ecommerce-retail` | Product listings, retail launches, merchandising, and shopping content |
+| `education-training` | Courses, demonstrations, tutorials, and training content |
+| `gaming` | Game cinematics, trailers, gameplay references, and virtual worlds |
+| `marketing-advertising` | Campaign concepts, paid ads, market tests, and brand creatives |
+| `media-entertainment` | Film, television, micro-drama, music video, and narrative previsualization |
+| `travel-hospitality` | Destinations, hotels, tourism, and location-led experiences |
+
+When a prompt could serve several industries, choose the primary buyer or publishing context and add the other context as a tag.
 
 ## Attribution and licensing
 

@@ -1,6 +1,7 @@
 ---
 slug: seedance-ecommerce-ugc-product-video
 model: seedance-2.5
+industry: ecommerce-retail
 category: commercial
 title:
   en: E-commerce UGC product video

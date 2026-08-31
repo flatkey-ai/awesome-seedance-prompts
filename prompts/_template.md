@@ -1,6 +1,7 @@
 ---
 slug: replace-with-a-unique-slug
 model: seedance-2.5
+industry: marketing-advertising
 category: commercial
 title:
   en: Replace with a title

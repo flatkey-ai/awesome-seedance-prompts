@@ -15,6 +15,16 @@ const allowedCategories = new Set([
   "music-video",
   "transition",
 ]);
+const allowedIndustries = new Set([
+  "automotive-mobility",
+  "creator-social",
+  "ecommerce-retail",
+  "education-training",
+  "gaming",
+  "marketing-advertising",
+  "media-entertainment",
+  "travel-hospitality",
+]);
 const allowedStatuses = new Set(["draft", "published", "archived"]);
 
 function markdownFiles(directory) {
@@ -68,7 +78,7 @@ for (const file of files) {
   const relative = path.relative(root, file);
   try {
     const { values, prompt } = parseFrontmatter(file);
-    const required = ["slug", "model", "category", "title", "source", "status"];
+    const required = ["slug", "model", "industry", "category", "title", "source", "status"];
     for (const field of required) {
       if (!values[field] || (typeof values[field] === "object" && Object.keys(values[field]).length === 0)) {
         errors.push(`${relative}: missing ${field}`);
@@ -80,6 +90,7 @@ for (const file of files) {
     if (slugs.has(values.slug)) errors.push(`${relative}: duplicate slug ${values.slug} (also ${slugs.get(values.slug)})`);
     if (values.slug) slugs.set(values.slug, relative);
     if (!allowedCategories.has(values.category)) errors.push(`${relative}: unsupported category ${values.category}`);
+    if (!allowedIndustries.has(values.industry)) errors.push(`${relative}: unsupported industry ${values.industry}`);
     if (!allowedStatuses.has(values.status)) errors.push(`${relative}: unsupported status ${values.status}`);
     if (!prompt) errors.push(`${relative}: prompt body is empty`);
     if (typeof values.title === "object" && !values.title.en) errors.push(`${relative}: title.en is required`);

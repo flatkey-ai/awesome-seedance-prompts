@@ -1,6 +1,7 @@
 ---
 slug: seedance-micro-drama-storyboard
 model: seedance-2.5
+industry: media-entertainment
 category: storyboard
 title:
   en: Micro-drama storyboard

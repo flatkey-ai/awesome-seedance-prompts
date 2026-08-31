@@ -1,6 +1,7 @@
 ---
 slug: seedance-game-cinematic-reference-shot
 model: seedance-2.5
+industry: gaming
 category: reference-driven
 title:
   en: Game cinematic reference shot
