@@ -5,6 +5,17 @@ const root = process.cwd();
 const promptsRoot = path.join(root, "prompts");
 const output = path.join(root, "docs", "prompt-index.md");
 
+const industryLabels = {
+  "automotive-mobility": "Automotive & Mobility",
+  "creator-social": "Creator & Social",
+  "ecommerce-retail": "E-commerce & Retail",
+  "education-training": "Education & Training",
+  gaming: "Gaming",
+  "marketing-advertising": "Marketing & Advertising",
+  "media-entertainment": "Media & Entertainment",
+  "travel-hospitality": "Travel & Hospitality",
+};
+
 function markdownFiles(directory) {
   if (!fs.existsSync(directory)) return [];
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
@@ -34,7 +45,11 @@ function readEntry(file) {
 }
 
 const entries = markdownFiles(promptsRoot).map(readEntry).filter((entry) => entry.status === "published");
-entries.sort((a, b) => (a.category ?? "").localeCompare(b.category ?? "") || (a.title ?? a.slug).localeCompare(b.title ?? b.slug));
+entries.sort((a, b) =>
+  (a.industry ?? "").localeCompare(b.industry ?? "") ||
+  (a.category ?? "").localeCompare(b.category ?? "") ||
+  (a.title ?? a.slug).localeCompare(b.title ?? b.slug),
+);
 
 const lines = [
   "# Prompt index",
@@ -46,11 +61,20 @@ const lines = [
 if (!entries.length) {
   lines.push("No published prompts yet. Add an entry under `prompts/` and mark it `status: published` after review.");
 } else {
+  let industry = "";
   let category = "";
   for (const entry of entries) {
+    if (entry.industry !== industry) {
+      industry = entry.industry;
+      category = "";
+      if (lines.at(-1) !== "") lines.push("");
+      lines.push(`## ${industryLabels[industry] ?? industry}`);
+      lines.push("");
+    }
     if (entry.category !== category) {
       category = entry.category;
-      lines.push(`## ${category}`);
+      if (lines.at(-1) !== "") lines.push("");
+      lines.push(`### ${category}`);
       lines.push("");
     }
     lines.push(`- [${entry.title ?? entry.slug}](../${entry.file}) — \`${entry.model}\``);

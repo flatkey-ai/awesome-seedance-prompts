@@ -1,6 +1,7 @@
 ---
 slug: seedance-market-research-creative-variant
 model: seedance-2.5
+industry: marketing-advertising
 category: commercial
 title:
   en: Market-research creative variants

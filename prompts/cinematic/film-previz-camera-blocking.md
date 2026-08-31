@@ -1,6 +1,7 @@
 ---
 slug: seedance-film-previz-camera-blocking
 model: seedance-2.5
+industry: media-entertainment
 category: cinematic
 title:
   en: Film previsualization camera blocking

@@ -1,6 +1,7 @@
 ---
 slug: seedance-creator-social-explainer-video
 model: seedance-2.5
+industry: creator-social
 category: pov-fpv
 title:
   en: Creator social explainer video

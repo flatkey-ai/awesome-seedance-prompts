@@ -3,10 +3,23 @@
   "$id": "https://github.com/flatkey-ai/awesome-seedance-prompts/schema/prompt.schema.json",
   "title": "Awesome Seedance Prompt",
   "type": "object",
-  "required": ["slug", "model", "category", "title", "source", "status", "prompt"],
+  "required": ["slug", "model", "industry", "category", "title", "source", "status", "prompt"],
   "properties": {
     "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
     "model": { "type": "string", "minLength": 1 },
+    "industry": {
+      "type": "string",
+      "enum": [
+        "automotive-mobility",
+        "creator-social",
+        "ecommerce-retail",
+        "education-training",
+        "gaming",
+        "marketing-advertising",
+        "media-entertainment",
+        "travel-hospitality"
+      ]
+    },
     "category": {
       "type": "string",
       "enum": ["action", "cinematic", "commercial", "pov-fpv", "reference-driven", "surreal-vfx", "character-consistency", "storyboard", "music-video", "transition"]
