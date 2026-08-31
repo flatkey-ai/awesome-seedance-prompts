@@ -1,0 +1,12 @@
+{
+  "name": "@flatkey-ai/awesome-seedance-prompts",
+  "private": true,
+  "description": "Curated Seedance video prompts and production-ready examples for Flatkey.",
+  "scripts": {
+    "validate": "node scripts/validate-prompts.mjs",
+    "build:readme": "node scripts/build-readme.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
