@@ -24,4 +24,4 @@ artifact:
   url: https://flatkey.ai/assets/seedance/prompt-high-speed-action.png
 ---
 
-Low rear-chase shot of a formula car at speed on a wet forest circuit, tyres throwing spray, misty treeline and grandstands behind, heavy motion blur on the surrounding track, overcast light, blue-grey and deep green palette, cinematic realism.
+Eight-second low rear-chase shot of a black-and-silver formula car on a wet forest circuit. The car exits a right-hand bend while both rear tires throw white spray; the camera follows at bumper height and keeps the rear wing centered. Pines and distant grandstands drift left-to-right through the mist, with motion blur limited to the track edges. Overcast sky gives a cool blue-grey light; end as the car straightens on the exit. No text or logos.

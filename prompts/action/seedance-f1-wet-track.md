@@ -26,4 +26,4 @@ artifact:
   duration: 18.4
 ---
 
-Black-and-silver F1 car tearing through a wet forest track, low rear follow-cam. Tires throw white rooster tails of spray; body trembles at speed. Misty pines and faint grandstands in background. Overcast, cool light. Blue-gray, mist-white, deep green tones. Rainy, fast, cinematic.
+Ten-second low rear follow shot of a black-and-silver formula car accelerating through a wet forest track. Keep the rear wing centered while the car exits a left bend; both tires throw white spray and the body vibrates over the surface. Misty pines and faint grandstands slide across the background. Use cool overcast light with blue-grey, mist-white, and deep-green tones. Finish when the car reaches the straight; no text or logos.

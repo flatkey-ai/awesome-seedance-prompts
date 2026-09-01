@@ -2,6 +2,8 @@
 
 按行业整理的 Seedance 视频提示词、镜头模式，以及 Flatkey 当前项目中的公开视频素材。
 
+已发布案例还会导出到 [`catalog/prompts.json`](catalog/prompts.json)。这是模型详情页和内部 Prompt Gallery 的统一接入格式，页面不需要自己解析 Markdown，也不会复制维护提示词内容。
+
 [English](README.md) · **简体中文**
 
 [![提示词](https://img.shields.io/badge/提示词-20%20条-111111)](docs/prompt-index.md)
@@ -19,6 +21,7 @@
 - [汽车与出行](docs/prompt-index.md#automotive--mobility)
 - [旅游与酒店](docs/prompt-index.md#travel--hospitality)
 - [完整视频素材清单](docs/video-assets.md)
+- [机器可读提示词目录](catalog/prompts.json)
 
 ## 已收录案例
 
@@ -69,6 +72,14 @@
 2. 打开对应 Markdown 文件，复制完整 Prompt。
 3. 替换主体、参考素材、时长和输出设置。
 4. 使用 [Flatkey CLI](https://github.com/flatkey-ai/flatkey-cli) 或兼容的 Seedance 工作流运行。
+
+本地生成索引和目录：
+
+```bash
+npm run validate
+npm run build:readme
+npm run build:catalog
+```
 
 仓库只保存提示词、来源和公开素材链接，不把大体积 MP4 或私有 staging 任务结果提交进 Git。没有找到原始 Prompt 的模型目录视频，会登记在[视频素材清单](docs/video-assets.md)中，但不会根据海报或文件名臆造 Prompt。
 

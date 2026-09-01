@@ -1,9 +1,9 @@
-name: Validate prompts
+name: Validate prompt library
 
 on:
-  pull_request:
   push:
     branches: [main]
+  pull_request:
 
 permissions:
   contents: read
@@ -12,19 +12,15 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Set up Node.js
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-
-      - name: Validate prompt entries
+          node-version: 22
+      - name: Validate prompts
         run: npm run validate
-
-      - name: Build prompt index
-        run: npm run build:readme
-
-      - name: Ensure generated index is committed
-        run: git diff --exit-code -- docs/prompt-index.md
+      - name: Build README index and catalog
+        run: npm run build:readme && npm run build:catalog
+      - name: Check generated files
+        run: git diff --exit-code -- docs/prompt-index.md catalog/prompts.json

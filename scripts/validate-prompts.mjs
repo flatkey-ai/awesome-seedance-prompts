@@ -94,6 +94,9 @@ for (const file of files) {
     if (!allowedStatuses.has(values.status)) errors.push(`${relative}: unsupported status ${values.status}`);
     if (!prompt) errors.push(`${relative}: prompt body is empty`);
     if (typeof values.title === "object" && !values.title.en) errors.push(`${relative}: title.en is required`);
+    if (values.description === undefined && values.summary === undefined) {
+      errors.push(`${relative}: add description (or legacy summary) for human-facing context`);
+    }
     if (typeof values.source === "object") {
       for (const field of ["label", "platform", "url", "license"]) {
         if (!values.source[field]) errors.push(`${relative}: source.${field} is required`);

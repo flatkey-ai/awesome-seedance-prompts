@@ -12,6 +12,8 @@ An industry-organized library of Seedance video prompts, shot patterns, and curr
 
 > This repository is content-first: every entry is reviewable Markdown with a prompt, industry, production category, source, and artifact link when a public result exists. It is not a runtime API or a dump of private staging outputs.
 
+The published entries are also exported to [`catalog/prompts.json`](catalog/prompts.json). This is the hand-off format for Flatkey model-detail pages and internal prompt galleries: a page can consume one stable JSON contract without parsing Markdown or duplicating the prompt text.
+
 ## Industry index
 
 The primary navigation is by the business context in which a clip will be used. Technical patterns remain in each entry's `category` field and in the generated index.
@@ -103,6 +105,7 @@ prompts/                 Prompt entries; industry is in frontmatter, folders kee
 docs/prompt-format.md    Authoring, industry, and attribution rules
 docs/prompt-index.md     Generated industry → category index
 docs/video-assets.md     Inventory of every committed or stable CDN video asset
+catalog/prompts.json     Generated machine-readable catalog for integrations
 schema/                  Machine-readable validation schema
 scripts/                 Validation and index-generation scripts
 ```
@@ -121,6 +124,7 @@ This repository intentionally has no runtime dependencies for its content checks
 ```bash
 npm run validate
 npm run build:readme
+npm run build:catalog
 ```
 
 The same commands run in GitHub Actions. A pull request must pass validation before it can be merged.

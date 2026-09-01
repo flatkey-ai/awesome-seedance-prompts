@@ -1,0 +1,690 @@
+{
+  "schemaVersion": "1.0",
+  "kind": "video-prompt-library",
+  "repository": "https://github.com/flatkey-ai/awesome-seedance-prompts",
+  "generatedFrom": "prompts/**/*.md",
+  "entries": [
+    {
+      "slug": "seedance-2-5-sports-car-wet-track",
+      "model": "seedance-2.5",
+      "industry": "automotive-mobility",
+      "category": "action",
+      "title": {
+        "en": "Cinematic sports car on a wet track",
+        "zh": "湿地赛道上的电影感跑车"
+      },
+      "description": {
+        "en": "The public Seedance 2.5 model-page starter prompt for a sports-car motion test."
+      },
+      "prompt": "Eight-second low three-quarter tracking shot of a red sports car accelerating along a wet test track. The camera holds the front wheel and headlamp in frame while moving parallel to the car; thin spray lifts from the tires and reflections slide across the hood. Use a large overcast sky as the key light with a narrow cool rim on the roofline. End on a steady three-quarter hero frame; no text or logos.",
+      "tags": [
+        "automotive",
+        "sports-car",
+        "camera-test"
+      ],
+      "source": {
+        "label": "Flatkey Seedance 2.5 model landing",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-2.5",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/action/seedance-2-5-sports-car-track.md"
+    },
+    {
+      "slug": "seedance-f1-wet-track",
+      "model": "seedance-2.5",
+      "industry": "automotive-mobility",
+      "category": "action",
+      "title": {
+        "en": "Formula car on a wet forest track",
+        "zh": "湿地森林赛道上的方程式赛车"
+      },
+      "description": {
+        "en": "A homepage Seedance demo with a low rear follow camera, spray, mist, and a restrained cool palette."
+      },
+      "prompt": "Ten-second low rear follow shot of a black-and-silver formula car accelerating through a wet forest track. Keep the rear wing centered while the car exits a left bend; both tires throw white spray and the body vibrates over the surface. Misty pines and faint grandstands slide across the background. Use cool overcast light with blue-grey, mist-white, and deep-green tones. Finish when the car reaches the straight; no text or logos.",
+      "tags": [
+        "automotive",
+        "motorsport",
+        "high-speed-action"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/model-examples/seedance-f1-wet-track.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/model-examples/seedance-f1-wet-track.png",
+        "duration": 18.4
+      },
+      "source": {
+        "label": "Flatkey homepage video intelligence demo",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/#video",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/action/seedance-f1-wet-track.md"
+    },
+    {
+      "slug": "seedance-formula-car-wet-forest-circuit",
+      "model": "seedance-2.5",
+      "industry": "automotive-mobility",
+      "category": "action",
+      "title": {
+        "en": "Formula car high-speed action",
+        "zh": "方程式赛车高速动作"
+      },
+      "description": {
+        "en": "The Seedance 2.5 static model page's high-speed action example, retained as a prompt-only entry."
+      },
+      "prompt": "Eight-second low rear-chase shot of a black-and-silver formula car on a wet forest circuit. The car exits a right-hand bend while both rear tires throw white spray; the camera follows at bumper height and keeps the rear wing centered. Pines and distant grandstands drift left-to-right through the mist, with motion blur limited to the track edges. Overcast sky gives a cool blue-grey light; end as the car straightens on the exit. No text or logos.",
+      "tags": [
+        "automotive",
+        "motorsport",
+        "rear-chase"
+      ],
+      "artifact": {
+        "kind": "image",
+        "url": "https://flatkey.ai/assets/seedance/prompt-high-speed-action.png"
+      },
+      "source": {
+        "label": "Flatkey Seedance 2.5 static model page",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-2.5",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/action/formula-car-wet-forest-circuit.md"
+    },
+    {
+      "slug": "minimax-h3-ugc-ad",
+      "model": "MiniMax-H3",
+      "industry": "creator-social",
+      "category": "pov-fpv",
+      "title": {
+        "en": "MiniMax H3 UGC ad clip",
+        "zh": "MiniMax H3 UGC 广告短片"
+      },
+      "description": {
+        "en": "A vertical creator clip with a simple product demonstration and room for an audio track."
+      },
+      "prompt": "Eight-second vertical UGC-style clip: a creator lifts a compact coffee maker, points to the front control, then smiles to camera; handheld but stable, natural window light, leave the spoken words to the audio track.",
+      "tags": [
+        "minimax-h3",
+        "ugc",
+        "social-video"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/ugc-ad-clips.mp4",
+        "poster": "https://flatkey.ai/assets/cli/ugc-ad-clips.png",
+        "ratio": "9:16"
+      },
+      "source": {
+        "label": "Flatkey MiniMax-H3 model landing prompt guide",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/minimax-h3#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/pov-fpv/minimax-h3-ugc-ad.md"
+    },
+    {
+      "slug": "seedance-creator-social-explainer-video",
+      "model": "seedance-2.5",
+      "industry": "creator-social",
+      "category": "pov-fpv",
+      "title": {
+        "en": "Creator social explainer video",
+        "zh": "创作者社交平台讲解视频"
+      },
+      "description": {
+        "en": "A vertical creator explainer with a talking-head setup, product close-up, and clean caption space."
+      },
+      "prompt": "Create a 4:5 creator explainer about a compact microphone for an independent video maker. Begin with a talking-head medium shot, cut to a close-up of the cable connection, then return to the same framing for a practical tip. Keep the speaker, microphone, and room layout consistent; leave clean caption space and avoid readable brand text.",
+      "tags": [
+        "creator",
+        "social-video",
+        "product"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/storyboard-motion.mp4",
+        "poster": "https://flatkey.ai/assets/cli/storyboard-motion.png",
+        "duration": 8,
+        "ratio": "4:5"
+      },
+      "source": {
+        "label": "Flatkey Seedance model detail prompt pack",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-2.5#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/pov-fpv/creator-social-explainer-video.md"
+    },
+    {
+      "slug": "minimax-h3-product-motion",
+      "model": "MiniMax-H3",
+      "industry": "ecommerce-retail",
+      "category": "commercial",
+      "title": {
+        "en": "MiniMax H3 product motion",
+        "zh": "MiniMax H3 产品动态"
+      },
+      "description": {
+        "en": "A short retail product turntable with one motivated push-in and a steady hero frame."
+      },
+      "prompt": "Six-second product shot: a matte black bottle rotates slowly on a wet stone pedestal, one controlled push-in, small water highlights, uncluttered background, end on a steady hero frame.",
+      "tags": [
+        "minimax-h3",
+        "product",
+        "retail"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/product-reveal.mp4",
+        "poster": "https://flatkey.ai/assets/cli/product-reveal.png",
+        "ratio": "16:9"
+      },
+      "source": {
+        "label": "Flatkey MiniMax-H3 model landing prompt guide",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/minimax-h3#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/commercial/minimax-h3-product-motion.md"
+    },
+    {
+      "slug": "seedance-ecommerce-ugc-product-video",
+      "model": "seedance-2.5",
+      "industry": "ecommerce-retail",
+      "category": "commercial",
+      "title": {
+        "en": "E-commerce UGC product video",
+        "zh": "电商 UGC 产品视频"
+      },
+      "description": {
+        "en": "A short creator-style product workflow with consistent object identity and post-production caption space."
+      },
+      "prompt": "Create a 9:16 e-commerce UGC video for a reusable travel bottle. Show an adult creator opening the package, filling the bottle, and placing it in a tote bag. Keep the bottle shape and lid color consistent, use a small apartment kitchen, leave space for Portuguese captions added in post, and do not invent logos or readable label text.",
+      "tags": [
+        "commercial",
+        "ugc",
+        "product"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/localized-variants.mp4",
+        "poster": "https://flatkey.ai/assets/cli/localized-variants.png",
+        "duration": 9,
+        "ratio": "9:16"
+      },
+      "source": {
+        "label": "Flatkey Seedance model detail prompt pack",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-2.5#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": true,
+      "captured_at": "2026-08-31",
+      "file": "prompts/commercial/ecommerce-ugc-product-video.md"
+    },
+    {
+      "slug": "seedance-image-to-video-product-scene",
+      "model": "seedance-2.5",
+      "industry": "ecommerce-retail",
+      "category": "reference-driven",
+      "title": {
+        "en": "Image-to-video product scene",
+        "zh": "图生视频产品场景"
+      },
+      "description": {
+        "en": "A product-motion prompt that locks the supplied still while adding subtle parallax and commercial light."
+      },
+      "prompt": "Create an eight-second image-to-video product scene from the provided still. Lock the product silhouette, color, label placement, and surface texture. Push the camera forward 10% while the background shifts with subtle parallax; keep one soft key light and one narrow rim light fixed to the original direction. Reflections should move only with the camera. Leave the product readable throughout and add no text, logos, flicker, identity drift, or handheld shake.",
+      "tags": [
+        "image-to-video",
+        "product",
+        "parallax"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/video/v1.1.mp4",
+        "poster": "https://flatkey.ai/assets/video/v1.1.jpg",
+        "ratio": "16:9"
+      },
+      "source": {
+        "label": "Flatkey video prompt library",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/cli/video",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/commercial/image-to-video-product-scene.md"
+    },
+    {
+      "slug": "seedance-game-cinematic-reference-shot",
+      "model": "seedance-2.5",
+      "industry": "gaming",
+      "category": "reference-driven",
+      "title": {
+        "en": "Game cinematic reference shot",
+        "zh": "游戏电影感参考镜头"
+      },
+      "description": {
+        "en": "An image-to-video style prompt that preserves subject silhouettes, geometry, and camera direction."
+      },
+      "prompt": "Animate a game-cinematic reference board into an 8-second shot: a masked pilot walks across a hangar while a grounded shuttle powers up behind them. Preserve the pilot silhouette, helmet markings, shuttle geometry, and camera-left-to-right movement; use practical hangar lights and restrained smoke, with no new text or logos.",
+      "tags": [
+        "reference-driven",
+        "game-cinematic",
+        "continuity"
+      ],
+      "artifact": {
+        "kind": "image",
+        "url": "https://flatkey.ai/assets/cli/campaign-hero.png",
+        "ratio": "16:9"
+      },
+      "source": {
+        "label": "Flatkey Seedance model detail prompt pack",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-2.5#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": true,
+      "captured_at": "2026-08-31",
+      "file": "prompts/reference-driven/game-cinematic-reference-shot.md"
+    },
+    {
+      "slug": "seedance-cinematic-product-reveal-video",
+      "model": "seedance-2.0",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Cinematic product reveal",
+        "zh": "电影感产品揭幕视频"
+      },
+      "description": {
+        "en": "A single-shot product reveal with a controlled push-in and reflections that stay under control."
+      },
+      "prompt": "Eight-second one-take product reveal on a glossy black tabletop. Start with the product centered in a medium-wide frame, then push in slowly until the cap and front surface fill the middle third. Keep the product sharp while two softbox reflections travel along the side; finish on a one-second steady hero frame. No floating text, invented logos, or extra objects.",
+      "tags": [
+        "product",
+        "reveal",
+        "one-take"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/product-reveal.mp4",
+        "poster": "https://flatkey.ai/assets/cli/product-reveal.png",
+        "ratio": "16:9"
+      },
+      "source": {
+        "label": "flatkey-ai/flatkey-cli prompt library",
+        "platform": "GitHub",
+        "url": "https://github.com/flatkey-ai/flatkey-cli",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/commercial/cinematic-product-reveal-video.md"
+    },
+    {
+      "slug": "seedance-text-to-video-cinematic-test",
+      "model": "veo-3.1-fast-generate-preview",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Text-to-video cinematic product test",
+        "zh": "文生视频电影感产品测试"
+      },
+      "description": {
+        "en": "A text-only product reveal test with a slow dolly-in, rim light, and a stable hero endpoint."
+      },
+      "prompt": "Generate an eight-second product reveal from text only in one continuous shot. Start on a locked medium-wide view of the product on a dark tabletop, then dolly forward until the front label fills the center of frame. A warm key from camera-left and a narrow cool rim on camera-right define the edges; reflections move with the camera and the background stays still. Hold the final close hero frame for one second. Add no captions, watermarks, extra logos, or scene changes.",
+      "tags": [
+        "text-to-video",
+        "product",
+        "cinematic"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/video/v1.3.mp4",
+        "poster": "https://flatkey.ai/assets/video/v1.3.jpg",
+        "ratio": "16:9"
+      },
+      "source": {
+        "label": "Flatkey video prompt library",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/cli/video",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/cinematic/text-to-video-cinematic-test.md"
+    },
+    {
+      "slug": "seedance-localized-market-product-variant-video",
+      "model": "seedance-2.0",
+      "industry": "marketing-advertising",
+      "category": "commercial",
+      "title": {
+        "en": "Localized product launch variant",
+        "zh": "产品发布本地化视频变体"
+      },
+      "description": {
+        "en": "A market-localized launch clip that keeps product identity stable and leaves captions for post."
+      },
+      "prompt": "Create a short localized market variant video for a product launch. Use bright everyday lifestyle framing, culturally neutral props, a clear product-in-use moment, warm natural light, and space for localized captions added later. Keep the product consistent, no readable text, no brand logos.",
+      "tags": [
+        "localization",
+        "product-launch",
+        "market-variants"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/localized-variants.mp4",
+        "poster": "https://flatkey.ai/assets/cli/localized-variants.png",
+        "ratio": "9:16"
+      },
+      "source": {
+        "label": "flatkey-ai/flatkey-cli prompt library",
+        "platform": "GitHub",
+        "url": "https://github.com/flatkey-ai/flatkey-cli",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/commercial/localized-market-product-variant-video.md"
+    },
+    {
+      "slug": "seedance-market-research-creative-variant",
+      "model": "seedance-2.5",
+      "industry": "marketing-advertising",
+      "category": "commercial",
+      "title": {
+        "en": "Market-research creative variants",
+        "zh": "市场研究创意变体"
+      },
+      "description": {
+        "en": "Three controlled creative variants that change setting and opening action while preserving product identity."
+      },
+      "prompt": "Create three short, clearly distinct creative variants for a market-research test of a sunscreen product: beach morning, city commute, and family picnic. Keep the same bottle proportions and cap, change only setting and opening action, use neutral props, and leave all claims and captions for post-production. Do not add medical promises or invented labels.",
+      "tags": [
+        "commercial",
+        "creative-testing",
+        "product-consistency"
+      ],
+      "artifact": {
+        "kind": "image",
+        "url": "https://flatkey.ai/assets/cli/thumbnail-test-set.png",
+        "ratio": "16:9"
+      },
+      "source": {
+        "label": "Flatkey Seedance model detail prompt pack",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-2.5#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/commercial/market-research-creative-variant.md"
+    },
+    {
+      "slug": "seedance-ugc-paid-social-product-clip",
+      "model": "seedance-2.0",
+      "industry": "marketing-advertising",
+      "category": "commercial",
+      "title": {
+        "en": "9:16 UGC product ad clip",
+        "zh": "9:16 UGC 产品广告短片"
+      },
+      "description": {
+        "en": "A paid-social product clip with a handheld pickup, use moment, and clean benefit reveal."
+      },
+      "prompt": "Create a 9:16 UGC-style paid social video for a compact consumer product. Start with a handheld first-person product pickup, cut to a close product use moment, then a clean benefit reveal. Natural indoor daylight, casual creator framing, no readable text, no logos, edit-ready pacing.",
+      "tags": [
+        "paid-social",
+        "ugc",
+        "product"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/ugc-ad-clips.mp4",
+        "poster": "https://flatkey.ai/assets/cli/ugc-ad-clips.png",
+        "ratio": "9:16"
+      },
+      "source": {
+        "label": "flatkey-ai/flatkey-cli prompt library",
+        "platform": "GitHub",
+        "url": "https://github.com/flatkey-ai/flatkey-cli",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/commercial/ugc-paid-social-product-clip.md"
+    },
+    {
+      "slug": "seedance-character-reference-motion-clip",
+      "model": "seedance-2.5",
+      "industry": "media-entertainment",
+      "category": "character-consistency",
+      "title": {
+        "en": "Character reference motion clip",
+        "zh": "角色参考动作短片"
+      },
+      "description": {
+        "en": "A reference-led character gesture that preserves face, wardrobe, silhouette, and palette."
+      },
+      "prompt": "Create a short character motion clip from a reference image. Preserve face, outfit, silhouette, and color palette. Add a simple natural gesture, soft environmental movement, stable camera, and warm practical light. No readable text, no extra characters, no identity morphing.",
+      "tags": [
+        "image-to-video",
+        "character",
+        "identity-lock"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/video/v1.2.mp4",
+        "poster": "https://flatkey.ai/assets/video/v1.2.jpg",
+        "ratio": "9:16"
+      },
+      "source": {
+        "label": "Flatkey video prompt library",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/cli/video",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/character-consistency/character-reference-motion-clip.md"
+    },
+    {
+      "slug": "minimax-h3-paper-boat-rain-puddle",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Paper boat in a rain puddle",
+        "zh": "雨水坑中的纸船"
+      },
+      "description": {
+        "en": "The MiniMax H3 model-page starter prompt for a quiet macro motion test."
+      },
+      "prompt": "Six-second street-level macro shot of a paper boat crossing a shallow rain puddle. Start beside the bow, then track with the boat as raindrops make concentric rings and amber shop lights reflect on the water. Keep the paper folds readable and the boat moving left-to-right; end when it reaches a small curb. No text or logos.",
+      "tags": [
+        "macro",
+        "rain",
+        "atmosphere"
+      ],
+      "source": {
+        "label": "Flatkey MiniMax-H3 model landing",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/minimax-h3",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/cinematic/minimax-paper-boat-rain-puddle.md"
+    },
+    {
+      "slug": "seedance-film-previz-camera-blocking",
+      "model": "seedance-2.5",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Film previsualization camera blocking",
+        "zh": "电影预演镜头调度"
+      },
+      "description": {
+        "en": "A twelve-second observatory entrance shot that keeps screen direction and a warm-to-cool light transition coherent."
+      },
+      "prompt": "Create a 12-second film previsualization of a detective entering an empty observatory at dawn. Start with a wide establishing view, track behind the character, then pan to the telescope and hold on the doorway. Keep screen direction, blocking, and the warm-to-cool light transition consistent; no dialogue text or logos.",
+      "tags": [
+        "cinematic",
+        "camera-movement",
+        "previz"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/product-reveal.mp4",
+        "poster": "https://flatkey.ai/assets/cli/product-reveal.png",
+        "duration": 12,
+        "ratio": "16:9"
+      },
+      "source": {
+        "label": "Flatkey Seedance model detail prompt pack",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-2.5#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": true,
+      "captured_at": "2026-08-31",
+      "file": "prompts/cinematic/film-previz-camera-blocking.md"
+    },
+    {
+      "slug": "minimax-h3-storyboard-shot",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "storyboard",
+      "title": {
+        "en": "MiniMax H3 storyboard establishing shot",
+        "zh": "MiniMax H3 分镜建立镜头"
+      },
+      "description": {
+        "en": "A wide establishing shot that follows a courier and resolves on a centered station entrance."
+      },
+      "prompt": "Ten-second wide establishing shot: a courier crosses a rain-soaked plaza toward a lit station, a slow lateral camera move follows, reflections remain consistent, finish with the subject centered under the sign.",
+      "tags": [
+        "minimax-h3",
+        "storyboard",
+        "establishing-shot"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/localized-variants.mp4",
+        "poster": "https://flatkey.ai/assets/cli/localized-variants.png",
+        "ratio": "16:9"
+      },
+      "source": {
+        "label": "Flatkey MiniMax-H3 model landing prompt guide",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/minimax-h3#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/storyboard/minimax-h3-storyboard-shot.md"
+    },
+    {
+      "slug": "seedance-micro-drama-storyboard",
+      "model": "seedance-2.5",
+      "industry": "media-entertainment",
+      "category": "storyboard",
+      "title": {
+        "en": "Micro-drama storyboard",
+        "zh": "微短剧分镜"
+      },
+      "description": {
+        "en": "A three-beat rainy-station storyboard with locked character and prop continuity."
+      },
+      "prompt": "Create a 9:16 micro-drama storyboard from a three-beat comic script: a courier notices a torn envelope, follows a red umbrella through a crowded station, and stops at a silent platform. Keep the same two characters, wardrobe, props, and rainy evening light across the beats; use clear eyelines and no readable text.",
+      "tags": [
+        "micro-drama",
+        "storyboard",
+        "character-consistency"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://flatkey.ai/assets/cli/ugc-ad-clips.mp4",
+        "poster": "https://flatkey.ai/assets/cli/ugc-ad-clips.png",
+        "duration": 9,
+        "ratio": "9:16"
+      },
+      "source": {
+        "label": "Flatkey Seedance model detail prompt pack",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-2.5#prompt-library",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": true,
+      "captured_at": "2026-08-31",
+      "file": "prompts/storyboard/micro-drama-storyboard.md"
+    },
+    {
+      "slug": "seedance-2-0-tokyo-drone-night",
+      "model": "seedance-2.0",
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "title": {
+        "en": "Neon Tokyo drone pass",
+        "zh": "东京霓虹街道航拍掠过"
+      },
+      "description": {
+        "en": "The Seedance 2.0 model-page starter prompt for a short city-at-night establishing shot."
+      },
+      "prompt": "Five-second aerial pass above a neon-lit Tokyo side street at night. Begin 20 meters above the intersection, move forward along the street, and descend slightly toward a red pedestrian crossing. Rain wets the asphalt and mirrors cyan and magenta signs; keep the traffic flow below continuous and readable. End above the crossing with the street vanishing point centered. No new text or logos.",
+      "tags": [
+        "cityscape",
+        "drone",
+        "night"
+      ],
+      "source": {
+        "label": "Flatkey Seedance 2.0 model landing",
+        "platform": "Flatkey",
+        "url": "https://flatkey.ai/models/seedance-api",
+        "license": "Flatkey-owned"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-08-31",
+      "file": "prompts/cinematic/seedance-2-0-tokyo-drone.md"
+    }
+  ]
+}

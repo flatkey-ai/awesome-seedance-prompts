@@ -26,6 +26,7 @@
     },
     "title": { "type": "object", "required": ["en"], "additionalProperties": { "type": "string" } },
     "summary": { "type": "object", "additionalProperties": { "type": "string" } },
+    "description": { "type": "object", "additionalProperties": { "type": "string" } },
     "tags": { "type": "array", "items": { "type": "string" } },
     "source": {
       "type": "object",

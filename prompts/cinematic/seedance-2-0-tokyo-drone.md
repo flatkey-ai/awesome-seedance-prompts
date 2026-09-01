@@ -21,4 +21,4 @@ captured_at: 2026-08-31
 status: published
 ---
 
-A cinematic drone shot flying over a neon-lit Tokyo street at night, rain reflections, 5 seconds.
+Five-second aerial pass above a neon-lit Tokyo side street at night. Begin 20 meters above the intersection, move forward along the street, and descend slightly toward a red pedestrian crossing. Rain wets the asphalt and mirrors cyan and magenta signs; keep the traffic flow below continuous and readable. End above the crossing with the street vanishing point centered. No new text or logos.

@@ -26,4 +26,4 @@ artifact:
   ratio: "16:9"
 ---
 
-8 second cinematic product reveal, glossy black background, controlled reflections, slow camera push-in, product remains sharp and centered, no floating text, one continuous shot.
+Eight-second one-take product reveal on a glossy black tabletop. Start with the product centered in a medium-wide frame, then push in slowly until the cap and front surface fill the middle third. Keep the product sharp while two softbox reflections travel along the side; finish on a one-second steady hero frame. No floating text, invented logos, or extra objects.
