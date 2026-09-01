@@ -26,4 +26,4 @@ artifact:
   ratio: "16:9"
 ---
 
-Create a polished image-to-video product scene from a provided still. Keep the product identity locked, use a slow camera push with subtle parallax, controlled reflections, and clean commercial lighting. Avoid text, logos, flicker, identity drift, and unnecessary camera shake.
+Create an eight-second image-to-video product scene from the provided still. Lock the product silhouette, color, label placement, and surface texture. Push the camera forward 10% while the background shifts with subtle parallax; keep one soft key light and one narrow rim light fixed to the original direction. Reflections should move only with the camera. Leave the product readable throughout and add no text, logos, flicker, identity drift, or handheld shake.

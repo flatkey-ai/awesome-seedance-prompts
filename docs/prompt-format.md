@@ -19,7 +19,7 @@ source:
 status: draft
 ```
 
-The Markdown body after the closing `---` is the complete prompt text.
+The Markdown body after the closing `---` is the complete model-facing prompt text. Use `description` for the human-facing explanation when the entry needs more context; `summary` remains supported for backwards compatibility and is exported as `description` in the catalog.
 
 ## Artifact metadata
 
@@ -70,3 +70,7 @@ When a prompt could serve several industries, choose the primary buyer or publis
 ## Attribution and licensing
 
 Every third-party entry must retain the original creator and source URL. Licensing is evaluated per entry; a public URL alone is not proof that media may be redistributed. Use a repository-owned asset only when the project has the right to publish it.
+
+## Integration catalog
+
+Run `npm run build:catalog` to generate [`catalog/prompts.json`](../catalog/prompts.json). The catalog includes only `status: published` entries and exposes the same fields for every case: `slug`, `model`, `industry`, `category`, localized `title` and `description`, `prompt`, `tags`, `artifact`, `source`, `status`, and the originating Markdown `file`. Consumers should filter by `industry` and `category`, display `description`, and copy `prompt` without maintaining a second prompt list.

@@ -21,4 +21,4 @@ captured_at: 2026-08-31
 status: published
 ---
 
-A paper boat crosses a rain puddle at street level, cinematic macro shot, soft reflections, 6 seconds.
+Six-second street-level macro shot of a paper boat crossing a shallow rain puddle. Start beside the bow, then track with the boat as raindrops make concentric rings and amber shop lights reflect on the water. Keep the paper folds readable and the boat moving left-to-right; end when it reaches a small curb. No text or logos.

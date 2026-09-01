@@ -21,4 +21,4 @@ captured_at: 2026-08-31
 status: published
 ---
 
-A cinematic product shot of a sports car on a wet track, soft studio lighting, high detail.
+Eight-second low three-quarter tracking shot of a red sports car accelerating along a wet test track. The camera holds the front wheel and headlamp in frame while moving parallel to the car; thin spray lifts from the tires and reflections slide across the hood. Use a large overcast sky as the key light with a narrow cool rim on the roofline. End on a steady three-quarter hero frame; no text or logos.

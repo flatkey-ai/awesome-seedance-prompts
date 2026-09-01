@@ -5,6 +5,8 @@ industry: marketing-advertising
 category: commercial
 title:
   en: Replace with a title
+description:
+  en: One sentence for a human reader describing the production use case.
 source:
   label: "@creator-or-project"
   platform: Web

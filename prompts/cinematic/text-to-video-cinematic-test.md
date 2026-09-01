@@ -26,4 +26,4 @@ artifact:
   ratio: "16:9"
 ---
 
-Generate a clean cinematic product reveal from text only. One continuous shot, product centered, slow dolly-in, soft rim light, realistic reflections, shallow depth of field, edit-ready pacing. Avoid floating captions, watermarks, extra logos, and sudden scene changes.
+Generate an eight-second product reveal from text only in one continuous shot. Start on a locked medium-wide view of the product on a dark tabletop, then dolly forward until the front label fills the center of frame. A warm key from camera-left and a narrow cool rim on camera-right define the edges; reflections move with the camera and the background stays still. Hold the final close hero frame for one second. Add no captions, watermarks, extra logos, or scene changes.

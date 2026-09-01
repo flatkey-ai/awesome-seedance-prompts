@@ -4,7 +4,8 @@
   "description": "Curated Seedance video prompts and production-ready examples for Flatkey.",
   "scripts": {
     "validate": "node scripts/validate-prompts.mjs",
-    "build:readme": "node scripts/build-readme.mjs"
+    "build:readme": "node scripts/build-readme.mjs",
+    "build:catalog": "node scripts/build-catalog.mjs"
   },
   "engines": {
     "node": ">=20"
