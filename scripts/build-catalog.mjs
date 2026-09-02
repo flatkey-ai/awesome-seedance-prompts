@@ -4,6 +4,10 @@ import path from "node:path";
 const root = process.cwd();
 const promptsRoot = path.join(root, "prompts");
 const output = path.join(root, "catalog", "prompts.json");
+const modelDetailCatalogPath = path.join(root, "catalog", "model-detail-assets.json");
+const modelDetailCatalog = fs.existsSync(modelDetailCatalogPath)
+  ? JSON.parse(fs.readFileSync(modelDetailCatalogPath, "utf8"))
+  : { entries: [] };
 
 function parseScalar(value) {
   const trimmed = value.trim();
@@ -66,7 +70,8 @@ function parseEntry(file) {
   };
 }
 
-const entries = markdownFiles(promptsRoot)
+const entries = [
+  ...markdownFiles(promptsRoot)
   .map(parseEntry)
   .filter((entry) => entry.status === "published")
   .sort((a, b) =>
@@ -89,13 +94,18 @@ const entries = markdownFiles(promptsRoot)
     featured: entry.featured ?? false,
     captured_at: entry.captured_at,
     file: entry.file
-  }));
+  })),
+  ...modelDetailCatalog.entries.map((entry) => ({
+    ...entry,
+    file: "catalog/model-detail-assets.json"
+  }))
+];
 
 const catalog = {
   schemaVersion: "1.0",
   kind: "video-prompt-library",
   repository: "https://github.com/flatkey-ai/awesome-seedance-prompts",
-  generatedFrom: "prompts/**/*.md",
+  generatedFrom: "prompts/**/*.md + catalog/model-detail-assets.json",
   entries
 };
 
