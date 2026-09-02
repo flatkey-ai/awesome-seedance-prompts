@@ -4,6 +4,10 @@ import path from "node:path";
 const root = process.cwd();
 const promptsRoot = path.join(root, "prompts");
 const output = path.join(root, "docs", "prompt-index.md");
+const modelDetailCatalogPath = path.join(root, "catalog", "model-detail-assets.json");
+const modelDetailCatalog = fs.existsSync(modelDetailCatalogPath)
+  ? JSON.parse(fs.readFileSync(modelDetailCatalogPath, "utf8"))
+  : { entries: [] };
 
 const industryLabels = {
   "automotive-mobility": "Automotive & Mobility",
@@ -54,7 +58,8 @@ entries.sort((a, b) =>
 const lines = [
   "# Prompt index",
   "",
-  `Published entries: **${entries.length}**`,
+  `Published entries: **${entries.length + modelDetailCatalog.entries.length}**`,
+  `Model-detail assets: **${modelDetailCatalog.entries.length}** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))`,
   "",
 ];
 
@@ -78,6 +83,13 @@ if (!entries.length) {
       lines.push("");
     }
     lines.push(`- [${entry.title ?? entry.slug}](../${entry.file}) — \`${entry.model}\``);
+  }
+}
+
+if (modelDetailCatalog.entries.length) {
+  lines.push("", "## Model-detail assets", "", "These entries mirror the reviewed media and prompts shown on Flatkey model-detail pages. The external CDN remains the canonical media store.", "");
+  for (const entry of modelDetailCatalog.entries) {
+    lines.push(`- [${entry.title?.en ?? entry.slug}](../catalog/model-detail-assets.json) — \`${entry.model}\``);
   }
 }
 
