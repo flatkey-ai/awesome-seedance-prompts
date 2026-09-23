@@ -102,6 +102,45 @@
       "file": "prompts/action/formula-car-wet-forest-circuit.md"
     },
     {
+      "slug": "goku-seedance-2-0-parrot-fakes-sleep-with-phone",
+      "model": "seedance-2.0",
+      "industry": "creator-social",
+      "category": "pov-fpv",
+      "title": {
+        "en": "Parrot Fakes Sleep with a Phone"
+      },
+      "description": {
+        "en": "A lovebird hides its glowing phone and pretends to sleep when its owner approaches."
+      },
+      "prompt": "A cinematic 8K live-action style video. A dimly lit bedroom late at night. With an extremely shallow depth of field (F1.2), only the parrot in the foreground is perfectly in focus, while the background is heavily blurred. No UI or text appears on screen. The protagonist is a small peach-faced lovebird with pale blue feathers, a white face, and vivid pink round cheek patches. It is nestled under a thick white quilt with a leaf pattern. The parrot extends its left foot from under the quilt, using its tiny claws to swipe at the glowing smartphone screen placed in front of it. The phone's light casts a pale blue glow on its face. Suddenly, sensing approaching footsteps, the parrot freezes instantly. Its eyes widen in alertness. The parrot quickly shoves the phone deep between its body and the quilt, completely hiding the light, then closes its eyes tightly and sinks deeply into the quilt, perfectly feigning sleep. Immediately after, in the heavily blurred background area, a wooden door opens, letting in warm orange light from the hallway. The silhouette of the owner, heavily blurred and unrecognizable, peers into the room. The parrot in the foreground remains perfectly in focus, motionless and holding its breath.",
+      "tags": [
+        "parrot",
+        "comedy",
+        "shallow-depth-of-field",
+        "vertical-video"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/parrot-fakes-sleep-with-phone.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/parrot-fakes-sleep-with-phone-poster.jpg",
+        "duration": 10.08,
+        "ratio": "9:16",
+        "resolution": "720x1280"
+      },
+      "source": {
+        "label": "@genel_ai via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/genel_ai/status/2043296619190493381",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00274"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-09-23",
+      "file": "prompts/pov-fpv/parrot-fakes-sleep-with-phone.md"
+    },
+    {
       "slug": "minimax-h3-ugc-ad",
       "model": "MiniMax-H3",
       "industry": "creator-social",
@@ -383,6 +422,45 @@
       "file": "prompts/cinematic/text-to-video-cinematic-test.md"
     },
     {
+      "slug": "goku-seedance-2-0-lava-forged-skeleton-watch-macro",
+      "model": "seedance-2.0",
+      "industry": "marketing-advertising",
+      "category": "commercial",
+      "title": {
+        "en": "Lava-Forged Skeleton Watch Macro"
+      },
+      "description": {
+        "en": "A close-range product orbit reveals a skeleton watch glowing above volcanic fissures."
+      },
+      "prompt": "A high-end skeleton mechanical watch with a brushed titanium case and finely woven metal strap rests embedded within cracked volcanic rock, glowing rivers of molten lava flowing beneath and around it, casting an intense fiery orange illumination that radiates through the exposed inner mechanics of the dial. The scene opens in an ultra-tight macro shot, the camera positioned low and close, slowly tracking laterally along the lava fissure without any zoom-out, maintaining a compressed, intimate perspective as molten liquid pulses and flows beneath the watch, creating dynamic reflections that flicker across the sapphire crystal and polished metal edges. Heat distortion subtly warps the air above the lava, producing a realistic shimmer that bends light around the watch, while tiny sparks and embers rise slowly into the dark background, drifting with natural randomness. The camera transitions into a controlled micro-orbit at extremely close range, revealing the intricate movement of gears and complications inside the skeleton dial, with specular highlights gliding across brushed surfaces, beveled edges, and rotating components. The orange glow intensifies and fades rhythmically as the lava shifts, casting animated shadows through the internal structure of the watch, emphasizing depth and engineering precision. The strap shows slight thermal tension with minimal, believable movement, while surrounding rocks crack faintly, releasing subtle glowing fragments. A soft cinematic contrast between deep blacks and molten highlights enhances the premium, aggressive aesthetic. The sequence ends in a locked, razor-sharp hero close-up, centered on the watch face, with the lava’s glow breathing beneath it, embers floating in slow motion, and the entire composition radiating power, heat, and ultra-luxury craftsmanship.",
+      "tags": [
+        "product",
+        "macro",
+        "watch",
+        "lava"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/lava-forged-skeleton-watch-macro.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/lava-forged-skeleton-watch-macro-poster.jpg",
+        "duration": 8.13,
+        "ratio": "4:3",
+        "resolution": "1112x834"
+      },
+      "source": {
+        "label": "@chatgptpaglu via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/chatgptpaglu/status/2046243699068137896",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00055"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-09-23",
+      "file": "prompts/commercial/lava-forged-skeleton-watch-macro.md"
+    },
+    {
       "slug": "seedance-localized-market-product-variant-video",
       "model": "seedance-2.0",
       "industry": "marketing-advertising",
@@ -522,6 +600,84 @@
       "file": "prompts/character-consistency/character-reference-motion-clip.md"
     },
     {
+      "slug": "goku-seedance-2-0-impossible-ocean-trench-shot",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Impossible Ocean Trench Ascent"
+      },
+      "description": {
+        "en": "One continuous camera move rises from a bioluminescent trench through clouds to orbit."
+      },
+      "prompt": "A single continuous impossible camera shot begins deep underwater in a vast ocean trench — bioluminescent creatures drift past in the darkness. The camera accelerates upward at speed, bursting through the ocean surface in a wall of spray and light, then continues rising.",
+      "tags": [
+        "ocean",
+        "one-take",
+        "transition",
+        "space"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/impossible-ocean-trench-shot.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/impossible-ocean-trench-shot-poster.jpg",
+        "duration": 10.08,
+        "ratio": "16:9",
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@HBCoop_ via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/HBCoop_/status/2045519011614437518",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00128"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-09-23",
+      "file": "prompts/cinematic/impossible-ocean-trench-shot.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-surfer-riding-ocean-barrel",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Surfer Riding a Massive Ocean Barrel"
+      },
+      "description": {
+        "en": "A water-level tracking shot follows a surfer through a sunlit teal wave barrel."
+      },
+      "prompt": "A cinematic slow-motion shot of a surfer riding inside a massive hollow ocean wave (barrel), smooth tracking camera at water level following alongside the surfer, the wave curls overhead forming a perfect tunnel, detailed water textures, splashes and mist particles, teal and deep blue color grading, high contrast, natural sunlight filtering through the wave, ultra-realistic, 4K, sharp focus on surfer, dynamic motion, dramatic lighting, ocean spray, cinematic composition, smooth tracking shot, slight handheld shake for realism, slow motion (0.5x), shallow depth of field, 35mm cinematic lens, natural motion blur, high dynamic range, volumetric light through wave.",
+      "tags": [
+        "surfing",
+        "ocean",
+        "tracking-shot",
+        "slow-motion"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/surfer-riding-ocean-barrel.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/surfer-riding-ocean-barrel-poster.jpg",
+        "duration": 8.13,
+        "ratio": "16:9",
+        "resolution": "1920x1072"
+      },
+      "source": {
+        "label": "@auqibhabib via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/auqibhabib/status/2045921058491072648",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00090"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-09-23",
+      "file": "prompts/cinematic/surfer-riding-ocean-barrel.md"
+    },
+    {
       "slug": "minimax-h3-paper-boat-rain-puddle",
       "model": "MiniMax-H3",
       "industry": "media-entertainment",
@@ -585,6 +741,45 @@
       "featured": true,
       "captured_at": "2026-08-31",
       "file": "prompts/cinematic/film-previz-camera-blocking.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-ant-sprint-construction-site-escape",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "pov-fpv",
+      "title": {
+        "en": "Ant Sprint Through a Construction Site"
+      },
+      "description": {
+        "en": "A macro ground-level camera races beside an ant dodging debris and giant work boots."
+      },
+      "prompt": "{ \"shot\": { \"composition\": \"POV ant extremely low to ground with terrain-scale distortion\", \"lens\": \"macro ground lens with deep depth exaggeration\", \"camera_movement\": \"fast ground sprint, vertical climb, sudden drops, obstacle weaving\" }, \"subject\": { \"description\": \"ant running at extreme speed across construction site at insect scale\", \"props\": \"rocks, tools, boots, debris\" }, \"scene\": { \"location\": \"construction site\", \"time_of_day\": \"day\", \"environment\": \"dust, vibrations, massive moving objects\" }, \"visual_details\": { \"action\": \"ant sprints across ground, climbs massive object, dodges falling debris, avoids human foot impact\", \"special_effects\": \"dust particles, vibration ripples, motion blur\", \"hair_clothing_motion\": \"micro hair vibration\" }, \"cinematography\": { \"lighting\": \"harsh daylight\", \"color_palette\": \"dust brown, steel gray, bright light\", \"tone\": \"intense, survival, micro-epic\" }, \"audio\": { \"music\": \"tense rhythmic pulse\", \"ambient\": \"heavy machinery rumble\", \"sound_effects\": \"ground impacts, debris hits\", \"mix_level\": \"vibration dominant\" } }",
+      "tags": [
+        "ant",
+        "macro",
+        "fpv",
+        "action"
+      ],
+      "artifact": {
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/ant-sprint-construction-site-escape.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/ant-sprint-construction-site-escape-poster.jpg",
+        "duration": 10.03,
+        "ratio": "16:9",
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@noman23761 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/noman23761/status/2043275103543476711",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00278"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-09-23",
+      "file": "prompts/pov-fpv/ant-sprint-construction-site-escape.md"
     },
     {
       "slug": "minimax-h3-storyboard-shot",

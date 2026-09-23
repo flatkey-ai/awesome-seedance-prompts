@@ -1,6 +1,6 @@
 # Prompt index
 
-Published entries: **80**
+Published entries: **85**
 Model-detail assets: **60** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
@@ -17,6 +17,7 @@ Model-detail assets: **60** (see [catalog/model-detail-assets.json](../catalog/m
 
 - [Creator social explainer video](../prompts/pov-fpv/creator-social-explainer-video.md) — `seedance-2.5`
 - [MiniMax H3 UGC ad clip](../prompts/pov-fpv/minimax-h3-ugc-ad.md) — `MiniMax-H3`
+- [Parrot Fakes Sleep with a Phone](../prompts/pov-fpv/parrot-fakes-sleep-with-phone.md) — `seedance-2.0`
 
 ## E-commerce & Retail
 
@@ -45,6 +46,7 @@ Model-detail assets: **60** (see [catalog/model-detail-assets.json](../catalog/m
 ### commercial
 
 - [9:16 UGC product ad clip](../prompts/commercial/ugc-paid-social-product-clip.md) — `seedance-2.0`
+- [Lava-Forged Skeleton Watch Macro](../prompts/commercial/lava-forged-skeleton-watch-macro.md) — `seedance-2.0`
 - [Localized product launch variant](../prompts/commercial/localized-market-product-variant-video.md) — `seedance-2.0`
 - [Market-research creative variants](../prompts/commercial/market-research-creative-variant.md) — `seedance-2.5`
 
@@ -57,7 +59,13 @@ Model-detail assets: **60** (see [catalog/model-detail-assets.json](../catalog/m
 ### cinematic
 
 - [Film previsualization camera blocking](../prompts/cinematic/film-previz-camera-blocking.md) — `seedance-2.5`
+- [Impossible Ocean Trench Ascent](../prompts/cinematic/impossible-ocean-trench-shot.md) — `seedance-2.0`
 - [Paper boat in a rain puddle](../prompts/cinematic/minimax-paper-boat-rain-puddle.md) — `MiniMax-H3`
+- [Surfer Riding a Massive Ocean Barrel](../prompts/cinematic/surfer-riding-ocean-barrel.md) — `seedance-2.0`
+
+### pov-fpv
+
+- [Ant Sprint Through a Construction Site](../prompts/pov-fpv/ant-sprint-construction-site-escape.md) — `seedance-2.0`
 
 ### storyboard
 
