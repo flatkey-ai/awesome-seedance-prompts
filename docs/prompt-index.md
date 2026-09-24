@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **85**
-Model-detail assets: **60** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **90**
+Model-detail assets: **65** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -142,4 +142,9 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [veo-3-1-fast-generate-preview — Game art and animation teams](../catalog/model-detail-assets.json) — `veo-3-1-fast-generate-preview`
 - [veo-3-1-fast-generate-preview — Creator and explainer channels](../catalog/model-detail-assets.json) — `veo-3-1-fast-generate-preview`
 - [veo-3-1-fast-generate-preview — Music producers and visual artists](../catalog/model-detail-assets.json) — `veo-3-1-fast-generate-preview`
+- [Porcelain Swallows Dissolve into an Ink Abyss](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Modern Rural Morning Harvest](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Grandmother Raps on a Neon Street](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Gourmet Sensory Feast](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Giant Whales in a Deep-Sea Dance](../catalog/model-detail-assets.json) — `seedance-2.0`
 

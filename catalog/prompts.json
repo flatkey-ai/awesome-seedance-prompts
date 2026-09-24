@@ -3276,6 +3276,211 @@
       },
       "status": "published",
       "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-seedance-2-0-porcelain-swallows-ink-abyss",
+      "assetId": "goku-seedance-2-0-porcelain-swallows-ink-abyss",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "surreal-vfx",
+      "title": {
+        "en": "Porcelain Swallows Dissolve into an Ink Abyss"
+      },
+      "description": {
+        "en": "A porcelain couture dress shatters into ink-wash swallows before the mirrored world collapses into a fluid vortex."
+      },
+      "prompt": "A 15-second Hollywood haute couture fantasy film in 8K photorealistic quality, with a high-fashion editorial style and Unreal Engine 5 fluid rendering, featuring visual illusions. The scene is set on an endless salt flat mirror reflecting the sky, with oppressive dark clouds above and a minimalist cool-toned palette. [00:00-00:05] Shot 1: Haute couture entrance and porcelain skin. Camera position: extremely low-angle upward shot, using a telephoto lens to zoom in. Action: An Asian female model with a highly distinctive high-fashion face walks coolly across the water. Effect: Her dress is not made of fabric but of flowing liquid blue-and-white porcelain. As she walks, the skirt emits crisp clinking sounds like real ceramic, with a glossy surface and traditional blue patterns moving like living things across the white porcelain texture. [00:05-00:10] Shot 2: Physical shattering and ink arrival. Camera position: extreme close-up on the face, then quickly zooming out. Action: The model suddenly stops, coldly stares at the camera, and snaps her fingers crisply. Effect: At the snap, the blue-and-white porcelain dress does not fall but instantly shatters into thousands of highly realistic ink-wash swallows. These swallows, carrying real water droplets and ink marks, drag black fluid afterimages through the air, swirling wildly around her. [00:10-00:15] Shot 3: Dimensional dissolution and abyss reflection. Camera position: high-angle overhead shot, rapidly rotating and descending. Action: The flock of ink-wash swallows plunges into the mirror-like lake water beneath the model's feet. Effect: The originally solid salt lake surface instantly loses surface tension, and the entire highly realistic world begins to violently blur and dissolve like thick ink dripping into clear water. The real dark clouds and the model's figure transform into a grand 3D fluid ink vortex, completely engulfing the camera into a black-and-white abyss.",
+      "tags": [
+        "porcelain",
+        "ink-wash",
+        "fashion",
+        "fluid-vfx"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-porcelain-swallows-ink-abyss",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/porcelain-swallows-ink-abyss.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/porcelain-swallows-ink-abyss-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.13,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@johnAGI168 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/johnAGI168/status/2025849650654122348",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00002",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-seedance-2-0-modern-rural-morning-harvest",
+      "assetId": "goku-seedance-2-0-modern-rural-morning-harvest",
+      "model": "seedance-2.0",
+      "industry": "creator-social",
+      "category": "cinematic",
+      "title": {
+        "en": "Modern Rural Morning Harvest"
+      },
+      "description": {
+        "en": "A sunlit tomato harvest flows through tactile cooking details into a quiet garden meal."
+      },
+      "prompt": "[Style]\nModern Rural Aesthetics, cinematic commercial quality, shot on Sony A7S3/cinema camera, 4K/8K ultra-high definition, extreme macro, natural and transparent light, healing ASMR, no period drama feel.\n\n[Scene]\nA well-organized modern farmhouse open kitchen, with a lush vegetable garden in the background, bathed in bright sunlight.\n\n[Character]\nModern rural creator, with long black hair casually tied up with a wooden hairpin, wearing a deep blue comfortable linen set (modern linen outfit), light and clear makeup, focused and serene eyes.\n\n[Storyboard Details]\n[00:00-00:05] Shot 1: Morning Harvest (The Freshness)\nVisual: High-definition close-up. Morning sunlight casts a side-backlight on the plants.\nAction: The creator's bare hands (slender and clean fingers) pick a bright red tomato with glistening dew from the vine.\nDetails: Extremely sharp focus, revealing the fine hairs on the tomato's surface and the trail of water droplets sliding down. The background is a blurred, premium green.\n\n[00:05-00:10] Shot 2: Ultimate Craftsmanship (The Craft)\nVisual: Indoor stove area, full of life yet spotless.\nAction: The creator is cutting vegetables, movements skilled and efficient (not performative).\nDetails: Macro lens captures the moment the blade slices through the ingredients, with juice splashing. Then cut to the dancing orange flames in the earthen stove, warm and authentic light and shadow.\n\n[00:10-00:15] Shot 3: Quiet Time (The Moment)\nVisual: Full shot/medium shot.\nAction: A delicate home-cooked dish is placed on a rustic wooden table in the yard. The creator sits down quietly, gently tucks a stray strand of hair behind her ear, and picks up a bite of food.\nAtmosphere: Steam rises slowly against the backlight, the scene is so quiet you can almost hear the wind, embodying the ultimate sense of relaxation that modern people long for.",
+      "tags": [
+        "rural",
+        "cooking",
+        "asmr",
+        "natural-light"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-modern-rural-morning-harvest",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/modern-rural-morning-harvest.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/modern-rural-morning-harvest-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.12,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@johnAGI168 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/johnAGI168/status/2021818021354848258",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00003",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-seedance-2-0-grandma-raps-neon-street",
+      "assetId": "goku-seedance-2-0-grandma-raps-neon-street",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "music-video",
+      "title": {
+        "en": "Grandmother Raps on a Neon Street"
+      },
+      "description": {
+        "en": "An eighty-year-old performer owns a neon street set with confident rap delivery, dance, and beat-synced camera work."
+      },
+      "prompt": "16:9 horizontal screen, street rap MV style, neon purple-blue cool tones, explosive and edgy atmosphere. 0-3 seconds: Medium shot moving forward, urban street night scene with neon flickering, an 80-year-old silver-haired grandmother stands before a graffiti wall, her short silver-white hair slicked back sharply, square face with distinct contours, slanted brows rising into her temples, eyes sharp as lightning, crow's feet like medals of time, a confident smile curling her lips, wearing a black leather jacket over a white printed T-shirt (with bold black 'YOLO' on the chest) + black cargo pants + white high-top sneakers, a thick gold chain around her neck, silver bracelet on her wrist, both hands raising a microphone, as the BGM's powerful beat kicks in, her eyes sharpen, lips part, and she begins to rap. 3-7 seconds: Switching between medium shots and close-ups, the grandmother starts rapping with intense rhythm, silver hair flying as she nods, one hand gripping the mic, the other gesturing to the beat—pointing a finger at the lens, chopping the rhythm with her palm, throwing hip-hop signs—movements fluid and seamless, eyes piercing directly into the camera, wrinkles leaping vividly with every expression, lips moving fast to spit the lyrics: [Rap Lyrics] 'At eighty, my legs can still out-jump you! Silver hair flying, this is my pride! Don't call me old, my flow's way better than yours, when you were rapping, I was still listening to disco!' (Fast tempo, strong rhythm, fierce attitude) Quick cuts: facial close-ups, hand movements, full-body sway, side silhouette, all synced to the BGM beats. 7-11 seconds: Dance segment, camera pulls back to show full body, the grandmother starts dancing—first a classic hip-hop bounce, then a sharp street dance freeze, followed by a body wave traveling from shoulders to toes, then quick footwork—moves clean and sharp, silver hair flying under neon lights, leather jacket flapping in the wind, she keeps rapping while dancing: [Rap Lyrics] 'Legs nimble, speed never slow, my lyrics carved in time! You play on phones, I play the beat, eighty years of life written in this verse!' (Tempo quickens, tone intensifies) Low-angle shots + 360-degree环绕 shots capture her cool, edgy dance moves. 11-15 seconds: Climactic ending, the grandmother spins sharply, silver hair arcing through the air, faces the camera and makes a 'shush' gesture with her finger, then brings the mic close to her lips, singing the final line in a low, magnetic voice: [Real Lyrics] 'Time never defeats a beauty, I've just traded for a different kind of youth...' (Slow tempo, heartfelt, lingering finish) Camera slowly pushes into a close-up of her eyes, crow's feet telling stories, gaze still sharp yet tinged with warmth, BGM cuts abruptly at the peak, frame freezes on her cool yet gentle smile, with vignette + neon purple glow. Sound effects: Powerful BGM beats, rap rhythm, rustling clothes, footsteps, mic reverb. BGM: Trap electronic + 808 heavy drums, rhythm shifting from intense to a soft finish. Prohibited: Any text, subtitles, logos, or watermarks.",
+      "tags": [
+        "rap",
+        "music-video",
+        "neon",
+        "dance"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-grandma-raps-neon-street",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/80-year-old-grandma-raps-neon-street.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/80-year-old-grandma-raps-neon-street-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.13,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@songguoxiansen via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/songguoxiansen/status/2033175478765289598",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00005",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-seedance-2-0-cinematic-gourmet-sensory-feast",
+      "assetId": "goku-seedance-2-0-cinematic-gourmet-sensory-feast",
+      "model": "seedance-2.0",
+      "industry": "marketing-advertising",
+      "category": "commercial",
+      "title": {
+        "en": "Cinematic Gourmet Sensory Feast"
+      },
+      "description": {
+        "en": "Macro flames, pasta, glossy sauce, wine, and elegant plating form a warm high-end restaurant commercial."
+      },
+      "prompt": "Create a 15-second ultra-realistic cinematic food commercial that captures the sensory journey of preparing and enjoying a gourmet meal. The tone is luxurious, warm, and indulgent, with high-end restaurant aesthetics, dramatic macro cinematography, and natural seamless transitions. Every shot should feel rich in texture and movement, emphasizing fire, steam, glossy sauces, and elegant plating.\n\nAudio Design\n\nUse a sophisticated soundtrack that begins with a deep cinematic bass note and soft sizzling sounds. As the video progresses, layer in subtle orchestral strings, crisp kitchen Foley (fire crackles, pasta falling, wine swirl, chocolate drizzle), and end with a warm, satisfying musical resolve. The sizzling should remain audible throughout the cooking shots, blending naturally with the music.\n\nVideo Prompt\nShot 1 — Steak Over Flame\n\nOpen with an extreme macro close-up of a thick steak searing over open fire. Bright orange flames dance around the meat, smoke curls upward, and rendered fat glistens on the charred crust.\n\nCamera: Slow push-in.\n Audio: Intense sizzling, fire crackle, cinematic bass hit.\n Transition: Flame flare naturally fills the frame and becomes the warm lighting of the next shot.\nShot 2 — Gourmet Table Spread\nTop-down cinematic sweep over a beautifully arranged table featuring grilled salmon with asparagus and rice, creamy pasta, Greek salad, and steak with dipping sauce.\n\nCamera: Smooth lateral pan.\n Audio: Music expands with soft strings and ambient restaurant sounds.\n Transition: Camera passes over a wine glass; the circular rim becomes the next shot.\n\nShot 3 — Elegant Diner\n\nClose-up of a glamorous blonde woman (late 20s, glowing skin, soft waves, glossy lips) holding a crystal wine glass and smiling subtly.\nCamera: Gentle dolly in.\n Audio: Delicate glass clink, soft music.\n Transition: She lowers her gaze toward the plate, cutting naturally to her hand.\nShot 4 — Lemon Squeeze\n\nMacro shot of her manicured hand with glossy red nails squeezing a charred lemon wedge over salmon. Slow-motion droplets sparkle as they fall.\n\nCamera: Tilt down following the juice.\n Audio: Bright citrus squeeze sound.\n Transition: The falling droplets match the motion of pasta entering sauce.\n\nShot 5 — Pasta Cascade\nWide ribbons of fresh pasta tumble from a colander into creamy sauce in slow motion.\nCamera: Overhead close-up.\n Audio: Silky pasta movement and bubbling sauce.\n Transition: Steam fills the frame and reveals the next shot.\n\nShot 6 — Salmon on Grill\n\nClose-up of salmon sizzling on a hot grill as a small flame ignites on its surface.\n\nCamera: Subtle zoom in.\n Audio: Sharp sizzle and brief flame burst.\n Transition: Flame flash cuts into red tomato sauce.\nShot 7 — Rigatoni Toss\nRigatoni is stirred with tongs in rich glossy tomato sauce.\n\nCamera: Circular overhead",
+      "tags": [
+        "food",
+        "commercial",
+        "macro",
+        "restaurant"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-cinematic-gourmet-sensory-feast",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/cinematic-gourmet-sensory-feast.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/cinematic-gourmet-sensory-feast-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.08,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ShamiWeb3 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ShamiWeb3/status/2055684703961919721",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04071",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-seedance-2-0-giant-whales-deep-dance",
+      "assetId": "goku-seedance-2-0-giant-whales-deep-dance",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Giant Whales in a Deep-Sea Dance"
+      },
+      "description": {
+        "en": "Two immense whales glide through a dark trench as macro skin detail gives way to a turbulent synchronized dive."
+      },
+      "prompt": "Scene: Deep sea trench - underwater\nQuick editing\n\nAtmosphere: awe-inspiring and raw. A peaceful giant moves perfectly in tranquil waters, its shockingly terrifying scale evoking a profound sense of solemnity and the primal power of nature.\n\nLens description:\nA series of fast-paced, cinematic underwater shots capture the majestic movements and physical presence of the giant whale. The sequence starts from a wide angle, pushes into micro-details, captures the addition of a second whale, and ends with a powerful, turbulent exit.\n\nTimeline / Shot by Shot:\n0:00-0:03 - [Ultra-wide / 16mm / Slow drift]. A breathtaking silhouette of a giant whale floats in a vast liquid space. This massive creature smoothly cleared thousands of gallons of water.\nSound effects: deep, resonant bass frequencies from the depths of the ocean.\n\n0:03-0:06 - [Push camera / smooth track]. The camera slowly shifts to the middle section of this massive creature. The visual proportions shift, revealing the texture of its skin like a mountain, covered with thick, pale, jagged barnacle clusters.\nSound effect: a deep, chest-shaking creature moan, gradually increasing in intensity.\n\n0:06-0:09 - [Medium shot / slow panning]. The camera glides parallel to the whale. An ancient, wise eye, as big as a vehicle, loosely rotated the observation space. Microbubble vortices cascade down from its massive pectoral fins.\nSound effects: The gentle, rhythmic splash of water as it is physically pushed away.\n\n0:09-0:12 - [Deep focus / Wide / Pan-shot]. A massive shadow slowly approaches from the deep-sea background, rising vertically. A second whale of equal size came into view, forming an astonishing side-by-side formation with the first. Their massive combined mass clearly alters the flow of water.\nSound effects: overlapping, mournful low-frequency calls echo.\n\n0:12-0:15 - [Downward Shot / Turbulence]. Both whales began to dive downward in unison. The huge tail fin appears one after another in the frame. When the tails sweep downward, they create a huge local vortex. The camera shakes violently, perfectly swallowed by chaotic, explosive, rolling silver bubbles before the vision blurs.\nSound effects: Sudden, explosive water rushes through the wall and washes over the soundscape.\n\nTechnology and rendering:\n- Camera: Floating cinematic equipment, smooth zero-gravity drift, sudden turbulence and camera shake during climax\n- Lens: 16mm ultra-wide underwater dome port, deep depth of field\n- Modifiers: Shot on 35mm film, photo-level realism, cinematic atmospheric lighting, high detail, original footage, cinematic, 8K resolution, volumetric rendering.\n\nMicrodetails and textures:\n- Tightly packed serrated, calcified white barnacles attached to tough gray skin\n- Shimmering silver microbubbles flow along the deep spine of the whale's ancient healing scars\n- The physical weight of water visibly bends and washes through the enormous thrust of the side by side of the tail fins\n\nSound layer:\n0:00-0:06: Heavy underwater pressure sounds and the moans of creatures vibrating the chest cavity\n0:06-0:12: The sound of water stirring in fins, overlapping low frequencies echoing in the air\n0:12-0:15: The rushing, heavy sound of water mixed into absolute solitude",
+      "tags": [
+        "whale",
+        "underwater",
+        "nature",
+        "cinematic"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-giant-whales-deep-dance",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/giant-whales-deep-dance.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/giant-whales-deep-dance-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.07,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@aimikoda via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/aimikoda/status/2025384058130211285",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04873",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
     }
   ]
 }
