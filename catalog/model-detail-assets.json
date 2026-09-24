@@ -2540,6 +2540,806 @@
         "captured_at": "2026-09-24"
       },
       "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-kitchen-rush-8k-cinematic",
+      "assetId": "goku-seedance-2-0-kitchen-rush-8k-cinematic",
+      "model": "seedance-2.0",
+      "industry": "food-beverage",
+      "category": "cinematic",
+      "title": {
+        "en": "Kitchen Rush in 8K"
+      },
+      "description": {
+        "en": "A single impossible camera move races through a high-end commercial kitchen as chefs, ingredients, and stainless-steel stations surge through dinner service."
+      },
+      "prompt": "FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying ingredients, photorealistic micro-to-macro cinematic 8K \n\nShot 01 (0:00–2:00): Camera starts at floor level on anti-slip",
+      "tags": [
+        "kitchen",
+        "one-take",
+        "food",
+        "cinematic"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-kitchen-rush-8k-cinematic",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/kitchen-rush-8k-cinematic.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/kitchen-rush-8k-cinematic-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.12,
+        "resolution": "2560x1440",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Dheepanratnam via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Dheepanratnam/status/2039568902481387645",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00710",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-night-market-ascent-steam",
+      "assetId": "goku-seedance-2-0-night-market-ascent-steam",
+      "model": "seedance-2.0",
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "title": {
+        "en": "Night Market Ascent in Steam"
+      },
+      "description": {
+        "en": "A ground-level camera climbs through a steaming Southeast Asian night market into a glowing aerial reveal."
+      },
+      "prompt": "FORMAT: 15s / single continuous impossible camera move / no dialogue \nSTYLE: Dense Southeast Asian night market, wet stone, steam and fire, orange lantern light, photorealistic ground-to-aerial cinematic 8K \nShot 01 (0:00–2:00): Camera starts at ankle level. Forest",
+      "tags": [
+        "night-market",
+        "one-take",
+        "travel",
+        "cinematic"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-night-market-ascent-steam",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/night-market-ascent-steam.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/night-market-ascent-steam-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.12,
+        "resolution": "2560x1440",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Dheepanratnam via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Dheepanratnam/status/2038188999676744137",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00801",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-wildlife-reptile-slow-motion",
+      "assetId": "goku-seedance-2-0-wildlife-reptile-slow-motion",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "wildlife",
+      "title": {
+        "en": "Wildlife Reptile Slow Motion"
+      },
+      "description": {
+        "en": "A crocodile erupts from still water in documentary-style super slow motion with detailed scales and realistic spray."
+      },
+      "prompt": "National Geographic Wildlife Documentary, IMAX quality, 4K, photorealistic cinematography, 240fps super slow-motion, ultra-realistic reptile scale textures and liquid physics, natural documentary color grade. [Duration] 10",
+      "tags": [
+        "crocodile",
+        "wildlife",
+        "slow-motion",
+        "documentary"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-wildlife-reptile-slow-motion",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/wildlife-reptile-slow-motion.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/wildlife-reptile-slow-motion-poster.jpg",
+        "ratio": "16:9",
+        "duration": 10.11,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@nrx838 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/nrx838/status/2070256560714998201",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_02999",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-desert-traveler-sunset-portrait",
+      "assetId": "goku-seedance-2-0-desert-traveler-sunset-portrait",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic-portrait",
+      "title": {
+        "en": "Desert Traveler Sunset Portrait"
+      },
+      "description": {
+        "en": "A weathered desert traveler is revealed through windblown macro details and a restrained golden-hour portrait sequence."
+      },
+      "prompt": "[Style] Cinematic portrait documentary, 4K ultra-HD, photorealistic, shallow depth of field, natural sunlight\n[Duration] 8 seconds\n[Scene] Desert ridge at sunset, warm dust in the air, golden sunlight cutting through wind, quiet atmosphere\n\n[00:00-00:03] Shot 1: Hair and Dust\nExtreme close-up of a weathered traveler’s beard and long hair softly flowing in the wind. Individual hair strands are sharply visible. Dust particles float through sun rays behind the face.\n\n[00:03-00:06] Shot 2: Eye Reveal\nThe camera slowly pushes in from the beard to the eye. Fine skin pores, eyelashes, dry dust on the cheek, and warm reflections in the iris become visible.\n\n[00:06-00:08] Shot 3: Breath and Stillness\nThe traveler exhales gently. Dust shifts around the face. Hair continues moving in slow waves as the eye stays fixed on the horizon.\n[Constraints] Natural human anatomy, no face warping, no beauty filter, no text, no watermark.",
+      "tags": [
+        "desert",
+        "portrait",
+        "golden-hour",
+        "documentary"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-desert-traveler-sunset-portrait",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/desert-traveler-sunset-portrait.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/desert-traveler-sunset-portrait-poster.jpg",
+        "ratio": "16:9",
+        "duration": 10.11,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@influencer_seo via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/influencer_seo/status/2076714025308877051",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_10302",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-paris-haute-couture-show",
+      "assetId": "goku-seedance-2-0-paris-haute-couture-show",
+      "model": "seedance-2.0",
+      "industry": "fashion-beauty",
+      "category": "fashion-film",
+      "title": {
+        "en": "Paris Haute Couture Show"
+      },
+      "description": {
+        "en": "A Paris couture runway uses focused spotlights, rich fabric motion, and polished reflections for a premium fashion-film finish."
+      },
+      "prompt": "A haute couture fashion show in Paris, models walking under dramatic spotlights, ultra-detailed silk and velvet fabrics, realistic reflections on polished runway floor, slow-motion fabric movement, premium cinematic realism, native 4K detail,",
+      "tags": [
+        "couture",
+        "runway",
+        "fashion",
+        "cinematic"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-paris-haute-couture-show",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/paris-haute-couture-show.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/paris-haute-couture-show-poster.jpg",
+        "ratio": "16:9",
+        "duration": 10.11,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@HeyNayeem via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/HeyNayeem/status/2070137317562708205",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03011",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-miniature-bakery-world",
+      "assetId": "goku-seedance-2-0-miniature-bakery-world",
+      "model": "seedance-2.0",
+      "industry": "food-beverage",
+      "category": "miniature",
+      "title": {
+        "en": "Miniature Bakery World"
+      },
+      "description": {
+        "en": "Tiny chefs work continuously around a towering pancake stack as honey, berries, and powdered sugar animate a miniature bakery world."
+      },
+      "prompt": "A cinematic 10-second macro video inside a miniature bakery world built around a towering stack of fluffy golden pancakes covered with flowing honey, fresh strawberries, blueberries, mint leaves and powdered sugar. Tiny chefs continuously work without stopping, each performing a unique task. The camera movement is one continuous shot with no jump cuts or abrupt transitions.\n\nThe video opens with a smooth cinematic push-in from a medium-wide macro view toward the pancake tower. As the camera approaches, warm honey slowly drips over the pancakes while one chef pours fresh honey from a tiny bucket. The camera continues its forward movement and naturally begins a gentle clockwise orbit around the stack.\n\nWithout cutting, the orbit becomes faster as the camera glides past a chef carefully placing blueberries onto the honey-covered pancakes. Continuing the same motion path, the camera swoops slightly downward and circles upward to reveal another chef arranging sliced strawberries and fresh mint leaves on the top pancake.\n\nThe camera flows seamlessly toward the opposite side of the stack, passing close beside dripping honey before revealing a chef sweeping spilled powdered sugar from the tabletop. Maintaining the same continuous movement, the camera performs a dramatic low FPV fly-through between scattered berries and miniature tools, passing a chef pushing a wooden cart loaded with fresh strawberries and blueberries.\n\nThe movement rises smoothly into a higher orbit, revealing another chef dusting powdered sugar from a ladder while honey glistens under warm golden light. The camera continues its uninterrupted circular flight, weaving naturally between ladders, scaffolding and workers, creating beautiful parallax while every chef remains busy with their own task.\n\nFor the final seconds the orbit widens into a spectacular cinematic 360-degree hero shot around the completed pancake tower. Honey cascades down every layer, berries shine with fresh moisture, powdered sugar floats through the air, all miniature chefs continue working simultaneously, warm bakery atmosphere, shallow depth of field, macro photography, volumetric lighting, smooth FPV drone movement, elegant speed ramps, cinematic motion blur, ultra-realistic textures, premium food commercial quality, seamless continuous camera movement, no cuts, no text, no logos, 9:16.",
+      "tags": [
+        "pancakes",
+        "miniature",
+        "bakery",
+        "macro"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-miniature-bakery-world",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/miniature-bakery-world.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/miniature-bakery-world-poster.jpg",
+        "ratio": "9:16",
+        "duration": 10.12,
+        "resolution": "2160x3840",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@masterai13 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/masterai13/status/2072767858963099919",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04718",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-ember-crawling-cord-macro",
+      "assetId": "goku-seedance-2-0-ember-crawling-cord-macro",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "macro",
+      "title": {
+        "en": "Ember Crawling Frayed Cord Macro"
+      },
+      "description": {
+        "en": "A single ember crawls along a frayed cord against black, revealing sparks, smoke, glowing fibers, and a controlled final flare."
+      },
+      "prompt": "Extreme macro on a single ember crawling along a frayed cord against pure black. Frame opens black; at 1 second one ember glows to life, ignites, and travels laterally — slow-motion sparks lifting and dying, a thin spiral of smoke curling, individual carbon fibers glowing white-hot then blackening and folding. Builds to a small bright flare near 12 seconds, settling to a single glowing tip. The ember is the only light source — self-illuminated hot orange against absolute black, hard chiaroscuro. Camera tracks the spark with a tight micro push-in. Color palette: pure black and incandescent orange with a white-hot core — minimal, maximum dynamic range. Audio: low ominous drone, dry crackle and hiss of burning, a single sub-bass pulse.",
+      "tags": [
+        "ember",
+        "macro",
+        "fire",
+        "slow-motion"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-ember-crawling-cord-macro",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/ember-crawling-cord-macro.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/ember-crawling-cord-macro-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.09,
+        "resolution": "3840x1646",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@jaynwabueze via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/jaynwabueze/status/2074439102544421045",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_05282",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-futuristic-showroom-hypercar-glow",
+      "assetId": "goku-seedance-2-0-futuristic-showroom-hypercar-glow",
+      "model": "seedance-2.0",
+      "industry": "automotive",
+      "category": "product-film",
+      "title": {
+        "en": "Futuristic Showroom Hypercar Glow"
+      },
+      "description": {
+        "en": "A futuristic performance car is revealed through water droplets, chrome reflections, and precise showroom lighting."
+      },
+      "prompt": "A sleek futuristic performance vehicle inside a modern showroom, dramatic cinematic lighting reflecting across polished metallic surfaces, ultra-detailed bodywork, realistic water droplets shimmering under soft studio lights, professional",
+      "tags": [
+        "hypercar",
+        "showroom",
+        "product",
+        "cinematic"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-futuristic-showroom-hypercar-glow",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/futuristic-showroom-hypercar-glow.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/futuristic-showroom-hypercar-glow-poster.jpg",
+        "ratio": "16:9",
+        "duration": 10.11,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@HeyNayeem via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/HeyNayeem/status/2070137321836720399",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03010",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-perfect-ten-arrow-shot",
+      "assetId": "goku-seedance-2-0-perfect-ten-arrow-shot",
+      "model": "seedance-2.0",
+      "industry": "sports-fitness",
+      "category": "sports-film",
+      "title": {
+        "en": "Perfect Ten Arrow Shot Moment"
+      },
+      "description": {
+        "en": "A stadium archer delivers a perfect ten through broadcast framing, target close-ups, crowd energy, and a slow-motion finish."
+      },
+      "prompt": "Dev ekran, kalabalık arena, mavi stadyum ışıkları…\n\nKadın okçu atışa hazırlanıyor, spiker sakin bir sesle anlatıyor:\n“Now comes a very critical shot…”\n\nSonra ok çıkıyor, hedef tahtasına geçiyoruz:\n→ merkeze yakın vuruş\n→ “10” skoru\n→ yükselen kalabalık sesi\n→ yavaş çekimde atış sonrası salınım\n→ kameranın okçuya yaklaştığı sinematik final",
+      "tags": [
+        "archery",
+        "stadium",
+        "sports",
+        "slow-motion"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-perfect-ten-arrow-shot",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/perfect-ten-arrow-shot.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/perfect-ten-arrow-shot-poster.jpg",
+        "ratio": "4:3",
+        "duration": 15.14,
+        "resolution": "2880x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ai_gezgini via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ai_gezgini/status/2055175122038784090",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04122",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-taj-mahal-fpv-sunrise",
+      "assetId": "goku-seedance-2-0-taj-mahal-fpv-sunrise",
+      "model": "seedance-2.0",
+      "industry": "travel-hospitality",
+      "category": "fpv",
+      "title": {
+        "en": "Sunrise FPV Taj Mahal Flight"
+      },
+      "description": {
+        "en": "A continuous sunrise FPV flight skims the Taj Mahal gardens, reflection canal, marble dome, and surrounding symmetry."
+      },
+      "prompt": "Photorealistic first person FPV drone fly through starting from the front garden pathway of the Taj Mahal at sunrise. The camera glides rapidly forward over the Mughal garden, flying low above the symmetrical water canal with the Taj Mahal reflection shimmering beneath. Soft golden sunrise light touches the white marble dome and minarets, creating a warm glowing pink gold atmosphere. The drone smoothly dives close toward the reflecting pool, then rises upward toward the grand marble platform, passing between the garden trees and visitors from a respectful cinematic distance.\n\nThe camera circles around the Taj Mahal in a smooth orbital motion, revealing the glowing central dome, elegant minarets, intricate marble details, and the soft morning mist around the monument. It then ascends above the courtyard, capturing the full symmetrical layout of the gardens, water canal, and the Taj Mahal standing majestically under the sunrise sky. The movement should feel fast but stable, fluid and cinematic, always facing the direction of travel.\n\nPremium warm sunrise color palette, soft golden pink light, realistic marble texture, gentle mist, natural reflections, realistic shadows, cinematic lighting, rich environmental details, ultra realistic, HDR, 8K quality, seamless aerial traversal, smooth FPV drone movement, majestic peaceful atmosphere, photorealistic cinematic travel film look.\n\nNegative Prompt: Avoid shaky camera, distorted architecture, warped dome, extra minarets, unrealistic crowd, cartoon look, oversaturated colors, blurry details, text, logo, watermark, low resolution, flickering, broken reflections.",
+      "tags": [
+        "taj-mahal",
+        "fpv",
+        "travel",
+        "sunrise"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-taj-mahal-fpv-sunrise",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/taj-mahal-fpv-sunrise.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/taj-mahal-fpv-sunrise-poster.jpg",
+        "ratio": "1:1",
+        "duration": 15.12,
+        "resolution": "2160x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@bmx_ai13 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/bmx_ai13/status/2062274317568913482",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03548",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-golden-morning-rituals",
+      "assetId": "goku-seedance-2-0-golden-morning-rituals",
+      "model": "seedance-2.0",
+      "industry": "creator-social",
+      "category": "lifestyle",
+      "title": {
+        "en": "Golden Morning Rituals"
+      },
+      "description": {
+        "en": "A consistent protagonist moves through a calm morning routine, exercise, balcony gardening, and warm natural light."
+      },
+      "prompt": "Create an ultra-realistic cinematic lifestyle video featuring the same young woman throughout the entire sequence. Maintain perfect identity consistency across every shot, preserving identical facial features, hairstyle, body proportions, skin tone, outfit, accessories, and overall appearance.\n\nShe wears a white ribbed crop top, beige cotton shorts, white ankle socks, and a messy high ponytail.\n\nThe setting is a bright, modern apartment filled with warm golden morning sunlight, wooden furniture, soft neutral décor, large windows with sheer curtains, and abundant indoor plants, creating a calm Scandinavian-inspired atmosphere.\n\nThe video begins with her naturally waking up beside her bed. She stretches gently as soft golden sunlight pours through the sheer curtains. She smiles peacefully, takes a deep breath, and walks into the bathroom.\n\nInside the bathroom, she gently washes her face before beginning her complete skincare routine in front of the mirror. She carefully applies serum, massages moisturizer into her skin with slow circular motions, and admires her healthy natural glow with a relaxed smile.\n\nShe then walks into the living room, picks up a cordless vacuum cleaner, and begins cleaning the apartment. While vacuuming, she playfully dances around the room, laughing naturally and enjoying the quiet morning. Sunlight streams through the large windows, casting soft realistic shadows across the wooden floor.\n\nNext, she opens the sliding balcony door and steps outside carrying a watering can. She carefully waters rows of colorful flower pots and lush green plants. She gently touches the petals and leaves while enjoying the peaceful morning breeze. Butterflies flutter nearby as warm sunlight illuminates the flowers.\n\nAfter finishing, she prepares a large iced coffee and sits comfortably on a balcony chair surrounded by blooming plants. She quietly enjoys the panoramic city skyline, closes her eyes for a moment to feel the warm breeze, then notices the camera. She smiles softly, raises her coffee toward the lens in a friendly toast, and relaxes as the camera slowly pulls back to reveal the peaceful balcony garden bathed in morning light.\n\nAudio should consist only of natural ambient sounds: birds chirping, a gentle breeze, distant city ambience, footsteps, running water, vacuum cleaner sounds, leaves rustling, water pouring onto plants, and ice softly clinking inside the coffee. No background music.\n\nNo subtitles, logos, watermarks, captions, or on-screen text.\n\nPremium commercial-quality cinematography with smooth handheld lifestyle camera movement, realistic skin texture, natural facial expressions, subtle eye movement, detailed hair physics, physically accurate global illumination, cinematic depth of field, soft volumetric morning light, warm golden-hour atmosphere, HDR color grading, ultra-photorealistic rendering, and 16:9 widescreen composition.",
+      "tags": [
+        "morning",
+        "lifestyle",
+        "routine",
+        "natural-light"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-golden-morning-rituals",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/golden-morning-rituals.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/golden-morning-rituals-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.07,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Naiknelofar788 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Naiknelofar788/status/2075533052378259802",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_10099",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-squirrel-cozy-hollow-surprise",
+      "assetId": "goku-seedance-2-0-squirrel-cozy-hollow-surprise",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "animation",
+      "title": {
+        "en": "A Squirrel's Cozy Hollow Surprise"
+      },
+      "description": {
+        "en": "A squirrel's cozy hollow becomes a warm woodland comedy shared with a blue jay and hedgehog around an acorn-table gathering."
+      },
+      "prompt": "FORMAT: 15s / 6 SHOTS / heartwarming woodland comedy / short dialogue\n\nSTYLE: hyperreal cinematic woodland animation, warm golden hour light filtering through bark cracks, cozy mossy interior of a hollow",
+      "tags": [
+        "squirrel",
+        "woodland",
+        "animation",
+        "comedy"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-squirrel-cozy-hollow-surprise",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/squirrel-cozy-hollow-surprise.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/squirrel-cozy-hollow-surprise-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.13,
+        "resolution": "2560x1440",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Dheepanratnam via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Dheepanratnam/status/2033934223313174856",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_01140",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-spring-blossoms-quiet-steps",
+      "assetId": "goku-seedance-2-0-spring-blossoms-quiet-steps",
+      "model": "seedance-2.0",
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "title": {
+        "en": "Spring Blossoms and Quiet Steps"
+      },
+      "description": {
+        "en": "A quiet walk beneath spring cherry blossoms uses soft morning light, gentle petals, and understated Japanese cinematic realism."
+      },
+      "prompt": "Japanese cinematic realism, poetic spring atmosphere.\nA beautiful 20-year-old Japanese female university student walking slowly through a quiet path lined with cherry blossom trees.\nCherry blossom petals fall gently like pink snow in the soft spring breeze.\nShe wears a soft pastel blouse and long skirt, natural Japanese college student style.\nWarm early morning sunlight filters through the blossoms, creating soft backlight and subtle lens flare.\nThe camera slowly follows beside her in a smooth cinematic tracking shot.\nHer hair and clothes move slightly in the wind while petals float around her.\nShallow depth of field, soft colors, nostalgic emotional mood, live-action film style.\nultra realistic, cinematic lighting, 4K, film look",
+      "tags": [
+        "cherry-blossom",
+        "spring",
+        "japan",
+        "cinematic"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-spring-blossoms-quiet-steps",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/spring-blossoms-quiet-steps.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/spring-blossoms-quiet-steps-poster.jpg",
+        "ratio": "16:9",
+        "duration": 8.1,
+        "resolution": "2560x1440",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@tanabe_fragm via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/tanabe_fragm/status/2033331108465787216",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_01191",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-elven-queen-twilight-balcony",
+      "assetId": "goku-seedance-2-0-elven-queen-twilight-balcony",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "fantasy",
+      "title": {
+        "en": "Elven Queen at Twilight"
+      },
+      "description": {
+        "en": "An elven queen surveys a luminous forest at twilight as bioluminescent flowers and fireflies shape a graceful fantasy portrait."
+      },
+      "prompt": "A graceful elven queen in flowing emerald and gold robes standing on a marble balcony overlooking a glowing magical forest at twilight, fireflies and bioluminescent flowers in vivid blues and purples, slow dramatic pan.",
+      "tags": [
+        "elven-queen",
+        "fantasy",
+        "twilight",
+        "cinematic"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-elven-queen-twilight-balcony",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/elven-queen-twilight-balcony.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/elven-queen-twilight-balcony-poster.jpg",
+        "ratio": "16:9",
+        "duration": 10.1,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Alin_Reaper05 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Alin_Reaper05/status/2047336580403155310",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_02080",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-era-spanning-high-energy-run",
+      "assetId": "goku-seedance-2-0-era-spanning-high-energy-run",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "transformation",
+      "title": {
+        "en": "Era-Spanning High Energy Run"
+      },
+      "description": {
+        "en": "A confident runner moves through rapidly changing historical eras while wardrobe and environment transform in one fluid shot."
+      },
+      "prompt": "Create a 15 second high energy continuous shot featuring a confident male subject moving through rapidly evolving eras. The camera follows him in one fluid motion as he runs, spins, slides, and jumps forward while both his outfit and the environment transform around him.",
+      "tags": [
+        "time-travel",
+        "transformation",
+        "runner",
+        "one-take"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-era-spanning-high-energy-run",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/era-spanning-high-energy-run.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/era-spanning-high-energy-run-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.12,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@umesh_ai via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/umesh_ai/status/2054645429254705328",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_02759",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-neon-city-sky-race",
+      "assetId": "goku-seedance-2-0-neon-city-sky-race",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "sci-fi",
+      "title": {
+        "en": "Neon City Sky Race"
+      },
+      "description": {
+        "en": "A racing aircraft threads a neon megacity canyon before climbing through clouds and leaving spiral contrails above the skyline."
+      },
+      "prompt": "Ultra-realistic futuristic racing aircraft weaving through a neon megacity canyon at sunset. Vapor trails spiral behind glowing engines while holographic billboards distort from the speed. Camera locked tightly behind the craft as it threads impossibly narrow gaps between skyscrapers. Reflections streak across chrome towers. The aircraft climbs vertically into clouds above the city. Final frame: glowing contrails spiraling across the sky.",
+      "tags": [
+        "aircraft",
+        "neon-city",
+        "sci-fi",
+        "speed"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-neon-city-sky-race",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/neon-city-sky-race.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/neon-city-sky-race-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.12,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AllaAisling via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AllaAisling/status/2059702676812952038",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03758",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-chubby-cat-snowboard-olympic",
+      "assetId": "goku-seedance-2-0-chubby-cat-snowboard-olympic",
+      "model": "seedance-2.0",
+      "industry": "sports-fitness",
+      "category": "sports-film",
+      "title": {
+        "en": "Chubby Cat Snowboard Champion"
+      },
+      "description": {
+        "en": "A photoreal chubby cat performs a big-air snowboard run under stadium lights with breath vapor, crowd scale, and convincing snow physics."
+      },
+      "prompt": "15-second ultra-photorealistic cinematic sports film. Subject: Chubby yellow short-haired house cat, realistic cat anatomy, natural proportions, dense fur detail, whiskers, breath vapor, balanced on a snowboard. Scene: Winter Olympics-style large snowboard big air stadium under night lights, full stands, flags, cold air, compacted snow, realistic piste tracks. Style: Premium sports broadcast realism, natural lighting mixed with powerful stadium floodlights, ultra-detailed snow spray, realistic gravity, momentum, and landing impact, crisp winter air, high-speed action photography. 0-4 seconds: Wide establishing shot + slow crane down, cat accelerates towards the ramp, board edges create clear lines in the snow, snow particles are blown towards the camera, anticipation murmurs from the stands. 4-9 seconds: Side tracking shot, cat enters the final ramp and launches into a powerful pop and long jump, body remains balanced, tail and paws react realistically to airflow, long airtime, natural physics. 9-13s: Dramatic telephoto slow motion, artistic spin and stylish grab in mid-air, stadium lights passing underneath, detailed fur movement, snow crystals and cold breath particles, Olympic final moment energy. 13-15s: Low angle follow shot into landing, solid and satisfying landing, board settles on the ground, a dense cloud of snow rises, the cat continues to glide in the flow, spectators rise to their feet and respond with powerful applause and cheers, final hero frame, triumphant winter sports atmosphere.",
+      "tags": [
+        "cat",
+        "snowboard",
+        "sports",
+        "photoreal"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-chubby-cat-snowboard-olympic",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/chubby-cat-snowboard-olympic.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/chubby-cat-snowboard-olympic-poster.jpg",
+        "ratio": "9:16",
+        "duration": 15.09,
+        "resolution": "2160x3840",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ertanlabs via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ertanlabs/status/2047250700741038454",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_02090",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-cliffside-piano-rhapsody",
+      "assetId": "goku-seedance-2-0-cliffside-piano-rhapsody",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "music-film",
+      "title": {
+        "en": "Cliffside Piano Rhapsody"
+      },
+      "description": {
+        "en": "A pianist performs on a mountaintop cliff in a continuous cinematic shot that moves from sweeping landscape to tactile keyboard detail."
+      },
+      "prompt": "single continuous shot, one take no cuts, cinematic oner, cinematic lighting, photorealistic, 35mm film quality, professional color grading, sharp focus, high detail texture, film grain, depth of field mastery, steadicam fluidity\nPhotorealistic live-action, not animation: an epic mountaintop cliff above a vast sea of glowing clouds at golden hour, distant jagged peaks catching warm light. A young woman pianist in a long flowing gown plays a black grand piano with intense expressive emotion, body swaying, hands flying across the keys, hair and dress whipping violently in a rising wind, while flocks of birds sweep upward through shafts of god-light and embers and petals swirl through the gusting air. The single take is built as one aggressive FPV descent — banking flight, a plunge into the piano's resonant interior, then an explosive pull-back to epic scale — with warm golden light, anamorphic flares, and volumetric beams held consistent so feather, ember, skin, and string textures all read in razor 4K macro detail.\n\nSingle continuous shot 15s: The camera banks fast and low around the cliff edge through churning golden clouds, embers and petals streaking past the lens as it swings toward the pianist, her gown and hair whipping in the wind, hands flying across the keys. Accelerating forward, the camera dives straight into the open piano lid and ramps to slow motion as it threads the tight gap between copper-wound strings and felt hammers, the hammers striking and the strings shivering in pore-deep macro detail, dust and light vibrating in the resonant wooden interior. Then the camera bursts back out of the piano, snapping to full speed as it pulls away and rises, birds sweeping upward through shafts of light, until it settles into a soaring extreme wide that reveals the whole cliff, the lone pianist, and the endless sea of glowing clouds below.\nTotal: 15s / 1 shot / 16:9",
+      "tags": [
+        "piano",
+        "mountain",
+        "music",
+        "one-take"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-cliffside-piano-rhapsody",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/cliffside-piano-rhapsody.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/cliffside-piano-rhapsody-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.14,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@projectmuse_ai via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/projectmuse_ai/status/2077857114618564849",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_10199",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-cheetah-golden-hour-sprint",
+      "assetId": "goku-seedance-2-0-cheetah-golden-hour-sprint",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "wildlife",
+      "title": {
+        "en": "Cheetah's Golden Hour Sprint"
+      },
+      "description": {
+        "en": "A cheetah emerges from golden grass and accelerates across the savanna in a long-lens wildlife tracking sequence."
+      },
+      "prompt": "[Style] National Geographic African Wildlife documentary, 4K Ultra HD, ultra-telephoto lens (800mm Telephoto), high-speed tracking vehicle (Tracking Vehicle 120fps), golden hour light on the East African savanna. [Duration] 10 seconds. [Scene] Dusk on the East African savanna, golden dry grass waist-high, a giant acacia tree silhouetted against the skyline, the sun hanging low on the horizon bathing the entire plain in deep gold, heat haze distorting the distance. [00:00-00:04] Shot 1: Eyes in the grass (Telephoto Close-Up 800mm, Shallow DOF). Ultra-telephoto shallow depth-of-field close-up: golden grass fills the entire frame, with no animal visible at all. Suddenly, through a gap in the grass, a pair of amber eyes appears—a female cheetah crouched low in the grass, only her eyes to the tips of her ears rising above the blades. The black tear marks on her face run from the inner corners of her eyes down to the corners of her mouth, her nose rough black leather in texture. Her pupils contract sharply into vertical slits—locking onto prey. Her ears press slightly back, flattening against her skull. The foreground and background grass blur into golden bokeh, leaving only the cheetah's eyes razor-sharp and clear. [00:04-00:07] Shot 2: Full burst (High-Speed Tracking 120fps, Side Profile). High-speed side tracking shot: the cheetah explodes from the grass into a full sprint, reaching 100 kilometers per hour. In slow-motion, her spine bends like a spring to its extreme then fully extends—curving so that her hind legs pass her front legs, then stretching her body into a horizontal line with all four paws airborne. With each push-off, the dry grass and red earth beneath her paw pads are kicked up in fan-shaped sprays. The white short fur on her belly ripples in waves with the rhythm of her stride, her tail swinging to one side like a rudder during high-speed turns to maintain balance. Her facial muscles are taut, her mouth slightly open revealing canines, nostrils flared wide. [00:07-00:10] Shot 3: Conclusion in dust (Super Slow-mo, Head-On Tracking). Head-on ultra-slow-motion tracking shot: the cheetah charges straight toward the camera at full speed, kicking up a three-meter-high trail of golden dust behind her. She abruptly pivots sideways—all four paws gouging four furrows in the ground, her body nearly rolling horizontal to the earth, her tail arcing in the opposite direction. In the instant of the turn, the dust she throws up forms a curved golden wall, the setting sun backlighting it, illuminating each particle as floating golden stardust. The cheetah's silhouette bursts out from the dust wall and gradually dissolves into the golden rays of the setting sun.",
+      "tags": [
+        "cheetah",
+        "wildlife",
+        "savanna",
+        "slow-motion"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-cheetah-golden-hour-sprint",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/cheetah-golden-hour-sprint.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/cheetah-golden-hour-sprint-poster.jpg",
+        "ratio": "16:9",
+        "duration": 10.15,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@johnAGI168 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/johnAGI168/status/2070846694808244375",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_02953",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-tokyo-twilight-slow-living",
+      "assetId": "goku-seedance-2-0-tokyo-twilight-slow-living",
+      "model": "seedance-2.0",
+      "industry": "creator-social",
+      "category": "slow-living",
+      "title": {
+        "en": "Tokyo Twilight Slow Living"
+      },
+      "description": {
+        "en": "A young woman cycles, sketches, and wanders through quiet Tokyo neighborhoods in a reflective twilight slow-living film."
+      },
+      "prompt": "SUBJECT : Young Japanese woman, early 20s, natural refined everyday look. Oversized cream cardigan over a white tee, wide-leg light denim, plain leather loafers, hair in a low loose ponytail with a few soft strands framing her face. Minimal makeup, realistic skin, calm and warm reflective presence. Keep her identity, clothing, and hair consistent all the way through.\nSETTING: A quiet Japanese shitamachi neighborhood, soft overcast late afternoon. Narrow lanes\nbetween low houses, potted plants along the doorsteps, a small canal with a low\nfootbridge, power lines overhead, a parked mamachari, a quiet corner shrine, a red\nmailbox on the corner. Lived-in and peaceful — no stores, no crowds, no tourists.\nLOOK: Cinematic slice-of-life vlog. Composed, intentional framing, quiet and observational.\nSoft muted natural tones, cool and gentle, realistic skin. Shallow depth of field,\nfine film grain, soft natural light. Smooth cinematic camera movement throughout —\ncalm, unhurried, letting each moment breathe.\nSEQUENCE: [0–3s]\nShe rides a mamachari slowly down the quiet lane, cardigan and loose strands drifting\nin the breeze. The camera travels beside her, power lines sliding past overhead.\nsound: soft bicycle wheels / distant cicadas / gentle wind / faint neighborhood ambience\n[3–5s]\nShe stops at the low footbridge over the canal, rests her arms on the railing, and\ngazes down at the still water. The camera moves gently toward her and past her shoulder\nto the water.\nsound: quiet water / cicadas / a faraway train / soft wind\n[5–8s]\nShe sits on the shrine steps, opens a small notebook, and writes something slowly,\npausing to think. The camera moves evenly around her, focus soft on her hands then\nher face.\nsound: pen on paper / cicadas softening / wind through leaves / distant wind chime\n[8–11s]\nShe crouches by a doorway and gently lifts a red furin wind chime, watching it turn.\nThe camera rises slowly from the chime up to her face.\nsound: single clear furin chime / soft breeze / cicadas / faint chatter\n[11–13s]\nShe walks along the lane holding a cold canned tea, the red mailbox passing softly\nbehind her. The camera moves ahead of her at an even pace, keeping her centered.\nsound: unhurried footsteps / cicadas / distant bicycle bell / wind\n[13–15s]\nShe reaches a quiet stone stairway, climbs the first steps, and glances back over her\nshoulder with a small calm smile before continuing up into the softening light.\nsound: footsteps on stone / cicadas / soft wind / slow fade\nAUDIO: Natural ambient only — summer cicadas, quiet canal water, a distant train, wind through\nthe power lines, a single furin chime, unhurried footsteps, faint neighborhood ambience.\nFEEL: A serene, composed afternoon in a quiet Japanese neighborhood — smooth, warm in feeling\nbut cool in tone, an unhurried and beautiful slice of everyday life.",
+      "tags": [
+        "tokyo",
+        "slow-living",
+        "cycling",
+        "cinematic"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-tokyo-twilight-slow-living",
+        "kind": "video",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/tokyo-twilight-slow-living.mp4",
+        "poster": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/seedance-2.0/tokyo-twilight-slow-living-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.12,
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@D_studioproject via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/D_studioproject/status/2072630505439433179",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04728",
+        "captured_at": "2026-09-24"
+      },
+      "status": "published"
     }
   ]
 }

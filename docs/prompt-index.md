@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **90**
-Model-detail assets: **65** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **110**
+Model-detail assets: **85** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -147,4 +147,24 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Grandmother Raps on a Neon Street](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Cinematic Gourmet Sensory Feast](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Giant Whales in a Deep-Sea Dance](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Kitchen Rush in 8K](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Night Market Ascent in Steam](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Wildlife Reptile Slow Motion](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Desert Traveler Sunset Portrait](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Paris Haute Couture Show](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Miniature Bakery World](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ember Crawling Frayed Cord Macro](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Futuristic Showroom Hypercar Glow](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Perfect Ten Arrow Shot Moment](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Sunrise FPV Taj Mahal Flight](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Golden Morning Rituals](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [A Squirrel's Cozy Hollow Surprise](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Spring Blossoms and Quiet Steps](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Elven Queen at Twilight](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Era-Spanning High Energy Run](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Neon City Sky Race](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Chubby Cat Snowboard Champion](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cliffside Piano Rhapsody](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cheetah's Golden Hour Sprint](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Tokyo Twilight Slow Living](../catalog/model-detail-assets.json) — `seedance-2.0`
 
