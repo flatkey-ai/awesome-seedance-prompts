@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **185**
-Model-detail assets: **85** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **210**
+Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -254,4 +254,29 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Cliffside Piano Rhapsody](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Cheetah's Golden Hour Sprint](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Tokyo Twilight Slow Living](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Warhorse Sprint on Cliff Aqueduct](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ghost Ship Rises from Ocean Depths](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Three Titans Collide in Chaos](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Neon Car Transforms into Robot](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Paper Dragon Awakens the Night](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Shadow Speed on Mountain Pass](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Pigeon vs Seagull Rooftop Showdown](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Narrow Escape from Ancient Door](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Stormy Highway Rescue Mech Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Forged in Obsidian Depths](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Explorer Flees Giant Mummy Chase](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Sky Unzipped: Terrarium Truth](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [FPV Flight Through Ancient Nishada Kingdom](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Urban Parkour Cat Leap Action](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Nano Capsule Through Alien Megastructure](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Frozen Kingdom Cinematic Fantasy Scene](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Iceland Volcano and Glacier Eruption](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Epic Wuxia Combat](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Skater's Epic City Descent](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Pirate Ship vs Sea Monster](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fire Bird Golden Hour Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Orbital Ring Collapse Rescue Mission](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Riverside Forest Healing Cook](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Odysseus Outsmarts the Cyclops](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Giant Octopus Destroys Stormy City](../catalog/model-detail-assets.json) — `seedance-2.0`
 
