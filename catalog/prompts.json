@@ -969,6 +969,47 @@
       "file": "prompts/action/cyberpunk-speeder-night-chase.md"
     },
     {
+      "slug": "goku-seedance-2-0-dogs-rally-race-chaos",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "action",
+      "title": {
+        "en": "Dogs Rally Race Chaos"
+      },
+      "description": {
+        "en": "A production-ready video prompt for dogs rally race chaos, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Create a funny cinematic rally racing scene inside a sports rally car speeding through a narrow forest road. The camera is fixed inside the car, facing the cockpit in a wide dashboard/cabin shot. Three dogs are acting like a serious professional rally team, but everything feels absurd and hilarious. On the right side, a fluffy white dog is the main driver, intensely gripping the steering wheel with tiny paws, leaning forward with a dramatic serious face like a world champion racer. The dog keeps making exaggerated steering movements as the car bounces on the dirt road. On the left side, a black and white husky sits as the co driver/navigator, wearing a tiny racing headset, holding a crumpled paper map upside down, confidently barking directions even though it clearly has no idea where they are going. The husky occasionally looks shocked, points in the wrong direction, then pretends everything is under control. Behind them, a brown dog sits in the middle seat like the nervous team manager, eyes wide open, paws gripping the seat, bouncing up and down with every bump. Sometimes it looks at the driver, then at the navigator, completely confused but trying to stay brave. The car races fast through the forest. Trees blur outside the windows. Dust, leaves, and sunlight streak past the windshield. The vehicle shakes, rattles, and swerves comedically, but the dogs remain overly serious, like they are competing in the most important rally race in history. Add funny physical comedy: the map flaps in the husky’s face, the white dog accidentally honks the horn with its paw, the brown dog’s ears bounce with every bump, and all three dogs briefly freeze in dramatic slow motion when the car hits a small jump. Style: cinematic CGI realism, funny animal comedy, energetic rally racing, expressive dog faces, dynamic motion, realistic car interior, forest road background, fast speed, comedic timing, high-quality animation, warm natural lighting, playful adventure mood. Camera: fixed wide-angle dashboard/cockpit camera, slightly shaky from the car movement, realistic vibration, fast background motion through windows, no cuts, continuous shot. Mood: hilarious, adventurous, absurd, cinematic, like a serious rally race performed by completely unqualified but very confident dogs. No text, no subtitles, no logos, no human characters.",
+      "tags": [
+        "funny-animals",
+        "racing-comedy",
+        "cgi-animation",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-dogs-rally-race-chaos",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/dogs-rally-race-chaos.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/dogs-rally-race-chaos-poster.jpg",
+        "duration": 15.12,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@bmx_ai13 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/bmx_ai13/status/2060752343738843140",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03657"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/action/dogs-rally-race-chaos.md"
+    },
+    {
       "slug": "goku-seedance-2-0-dusk-delivery-dash",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -1049,6 +1090,47 @@
       "featured": false,
       "captured_at": "2026-10-15",
       "file": "prompts/action/dystopian-underground-tunnel-chase.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-epic-medieval-battle-giant-wolf",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "action",
+      "title": {
+        "en": "Epic Medieval Battle With Giant Wolf"
+      },
+      "description": {
+        "en": "A production-ready video prompt for epic medieval battle with giant wolf, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "the camera is shaking, close up dynamic medieval battles, The knights attack the gigantic wolf, the wolf tramples, bites, and throws knights into the air, the camera follows the knights flying then returns to the wolf, dodges, parries, army fighting, trees fall, flying debris, dust particles, The sun rays pass through the leaves and the trees, hyperrealistic, cinematic, photorealistic, hyperrealistic cinematic, hyperrealistic, cinematic, photorealistic, hyperrealistic cinematic, 4k, 8k, intricate details, detailed, HDR, sharp, volumetric light, accurate and detailed, foampunk, rob liefeld, unreal engine 5, octane render, muted color",
+      "tags": [
+        "medieval",
+        "giant-wolf",
+        "battle",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-epic-medieval-battle-giant-wolf",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/epic-medieval-battle-giant-wolf.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/epic-medieval-battle-giant-wolf-poster.jpg",
+        "duration": 15.14,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Artsvisiongb via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Artsvisiongb/status/2057580247885721690",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03918"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/action/epic-medieval-battle-giant-wolf.md"
     },
     {
       "slug": "goku-seedance-2-0-epic-wuxia-combat",
@@ -2259,6 +2341,47 @@
       "file": "prompts/cinematic/ancient-machine-awakens-in-nebula.md"
     },
     {
+      "slug": "goku-seedance-2-0-armored-buggy-racing-through-cataclysm",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Armored Buggy Racing Through Cataclysm"
+      },
+      "description": {
+        "en": "A production-ready video prompt for armored buggy racing through cataclysm, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "\"A hyper-realistic, dynamic action shot of a futuristic, armored buggy racing through a forest during a cataclysmic event, such as a massive explosion or supernatural storm.\", }, \"camera\": { \"type\": \"Low-Angle Drone Chase Cam\", \"lens\": \"28mm Wide-Angle Anamorphic\", \"aperture\": \"f/8.0\", \"position\": \"Starts low and close to the rear wheel of the buggy, then pulls back and rises in a sweeping arc to reveal the full scale of the vehicle and the massive, destructive storm behind it.\", \"focus\": { \"point_of_interest\": \"The buggy.\", \"effect\": \"Deep depth of field, keeping the vehicle and the immediate chaotic environment in sharp focus.\" }, \"environment\": { \"location\": \"A rugged, muddy trail through a dense pine forest.\", \"destruction\": \"The environment is in a state of violent destruction. Trees are being splintered and thrown by an unseen force. The ground is being churned up into a mess of mud and debris.\", \"storm\": \"In the background, a colossal, swirling vortex of smoke, clouds, and debris dominates the sky, suggesting a massive explosion or an unnatural tornado.\", \"atmosphere\": \"The air is filled with a thick, high-resolution particle simulation of smoke, dirt, embers, and splintered wood, all moving at high velocity.\" }, \"lighting\": { \"primary_source\": { \"type\": \"Dark, Stormy Sky\", \"position\": \"Overhead, heavily occluded by the massive smoke/cloud vortex.\", }, \"fill_light\": { \"type\": \"Explosions and Embers\", \"color\": \"Flickering, intense orange and red.\", \"intensity\": \"Provides a warm, chaotic, and terrifying light that glints off the buggy's armor and illuminates the swirling debris.\" } }, \"vehicle\": \"Armored Buggy\", \"materials\": { \"hull\": \"Angular, faceted armor plating made from a matte-black, non-reflective composite material. The armor is heavily scratched, dented, and splattered with mud.\", \"tires\": \"Massive, knobby off-road tires, caked in thick mud.\", \"details\": \"The cockpit has armored glass. Various antennas and sensors are visible on the roof.\" }, \"animation\": \"The buggy moves at an extremely high speed, sliding and drifting through the muddy terrain. The long-travel suspension works furiously, with wheels articulating independently. It kicks up an enormous rooster tail of mud, rocks, and debris.\" \"sound\": \"The high-pitched, screaming whine of a futuristic turbine or electric engine at maximum output.\"",
+      "tags": [
+        "futuristic-buggy",
+        "action-chase",
+        "destructive-storm",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-armored-buggy-racing-through-cataclysm",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/armored-buggy-racing-through-cataclysm.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/armored-buggy-racing-through-cataclysm-poster.jpg",
+        "duration": 15.23,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@IqraSaifiii via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/IqraSaifiii/status/2047019479381729619",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_02108"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/armored-buggy-racing-through-cataclysm.md"
+    },
+    {
       "slug": "goku-seedance-2-0-astronaut-first-spacewalk-silence",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -2417,6 +2540,47 @@
       "file": "prompts/cinematic/bamboo-forest-sword-dance.md"
     },
     {
+      "slug": "goku-seedance-2-0-black-wall-megacity",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "The Black Wall Devours Megacity"
+      },
+      "description": {
+        "en": "A production-ready video prompt for the black wall devours megacity, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Gigantic desert megacity at sunset.\nOrange dust storms moving across endless highways.\nPeople continue daily life normally.\nFar on the horizon: a colossal black wall stretching infinitely across the landscape. At first it looks like weather.\nThen people realize: the wall is moving. Slowly. Directly toward the city.\nA man driving through crowded streets notices panic spreading gradually.\nEmergency broadcasts begin. Military vehicles race through intersections. \nThe wall grows larger every minute: taller than skyscrapers, perfectly smooth, completely silent,  swallowing sunlight behind it.\nAs it approaches: shadows stretch unnaturally, temperature drops, electronics malfunction, birds flee overhead.\nThe man abandons his vehicle and runs through chaotic evacuation crowds.\nBehind the skyline: the giant moving wall dominates the horizon now. Dust storms spiral upward into it.\nAt climax: the enormous black wall reaches the outer districts of the city. The entire skyline disappears into darkness behind it.\nThe man turns around as the wall towers directly over downtown.\nThen suddenly: the wall stops moving. Silence.\nAfter several seconds, the structure slowly dissolves into fog and disappears.\nUltra cinematic sci-fi mystery thriller, giant scale visuals, environmental tension, realistic panic, desert cyberpunk atmosphere, cinematic lighting, grounded realism.",
+      "tags": [
+        "sci-fi-thriller",
+        "giant-horror",
+        "desert-cyberpunk",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-black-wall-megacity",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/black-wall-megacity.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/black-wall-megacity-poster.jpg",
+        "duration": 15.12,
+        "ratio": "209:120",
+        "resolution": "3762x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AllaAisling via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AllaAisling/status/2058319311635353837",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03871"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/black-wall-megacity.md"
+    },
+    {
       "slug": "goku-seedance-2-0-blue-echoes-sync-dance",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -2454,6 +2618,47 @@
       "featured": false,
       "captured_at": "2026-09-30",
       "file": "prompts/cinematic/blue-echoes-sync-dance.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-burning-hands-crush-demon",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Giant Burning Hands Crush Demon"
+      },
+      "description": {
+        "en": "A production-ready video prompt for giant burning hands crush demon, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Strict first-person POV, male hero, face never visible. Do not keep the hero’s hands constantly in frame. The hands appear only during the dodge recovery and the spellcasting moment. One continuous shot, no cuts, vertical cinematic dark fantasy, realistic body-driven camera motion. The camera behaves like the hero’s head and torso, with strong physical reaction during the dodge, then controlled forward focus during the spell.  Over the rooftops of a burning medieval city under a storm-black sky, narrow streets below, dark roof tiles, timber-and-stone houses, cathedral spires in the distance, dense smoke columns, scattered rooftop fires, falling embers, hot smoky air. A giant demon suddenly erupts upward from the ground between the buildings, tearing through stone and rooflines, surrounded by dust, fire, and debris. The demon is enormous, heavily armored in jagged black metal with molten red-orange cracks glowing between the plates, bright red eyes, horned helmet, massive chest and shoulders, long heavy limbs, real physical weight. In one hand it wields a burning spear with a blazing red-orange tip.  The demon instantly hurls the flaming spear straight at the hero. At the last possible moment the hero performs a dramatic Hollywood-style backward dodge, bending low like a Matrix lean. Enter brief slow motion as the spear slices directly over the camera and narrowly passes above the hero’s head, trailing fire, sparks, and heat distortion. In that near-death moment, the hero breathes out in alarm, “No...” The shot then snaps back to real-time as the spear slams past into the city behind.  The hero regains balance and raises both hands only briefly to cast. Thin molten orange-red magic lines along the forearms flare brighter. The demon steps forward through smoke and fire, preparing to attack again. The hero channels a powerful summoning spell upward. From the storm clouds high above, two colossal burning hands descend from the sky, not from the hero’s body, not from the ground. They appear like divine infernal constructs falling through smoke, enormous, symmetrical, clearly shaped like giant human hands, with white-hot edges, dense orange inner fire, thick blazing fingers, and controlled purposeful motion.  The giant burning hands drop on both sides of the demon and slam inward with overwhelming force, seizing and crushing the demon’s torso from left and right. Tight center focus on the impact. The demon struggles violently with real mass, armor buckling and collapsing inward, molten cracks bursting brighter across its chest and ribs. Fire pours through the fractures as the crushing pressure intensifies. The demon ignites inside the grip of the giant hands, burns rapidly from within, and its body breaks apart into flames, black ash, sparks, and fragments of ruined armor. The crushing hands keep closing until the dem",
+      "tags": [
+        "dark-fantasy",
+        "first-person",
+        "demon",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-burning-hands-crush-demon",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/burning-hands-crush-demon.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/burning-hands-crush-demon-poster.jpg",
+        "duration": 15.09,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@LadyyEth via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/LadyyEth/status/2082922222088511776",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_10980"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/burning-hands-crush-demon.md"
     },
     {
       "slug": "goku-seedance-2-0-cat-explorers-vs-mummy-bear",
@@ -2770,6 +2975,47 @@
       "featured": false,
       "captured_at": "2026-09-30",
       "file": "prompts/cinematic/cop-catches-guilty-orange-cat.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-cosmic-summer-beach-plunge",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Cosmic Plunge to Summer Beach"
+      },
+      "description": {
+        "en": "A production-ready video prompt for cosmic plunge to summer beach, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "シーン:\nStarting from deep space, the film plunges straight down to the coast of the Japanese archipelago, and ends with a shot of a woman eating a large cup of yakisoba on a midsummer beach—a seamless one-shot video. From a cosmic perspective, it rapidly scales down to close-range shots of humans.\n\nFinal Writing Style:\nThe final cut <Image1> is based on .\nJapan's summer seaside is sunny, the perfect weather for swimming at the beach. A young woman is holding a cup yakisoba in a large white container, lifting the noodles with chopsticks and eating happily. In the background, you can see the blue sea, sandy beach, beachgoers, beach umbrellas, and beach houses. The final frame <Image1>prioritizes matching <<>>'s composition, expressions, fried noodles, and seaside backgrounds.\n\nTimeline 15 seconds:\n\n0–4 seconds:\nA wide-angle shot capturing Earth from deep space. The camera accelerates smoothly forward, and the Earth rapidly expands. A dark universe, starlight, and the blue outline of Earth's atmosphere.\n\n4–8 seconds:\nThe camera enters the atmosphere. It pierces through the clouds, descending over East Asia with a strong sense of speed and motion blur. The Japanese archipelago begins to come into view.\n\n8–11 seconds:\nIt locks onto the coastline of the Japanese archipelago and makes a rapid descent at high speed. The blue sea, white waves, sandy beaches, seaside buildings, parasols, and swimmers all come at once. Instead of the city, head to the summer beach.\n\n11–12 seconds:\nEntering low altitude from above the beach, it <Image1> smoothly decelerates toward the location where the creatures are. While preserving the lively surroundings, the focus is focused on the woman and the yakisoba at hand.\n\n12–15 seconds:\n<Image1> Landing in a medium close-up close to the previous one. A natural moment when a woman lifts the noodles with chopsticks and eats them deliciously. The background is the sea, sandy beach, and swimmers are slightly softly blurred. At the end, the woman's expression, yakisoba, and the blue sea take center stage.\n\nカメラ:\nContinuous shots without cuts. In space, it is wide-angle. From atmospheric entry to the coast, it advances at high speed. After approaching the beach, the camera slows down sharply, and in the final cut, the lens changes to a natural cinematic photographic effect. Finally, a steady close-range shot.\n\nスタイル:\nPhotoreal, cinematic, strong midsummer natural light, vivid blue sky and sea, healthy skin texture, and the mouthwatering texture of yakisoba. During space and descent, it transitions to cool tones, while after approaching the ground, it transitions to bright, warm summer colors.\n\nImportant:\nThe final cut must <Image1> always be based on .\nThe destination is the coast of the Japanese archipelago.\nMake the woman, yakisoba, and seaside background the final star.\nMaintain the continuity of a single cut.",
+      "tags": [
+        "space",
+        "beach",
+        "yakisoba",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-cosmic-summer-beach-plunge",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/cosmic-summer-beach-plunge.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/cosmic-summer-beach-plunge-poster.jpg",
+        "duration": 15.09,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@old_pgmrs_will via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/old_pgmrs_will/status/2071598123693273284",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04188"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/cosmic-summer-beach-plunge.md"
     },
     {
       "slug": "goku-seedance-2-0-crimson-horizon-mars-discovery",
@@ -3133,6 +3379,88 @@
       "file": "prompts/cinematic/deep-sea-submersible-mariana-trench.md"
     },
     {
+      "slug": "goku-seedance-2-0-deep-space-cargo-chain-collision",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Deep Space Cargo Chain Collision"
+      },
+      "description": {
+        "en": "A production-ready video prompt for deep space cargo chain collision, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Deep space cargo convoy: massive containers and industrial modules being transported when a single failure triggers a cascading chain reaction.  \nWide shot: convoy moving in formation, huge cargo blocks linked together. \nFailure point: one connector snaps, a container drifting slightly off-path. \nImmediate danger: another module clips it, sending both into slow but unstoppable rotation. \nChain reaction: collisions spread across the convoy, each impact changing trajectories. \nClose tracking: a ship weaving through spinning cargo, gaps constantly closing. \nNear-crush: two massive containers slam together just behind the ship. \nTight squeeze: pilot threads through a collapsing corridor of shifting metal blocks. \nMomentum shift: a giant module starts drifting directly into the escape path. \nLast-second dive: ship drops under it, barely clearing the edge. \nFinal moment: debris field expanding, everything still moving, no stable space left.  \nHeavy, readable motion, physical weight, constant “closing gaps” tension.",
+      "tags": [
+        "space-disaster",
+        "chain-reaction",
+        "narrow-escape",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-deep-space-cargo-chain-collision",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/deep-space-cargo-chain-collision.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/deep-space-cargo-chain-collision-poster.jpg",
+        "duration": 15.12,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AllaAisling via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AllaAisling/status/2063108812974723336",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03495"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/deep-space-cargo-chain-collision.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-demon-lord-ramen-day-off",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Demon Lord Ramen Day Off"
+      },
+      "description": {
+        "en": "A production-ready video prompt for demon lord ramen day off, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Create a 15-second anime-style video clip in 9:16 vertical format.\n\nConcept: The Demon Lord’s Day Off\nA terrifying but exhausted Demon Lord takes a break from world domination to quietly eat ramen in a small Japanese ramen shop. Tone: cinematic, slightly funny, and emotionally grounded.\n\nStyle:\n90s anime film style, fantasy slice-of-life, subtle gritty realism, moody lighting, slightly desaturated colors, warm ramen-shop highlights, expressive character acting, polished hand-drawn anime look, soft film grain.\n\nCharacter:\nMale Demon Lord with black horns, long dark hair, red eyes, dark armor, and a cape. He looks powerful but tired, intimidating yet relatable.\n\nSetting:\nA cozy ramen shop at night in Japan. Warm lantern light, wooden counter, rising steam, soft reflections, quiet customers, and a subtle rainy-night atmosphere.\n\nAudio:\nNatural Japanese dialogue, English subtitles only, soft ambient ramen shop sounds, and gentle emotional background music.\n\nShots / Timing:\n\n[00–05s]\nMedium-wide shot. The Demon Lord enters or sits at the counter, exhausted. Steam drifts through the warm shop.\nJapanese: 「今日は世界を滅ぼさない。」\nSubtitle: “Today, I’m not destroying the world.”\n\n[05–10s]\nMedium shot. A steaming bowl of ramen is placed in front of him. He visibly relaxes.\nJapanese: 「今日は休みだ。ラーメンを食べる。」\nSubtitle: “It’s my day off. I’m eating ramen.”\n\n[10–15s]\nClose-up. He takes a bite of ramen and finally looks at peace. End on a calm, composed shot with subtle humor.\nJapanese: 「世界征服は、また明日だ。」\nSubtitle: “Taking over the world can wait until tomorrow.”\n\nCamera / Constraints:\nUse cinematic anime framing with medium-wide, medium, and close-up shots. Smooth motion, subtle push-ins, and strong atmosphere. Keep it simple, readable, and emotionally clear. No extra on-screen text besides English subtitles.",
+      "tags": [
+        "anime",
+        "ramen",
+        "demonlord",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-demon-lord-ramen-day-off",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/demon-lord-ramen-day-off.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/demon-lord-ramen-day-off-poster.jpg",
+        "duration": 15.14,
+        "ratio": "9:16",
+        "resolution": "2160x3840",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@PromptlyAI_YT via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/PromptlyAI_YT/status/2056066951999533102",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04038"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/demon-lord-ramen-day-off.md"
+    },
+    {
       "slug": "goku-seedance-2-0-dreamlike-desert-wanderer",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -3248,6 +3576,47 @@
       "featured": false,
       "captured_at": "2026-09-29",
       "file": "prompts/cinematic/elderly-flute-player-neon-rain.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-flash-style-kitchen-cooking-commercial",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Flash-Style Kitchen Cooking Commercial"
+      },
+      "description": {
+        "en": "A production-ready video prompt for flash-style kitchen cooking commercial, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Cinematic super-speed cooking commercial, Flash-style kitchen action comedy aesthetic, high-energy dynamic mood with playful twist. Shot on ARRI Alexa Mini LF with 24mm wide and 50mm lens, shallow depth of field, cinematic film grain, high contrast color grading. Color palette: warm kitchen amber and brass, electric yellow and blue speed trails, vibrant vegetable greens and reds, golden fire flames, creamy whites. Lighting: warm overhead pendant kitchen lights, flashes of fire and electric speed energy, atmospheric steam and flour dust catching the light. Hyper-dynamic camera with rapid whip-pans, speed ramps, orbital moves, bullet time freezes.\nHero: Western young woman with straight blonde hair, fair skin, expressive face, natural makeup, confident yet playful energy. Casual modern outfit (light neutral tones), slightly tousled straight blonde hair catching the light.\nMOOD: Energetic, fun, heroic, delicious. The feeling of a Flash superhero using her powers for the most important mission — dinner.\nTIMELINE:\n0:00–0:02 — Opening shot\nHero stands in the middle of a beautiful modern kitchen in profile, hands in pockets, looking at a completely empty wooden dining table in front of her. Her stomach audibly rumbles. She looks tired and hungry. Camera slowly pushes in from the side. Warm amber kitchen light, quiet peaceful atmosphere.\n0:02–0:03 — The decision\nShe slowly closes her eyes with a subtle confident smirk spreading across her face. Electric yellow energy begins to crackle softly around her body. A few strands of her straight blonde hair lift slightly from the energy. Camera freezes on her smirk for a beat. Bass drop moment.\n0:03–0:05 — The explosion of speed\nShe bursts into super-speed motion in slow motion 120fps, leaving electric yellow and blue speed trails behind her. Camera rapidly tracks as she zips to the refrigerator, flings it open, multiple vegetables and ingredients fly out into the air in slow motion — tomatoes, herbs, onions, peppers, all suspended mid-flight.\n0:05–0:07 — Super-speed chaos montage\nRapid quick-cut sequence of hyper-dynamic kitchen action, each cut 0.3 seconds: she zips past the counter with speed trails, a knife spins in the air chopping vegetables by itself, a pan on the stove bursts into flames, a pot of boiling water steams dramatically, flour clouds explode in the air, a mixer runs without being touched, spices sprinkle themselves over ingredients. Electric speed trails crisscross the kitchen in all directions. Camera rapidly whip-pans between every action.\n0:07–0:09 — The plating\nExtreme macro close-ups in rapid succession — sauce pouring in a perfect swirl, vegetables placing themselves on a plate in elegant arrangement, garnish floating down gently, a perfect steak searing in a pan with orange flames, pasta twirling through the air, parmesan grating itself in slow motion. Every shot is hyper-detailed, restaurant-quality food styling. Warm",
+      "tags": [
+        "cinematic",
+        "super-speed",
+        "kitchen-action",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-flash-style-kitchen-cooking-commercial",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/flash-style-kitchen-cooking-commercial.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/flash-style-kitchen-cooking-commercial-poster.jpg",
+        "duration": 11.15,
+        "ratio": "16:9",
+        "resolution": "1920x1080",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Just_sharon7 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Just_sharon7/status/2049517842723147829",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_02388"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/flash-style-kitchen-cooking-commercial.md"
     },
     {
       "slug": "goku-seedance-2-0-flood-panic-crowd-survival",
@@ -3412,6 +3781,47 @@
       "file": "prompts/cinematic/ghost-ship-rises-from-ocean-depths.md"
     },
     {
+      "slug": "goku-seedance-2-0-giant-metallic-ring-descends",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Giant Metallic Ring Descends"
+      },
+      "description": {
+        "en": "A production-ready video prompt for giant metallic ring descends, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Gigantic futuristic city during sunset under dark storm clouds.\nPeople suddenly begin staring upward as massive shadows move across the skyline.\nFar above the city: an enormous metallic ring structure slowly descends from the clouds.\nThe ring is unimaginably large, wide enough to surround entire districts. Its rotating inner mechanisms glow with deep orange energy.\nA man on a crowded rooftop watches in disbelief as the colossal structure lowers steadily around the city center.\nThe visible danger grows constantly: massive rotating machinery overhead, atmospheric shockwaves rippling through clouds, windows shattering from vibrations, emergency aircraft circling the structure, giant shadows sweeping across skyscrapers.\nAs the ring descends: its inner walls pass dangerously close between buildings.\nEntire skyscrapers disappear into shadow beneath the rotating structure.\nCrowds evacuate through packed highways while overhead: the colossal ring continues lowering toward street level.\nThe man runs through chaotic rooftops trying to escape the descending machinery.\nThe ring’s internal mechanisms spin faster: glowing energy arcs pulse between sections, debris floats upward from magnetic distortion, communication systems fail, giant holographic advertisements collapse into static.\nAt climax: the enormous ring surrounds the entire downtown core.\nIts rotating inner surface fills the sky above the streets.\nThen suddenly: the structure stops descending.\nAll movement ceases.\nSilence.\nThe giant ring remains hovering motionless around the city while emergency lights flash below.\nUltra cinematic hard sci-fi thriller, gigantic scale visuals, environmental tension, realistic city panic, cinematic storm atmosphere, grounded futuristic realism.",
+      "tags": [
+        "sci-fi",
+        "thriller",
+        "dystopian",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-giant-metallic-ring-descends",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/giant-metallic-ring-descends.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/giant-metallic-ring-descends-poster.jpg",
+        "duration": 15.12,
+        "ratio": "209:120",
+        "resolution": "3762x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AllaAisling via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AllaAisling/status/2063470252701123061",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03478"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/giant-metallic-ring-descends.md"
+    },
+    {
       "slug": "goku-seedance-2-0-giant-octopus-city-destruction",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -3451,6 +3861,47 @@
       "featured": false,
       "captured_at": "2026-10-13",
       "file": "prompts/cinematic/giant-octopus-city-destruction.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-han-river-spring-bike-ride",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Spring Han River Bike Ride"
+      },
+      "description": {
+        "en": "A production-ready video prompt for spring han river bike ride, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Main Subject: Young Korean woman, 22, natural appearance, shoulder-length dark brown hair tied in a loose ponytail with wispy bangs. Wearing a light blue oversized hoodie, black cycling shorts, white sneakers, and a small grey crossbody bag.\n\nMinimal makeup, realistic skin texture, warm personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout.\n\nLocation: Quiet bicycle path beside the Han River during a sunny spring afternoon. Cherry trees, green grass, wooden benches, cyclists, joggers, gentle river breeze, distant city skyline, peaceful atmosphere.\n\nVisual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic everyday life.\n\nCamera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting, exposure pumping, faded colours, soft contrast, slight motion blur, DV compression artifacts, no stabilization.\n\n00:00–00:03\nShe unlocks a silver city bicycle beside a wooden bench, smiling as wind moves loose strands of hair. Camera briefly focuses on the handlebars before correcting.\n\n00:03–00:06\nShe rides slowly along the riverside path. The camera jogs behind, shaking naturally while struggling to keep her centred.\n\n00:06–00:09\nShe stops beside the river, parking the bike. Resting both hands on the handlebars, she quietly watches the water while cherry blossom petals drift past.\n\n00:09–00:12\nShe drinks from a small bottled water, brushes hair behind her ear, and laughs softly after noticing the camera.\n\n00:12–00:15\nShe gets back on the bicycle, waves casually toward the camcorder, and rides away as the operator lowers the camera. Recording cuts abruptly to black.\n\nAudio: Natural ambience only—birds, bicycle wheels, wind, distant conversations, footsteps, leaves rustling, flowing river, occasional bicycle bell. No music or narration.\n\nGoal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bicycle ride along the Han River, warm, imperfect, nostalgic, and completely believable.",
+      "tags": [
+        "nostalgia",
+        "minidv",
+        "cherry-blossom",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-han-river-spring-bike-ride",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/han-river-spring-bike-ride.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/han-river-spring-bike-ride-poster.jpg",
+        "duration": 15.12,
+        "ratio": "16:9",
+        "resolution": "1920x1080",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ZephyraLeigh via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ZephyraLeigh/status/2081195428922708039",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_10877"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/han-river-spring-bike-ride.md"
     },
     {
       "slug": "goku-seedance-2-0-high-speed-motorcycle-cinematic-ride",
@@ -3734,6 +4185,47 @@
       "file": "prompts/cinematic/impossible-siege-tower-shot.md"
     },
     {
+      "slug": "goku-seedance-2-0-indulgent-ramen-cooking-anime",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Indulgent Ramen Cooking Anime"
+      },
+      "description": {
+        "en": "A production-ready video prompt for indulgent ramen cooking anime, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Use rough pencil sketch storyboards as visual references. Use the storyboards only for composition, camera angles, hand movements, food placement, and cooking continuity, and convert the final video into a full-color, high-quality Japanese 2D anime cooking video. Do not retain the appearance of black-and-white pencil sketches in the final video. As a 15-second high-quality Japanese 2D anime cooking video, depict a sinfully indulgent raen contimentae r. Full-color anime style, vibrant and appetite-stimulating anime colors, fast-paced editing, quick-tempo cuts. However, not fast cooking, not sped-up cooking, and not time-lapse cooking. Make each cooking action easy to read, physically natural, and handle hand movements with care. Maintain natural tool handling and clear food continuity. No live-action, no photorealism, no 3D CGI, no game-like style, no subtitles, no text, no logos, no watermarks, no narration, no dialogue, no BGM. The food is the star, and a character appears only at the end to happily take a bite. Chronological Action Sequence (0:00 - 0:15): [0:00 - 0:02] The Teaser: Extreme macro close-up of a finished bowl of shoyu ramen. Thick, volumetric steam billows gracefully. The camera focuses on the glossy surface of an ajitama (marinated egg) and a crisp sheet of nori. [0:02 - 0:03] The Prep: Quick cut to a close-up of a chef's hand swiftly slicing a thick, juicy roll of chashu pork belly on a wooden cutting board with a heavy knife. [0:03 - 0:04] The Boil: Low-angle dynamic shot. A teppo (noodle basket) filled with raw yellow noodles is plunged into a roaring pot of boiling water. A massive cloud of steam erupts toward the lens. [0:04 - 0:05] The Base: Extreme close-up. A ladle pours a thick, dark, glossy tare (soy sauce base) into the bottom of a pristine ceramic bowl. [0:05 - 0:06] The Shake: Fast-motion cut. The noodle basket is pulled from the water and vigorously shaken twice. Drops of hot water fly off the noodles in slow-motion anime style. [0:06 - 0:07] The Fold: Close-up of chopsticks gracefully sliding the perfectly cooked, steaming noodles out of the basket, folding them neatly into the bowl of tare. [0:07 - 0:08] The Sear: Extreme close-up of a blue kitchen blowtorch flame blasting the surface of the chashu slices. The fat aggressively sizzles, pops, and chars. [0:08 - 0:10] The Broth: Slow-motion beauty shot. A ladle pours golden, steaming, rich pork broth over the folded noodles. The broth swirls and mixes dynamically with the dark tare at the bottom. [0:10 - 0:11] The Assembly: Rapid montage cuts. Chopsticks perfectly place the charred chashu, crisp bamboo shoots, and bright green scallions on top of the noodles. The ajitama is dropped gently into the broth, making a tiny ripple. [0:11 - 0:13] The Bite: Camera pulls back slightly. A cute, heavily stylized anime supporting character grabs a massive pinch of noodles with chopsticks",
+      "tags": [
+        "ramen",
+        "anime",
+        "cooking",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-indulgent-ramen-cooking-anime",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/indulgent-ramen-cooking-anime.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/indulgent-ramen-cooking-anime-poster.jpg",
+        "duration": 15.16,
+        "ratio": "16:9",
+        "resolution": "1920x1080",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@IqraSaifiii via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/IqraSaifiii/status/2069154640445505573",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_03092"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/indulgent-ramen-cooking-anime.md"
+    },
+    {
       "slug": "goku-seedance-2-0-jade-blade-breaks-ice-ink",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -3773,6 +4265,47 @@
       "featured": false,
       "captured_at": "2026-10-14",
       "file": "prompts/cinematic/jade-blade-breaks-ice-ink.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-knight-helmet-giant-attack",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Inside the Knight's Helmet: Giant Attack"
+      },
+      "description": {
+        "en": "A production-ready video prompt for inside the knight's helmet: giant attack, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Scene: First-person perspective battlefield - Dusk / Overcast. Single shot (first-person perspective). Atmosphere: Chaotic, claustrophobic, and tense. The air is filled with the smell of mud, soot, and damp iron, confined by the narrow opening of the knight's heavy helmet. The massive size and unstoppable force of the giant monster contrast sharply with the human perspective trapped inside heavy armor. Shot Description: A continuous, unbroken first-person perspective shot from inside the knight's helmet, framing intense physical interactions through the rigid metal visor slits (no glass). The camera simulates the heavy, violent physical effects of the body being struck by immense kinetic force, thrown backward, rolling quickly in the mud to dodge an axe, and using a handheld broadsword planted in the ground to halt the giant's momentum. Timeline / Storyboard: 0:00-0:03 - [First-person perspective / 24mm wide-angle / Handheld shaky shot]. Through the dark, scratched metal visor slits, a massive giant lunges forward and delivers a straight punch to the knight, sending the subject flying. Sound effect: Harsh metallic clang, sudden onset of high-pitched tinnitus. Lighting: Harsh, diffused gray dusk light envelops the muddy battlefield. 0:03-0:06 - [Sudden aerial tumble / Violent impact]. The kinetic force hurls the armored knight far into the air. The horizon spins and tumbles rapidly through the narrow visor slits, in a disorienting weightless arc, before crashing heavily into the mud. Piercing, deafening tinnitus instantly drowns out all background noise. Sound effect: Sharp tinnitus, followed by the dull thud of armor hitting the mud. 0:06-0:10 - [Low-angle perspective / Rapid sideways roll]. The giant closes the distance quickly, towering overhead, wielding a massive rusty battle axe. The camera simulates a fast full-body barrel roll across the muddy ground; the sky, mud, and giant blur together in a dizzying horizontal spin, as the huge axe blade slams violently into the soft mud nearby, shaking the camera intensely on impact. Sound effect: Heavy steel whistling through the air, deafening roar. 0:10-0:15 - [Low-angle subjective shot / Heavy ground anchor]. During the roll, a mud-covered steel gauntlet frantically grabs a discarded broadsword from the muck. As the giant charges again, the knight firmly anchors the sword's hilt into the ground, pointing the blade upward. The roaring giant's pure downward momentum drives it violently onto the anchored blade, halting its charge in a tense, brutal kinetic collision. The armored gauntlet shakes violently in the frame, struggling against the heavy pressure of the massive creature pushing down. Sound effect: Heavy physical impact, deep bass growls from the struggling giant. Technical & Rendering: - Camera: Frenetic, heavy first-person subjective perspective, simulating the weight of a human inside iron armor, with field of view restricted by the helmet visor. - Lighting: Diffuse, gloomy dusk, cold tones with harsh metallic reflections. - Lens: 24mm (simulating human field of view but distorted by the helmet shell). - Post-processing: Shot on 35mm film, photorealistic, cinematic atmospheric lighting, highly detailed, raw footage, cinematic frame, 8k resolution, volumetric rendering. Details & Textures: - The open visor gap of the helmet, with dents and thick mud caked on the heavy iron frame, ensuring the view is completely unobstructed by any unnatural glass reflections. - The giant ogre's rough, rugged gray-green leathery skin, covered in sweat and grime. - The shaking steel gauntlet, with deep, jagged scratches and rusty dents. Sound Layer: 0:00-0:04: Intense battlefield ambient sound is abruptly cut off by a deafening metallic clang. 0:04-0:10: Harsh, persistent tinnitus completely masks external sounds, with rapid, labored breathing inside the helmet. 0:10-0:15: Heavy metallic collisions, deep growls gradually piercing through the fading tinnitus.",
+      "tags": [
+        "first-person-battle",
+        "medieval-combat",
+        "intense-action",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-knight-helmet-giant-attack",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/knight-helmet-giant-attack.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/knight-helmet-giant-attack-poster.jpg",
+        "duration": 15.12,
+        "ratio": "16:9",
+        "resolution": "2560x1440",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@john87445528 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/john87445528/status/2034283789954728234",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_01123"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/knight-helmet-giant-attack.md"
     },
     {
       "slug": "goku-seedance-2-0-last-train-home",
@@ -3894,6 +4427,88 @@
       "file": "prompts/cinematic/matcha-roll-cake-creation.md"
     },
     {
+      "slug": "goku-seedance-2-0-matte-black-earbuds-ad",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Premium Matte Black Earbuds Ad"
+      },
+      "description": {
+        "en": "A production-ready video prompt for premium matte black earbuds ad, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "A hyper-visual, 16:9 fast-paced 10-second cinematic AI product commercial for premium matte black wireless earbuds, structured with four high-energy, seamless match-cuts.\n\n[0-2s] Lifestyle: A low-angle, tracking shot of a sharp, stylish young man walking through a moody, rainy cyberpunk city at night; vibrant neon signs create an ultra-blurred background bokeh while he glances down at a glowing smartphone screen, wearing a sleek earbud.\n\n[2-5s] Size & Portability: A top-down, geometric overhead flat-lay on a dark, wet obsidian stone texture. A seamless hard-cut reveals the earbuds precisely arranged alongside a modern smartphone, minimalist carbon-fiber wallet, and a luxury key fob, hit by a dramatic side-shadow.\n\n[5-8s] Packaging: An explosive, fast macro-zoom onto a floating, deep-black holographic retail box. The premium packaging performs a rapid 360-degree spin against an abstract, smoky dark background with glowing edge highlights.\n\n[8-10s] CTA: A perfectly symmetrical, ultra-close-up hero shot. The dual earbuds float and rotate in mid-air just above their open charging case, illuminated by a brilliant anamorphic lens flare and moody studio rim-lighting.\n\nAesthetic: High-end tech commercial, 8k resolution, photorealistic textures, crisp anamorphic lighting, and snappy, seamless jump-cut transitions.",
+      "tags": [
+        "wireless-earbuds",
+        "cyberpunk",
+        "tech-commercial",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-matte-black-earbuds-ad",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/matte-black-earbuds-ad.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/matte-black-earbuds-ad-poster.jpg",
+        "duration": 10.05,
+        "ratio": "16:9",
+        "resolution": "1920x1080",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Caden_Flux via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Caden_Flux/status/2071509622511513651",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04200"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/matte-black-earbuds-ad.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-mecha-armor-assembles-mid-fall",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Mecha Armor Assembles Mid-Fall"
+      },
+      "description": {
+        "en": "A production-ready video prompt for mecha armor assembles mid-fall, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "【Core Theme】 Realistic sci-fi mecha transformation, mid-air fall assembly, mechanical armor flight convergence, future armor awakening, cinematic mechanical divinity. 【Character Basic Setting】 Female protagonist, in combat state. Slight abrasions and dust on the face, a trace of blood at the corner of the mouth. Expression tired but determined. During the fall, the expression carries suppressed pain, with a slight frown, but remains calm. Clothing: Gray sports jacket + black sports bra + dark gray tight sports pants. Clothes blown by strong winds, torn at the edges, showing obvious battle damage. Hair: Light-colored long hair, wildly flying in the high-speed falling airflow. 【Core Mechanism】 Mecha origin: Hundreds of white mechanical armor modules suspended in the sky. Armor structure: Futuristic mechanical style, silver-white armor + titanium alloy structure + blue energy conduits. Edges of the armor equipped with micro mechanical locks and magnetic levitation interfaces. Power core: Blue-white high-frequency energy core at the center of the armor, energy pulses flickering like a heartbeat. 【Scene Environment】 Doomsday city. Background: High above an abandoned city, dust and smoke fill the air between skyscrapers. The sky is gloomy, with gray-blue clouds pressing low. In the distant sky, burning meteors continuously fall trailing flames. Strong winds howl. High-altitude dust and debris float in the air. 【Atmosphere and Image Quality】 Visual tone: Cinematic realistic CG. Camera: IMAX film camera simulation, Panavision C series lens. Focal length: 24mm → 50mm dynamic change. Aperture: f4. Image features: Low-saturation gray-blue tones, realistic film grain, slight edge soft focus, strong motion blur. Style core: Real mechanical texture + CG futuristic technology. Emphasis: High-speed mechanical assembly, energy arcs, metal collision sparks. 【Camera Movement】 Single shot, one continuous take, no cuts. Camera mode: FPV first-person perspective follow. Camera features: Strong handheld camera feel, high-speed motion, breathing-like shake, screen tremor from energy impacts. Dynamic trajectory: High-altitude fall follow → orbit rotation → fast push-in → low-angle hero shot. 【Timeline】 0-3 seconds: High-altitude fall. Action: Protagonist falls rapidly from high altitude. Body tumbles and loses control in the air. Long hair and clothes violently blown by the strong wind. Air is sharply cut through, producing piercing wind sounds. Camera: FPV perspective high-speed dive follow. Camera shakes violently. Clouds are broken through, creating explosive airflow. Distant city rapidly enlarges. Air produces strong motion blur. 3-6 seconds: Mecha flight convergence. Protagonist spreads her arms. Clenches teeth and whispers: 'Initiate armor protocol.' Instantly. Numerous mecha parts in the sky begin to fly at high speed. Hundreds of armor modules fly in from different directions. Flight trajectory: High-speed rotation, magnetic levitation track, blue energy trails. Sound: Dense mechanical whistling, metal vibration sounds, electromagnetic hum. Camera: Orbits rapidly around the protagonist. FPV lens briefly loses focus. Armor parts whiz past the lens at high speed. 6-9 seconds: Mechanical assembly. First armor piece impacts the protagonist's chest. Instantly unfolds and locks. Click— Mechanical structure automatically expands. Then: Shoulder armor, leg armor, arm armor, waist core. Armor modules fly in one after another. High-speed assembly. Mechanical locks frantically engage. Blue energy conduits light up. Electric arcs burst at metal connections. Sparks continuously erupt in the air. Camera: Orbit rotation. High-speed push-in. Assembly moment generates shockwaves. 9-12 seconds: Complete mecha formation. Last helmet component flies in from a distance. High-speed rotation. Camera slow-motion capture. Helmet automatically unfolds. Transparent HUD visor closes. Eyes light up with blue light. Back armor expands. Two large propulsion wings unfold and lock. Energy core activates. Blue energy flow runs through the entire mecha. Mechanical system startup sound: Low rumbling vibration. 12-15 seconds: Superhero landing. Protagonist falls rapidly toward the ground. Ground quickly approaches. At the last moment. Propulsors burst with blue flames. She abruptly descends. Superhero landing pose: One knee on the ground, one fist slams the ground. Instantly. Ground cracks. Rocks fly up. Shockwave spreads. Surrounding dust forms a huge ring-shaped airwave. Camera: Strong vibration. FPV quickly retreats. Final shot: Low-angle upward shot. Mecha stands up. Blue energy flows over the armor surface. Protagonist looks up at the sky. Distant meteor falls. Mecha propulsors ignite. She instantly takes off vertically. Charges into the clouds at high speed. Camera shaken by strong airflow. Scene gradually pulls away. Cinematic ending shot.",
+      "tags": [
+        "sci-fi",
+        "mecha",
+        "cinematic",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-mecha-armor-assembles-mid-fall",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/mecha-armor-assembles-mid-fall.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/mecha-armor-assembles-mid-fall-poster.jpg",
+        "duration": 15.06,
+        "ratio": "9:16",
+        "resolution": "2160x3840",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Vampirosapien15 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Vampirosapien15/status/2033137932215742858",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_01203"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/mecha-armor-assembles-mid-fall.md"
+    },
+    {
       "slug": "goku-seedance-2-0-modern-girl-joseon-palace",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -3935,6 +4550,47 @@
       "file": "prompts/cinematic/modern-girl-joseon-palace.md"
     },
     {
+      "slug": "goku-seedance-2-0-nano-exo-suit-hero-awakens",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Nano Exo-Suit Hero Awakens"
+      },
+      "description": {
+        "en": "A production-ready video prompt for nano exo-suit hero awakens, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "An intense, cinematic, slow-motion action sequence unfolds on a damp, overcast city street during dusk. A young Asian man wearing a black hoodie engages in a fast-paced, close-quarters martial arts battle against a glowing, high-tech holographic, energy-based blue cyborg. The camera moves dynamically through the fight, capturing razor-sharp dodges, powerful blocks, near misses, and fluid hand-to-hand combat choreography.\\n\\nVFX & Transformation Sequence:\\n\\nThe man leaps backward into a defensive stance. A dramatic close-up reveals his forearm glowing with intricate incandescent orange-and-gold circuit patterns, releasing wisps of luminous steam. As he clenches his fist, a violent explosion of golden sparks and metallic nano-particles erupts outward. The particles rapidly morph and crawl across his arm, assembling into a sleek, high-tech gold-and-black metallic gauntlet.\\n\\nThe camera pulls back as the nano-armor swiftly expands, encasing his entire body in a premium studio-quality gold-and-black exo-suit with a fabric hood. The transformation is seamless, featuring realistic nano-particle assembly, metallic surface deformation, and cinematic energy effects.\\n\\nThe armored hero extends his arm forward, generating a swirling vortex of radiant golden energy before unleashing a powerful concentrated energy beam across the street. The blast illuminates the rain-soaked asphalt with dramatic reflections and volumetric lighting.\\n\\nLighting & Atmosphere:\\n\\nMoody, desaturated overcast daylight with a soft sunset glow on the horizon. The environment features highly reflective wet asphalt, glossy parked cars (Hyundai SUV), polished metallic armor, and realistic rain-soaked urban reflections.\\n\\nThe hero's helmet features a smooth, reflective gold visor that suddenly activates, revealing sharp, vibrant orange LED eyes. Ultra-detailed, photorealistic, cinematic composition, 8K resolution, Hollywood-quality visual effects, AAA blockbuster action, realistic physics, dynamic camera movement, premium CGI, dramatic environmental lighting, and film-grade visual fidelity.",
+      "tags": [
+        "sci-fi-action",
+        "nano-armor",
+        "cyberpunk",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-nano-exo-suit-hero-awakens",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/nano-exo-suit-hero-awakens.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/nano-exo-suit-hero-awakens-poster.jpg",
+        "duration": 15.07,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Goodmanprotocol via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Goodmanprotocol/status/2075191704525926870",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_07706"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/nano-exo-suit-hero-awakens.md"
+    },
+    {
       "slug": "goku-seedance-2-0-neon-rain-city-night",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -3972,6 +4628,47 @@
       "featured": false,
       "captured_at": "2026-09-29",
       "file": "prompts/cinematic/neon-rain-city-night.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-night-street-racing-cinematic",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Night Street Racing Cinematic Sequence"
+      },
+      "description": {
+        "en": "A production-ready video prompt for night street racing cinematic sequence, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "cinematic street racing sequence at night, a focused driver inside a high-performance car grips the steering wheel, intense eye focus, city lights reflecting on windshield, tension building before sudden acceleration\n\ncamera: rapid multi-angle system with seamless transitions, interior close-up → over-the-shoulder → exterior tracking → low ground shots, ultra dynamic camera movement, whip pans + speed ramp transitions + motion blur masking cuts, continuous flow illusion\n\n(0-2s) interior close-up on driver, hand tightens on gear shift, subtle breathing, dashboard lights glowing\n(2-4s) over-the-shoulder shot, road ahead stretching into neon-lit city, engine vibration building\n(4-6s) extreme close-up on finger pressing NOS button, instant ignition reaction\n(6-8s) explosive acceleration, camera snaps to exterior side tracking shot, car launches forward with violent speed surge\n(8-10s) ultra low ground shot near asphalt, wheels spinning at extreme velocity, environment streaking past\n(10-12s) high-speed chase through tight streets, sharp turns, camera whip pans between angles, reflections and light trails enhancing speed\n\nDense urban night environment, wet asphalt reflecting neon lights, tunnel passages, street lights streaking, high-speed city atmosphere\nUltra realistic, fast and furious inspired energy, photorealistic lighting, intense motion blur, high contrast neon reflections, cinematic depth of field, extreme sense of speed, fluid transitions, no distortion, no stretching",
+      "tags": [
+        "street-racing",
+        "night-driving",
+        "cinematic",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-night-street-racing-cinematic",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/night-street-racing-cinematic.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/night-street-racing-cinematic-poster.jpg",
+        "duration": 12.1,
+        "ratio": "16:9",
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@CharaspowerAI via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/CharaspowerAI/status/2039651574297792688",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00006"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/night-street-racing-cinematic.md"
     },
     {
       "slug": "goku-seedance-2-0-ocean-churns-elixir-poison",
@@ -4052,6 +4749,88 @@
       "featured": false,
       "captured_at": "2026-10-13",
       "file": "prompts/cinematic/odysseus-cyclops-claymation.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-one-shot-war-messenger-run",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "One-Shot War Messenger's Desperate Run"
+      },
+      "description": {
+        "en": "A production-ready video prompt for one-shot war messenger's desperate run, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "A war-disaster cinematic feel, one continuous shot. In the gray-blue dawn light, a young messenger dashes out of a bunker torn open by artillery fire. The camera follows closely behind him at high speed, weaving through muddy trenches, a burning supply truck, a shattered wooden bridge, and crowds scattering in all directions. In the distance, shells keep falling; mud, wood chips, flames, and pillars of smoke burst continuously on both sides of the frame. Soldiers and stretcher bearers cross the foreground, creating an intense sense of presence. The protagonist climbs over a collapsed sandbag wall, slides down a waterlogged slope, and crosses an open area strewn with barbed wire and shell craters. The blast wave from an explosion kicks up a massive cloud of dust behind him. Finally, he rushes up the ruins of a half-destroyed bell tower, inserts a glowing signal flare into a high fixture, and the camera rapidly pulls back to reveal a panoramic view of the burning battlefield and the advancing battle lines in the distance. A cinematic, realistic sense of large-scale war, strong rhythm, no cuts.",
+      "tags": [
+        "war-disaster",
+        "cinematic-shot",
+        "battlefield-chaos",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-one-shot-war-messenger-run",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/one-shot-war-messenger-run.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/one-shot-war-messenger-run-poster.jpg",
+        "duration": 15.12,
+        "ratio": "16:9",
+        "resolution": "2560x1440",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Dheepanratnam via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Dheepanratnam/status/2035088467722740028",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_01063"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/one-shot-war-messenger-run.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-orbital-collapse-survival-run",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Orbital Collapse Survival Run"
+      },
+      "description": {
+        "en": "A production-ready video prompt for orbital collapse survival run, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Colossal orbital construction system, synchronized assembly breaks down, turning massive moving parts into lethal, unpredictable motion.  \nWide shot: perfectly timed mechanical arms moving huge segments into place. \nMicro-delay: one segment arrives early, barely noticeable at first. \nCollision: misaligned parts slam together, throwing off timing across the system. \nCascade: surrounding arms react too late, desynchronizing the entire structure. \nHard dive: small ship enters the assembly zone as motion becomes chaotic. \nNear-crush: two massive plates slam shut just after the ship passes through. \nTiming gamble: pilot commits to a gap that’s already closing. \nWhip movement: a mechanical arm swings unpredictably across the path. \nClose scrape: ship rolls sideways, barely avoiding full impact. \nMoving maze: structure still assembling, but incorrectly, paths shifting constantly. \nCritical moment: a full segment drops into the escape vector. \nLast-second slip: ship squeezes through a narrowing gap as components collide behind.  \nRhythm collapse = danger, everything still moving with force but no coordination.",
+      "tags": [
+        "space-construction",
+        "mechanical-failure",
+        "escape-sequence",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-orbital-collapse-survival-run",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/orbital-collapse-survival-run.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/orbital-collapse-survival-run-poster.jpg",
+        "duration": 15.12,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AllaAisling via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AllaAisling/status/2078277108762038608",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_10509"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/orbital-collapse-survival-run.md"
     },
     {
       "slug": "goku-seedance-2-0-osprey-strike-perfect-hunt",
@@ -4296,6 +5075,47 @@
       "file": "prompts/cinematic/raccoon-donut-heist.md"
     },
     {
+      "slug": "goku-seedance-2-0-reality-illusion-fight-desire",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Reality Illusion Fight Desire"
+      },
+      "description": {
+        "en": "A production-ready video prompt for reality illusion fight desire, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Generate a 15-second high-energy creative short film for a game, featuring deep voiceover narration, with careful storyboard arrangement and seamless transitions. 【Camera and Transition Arrangement】 0-5 seconds: A handheld camera rapidly pushes toward a monitor flashing red RGB lights. When the character on screen raises their hand, use an 'action match cut' to seamlessly transition to a male player in real life standing up and reaching toward the camera. The camera movement must maintain a continuous forward thrust. 5-8 seconds: The moment the player's hand covers the lens, cut through a 'black screen transition' smoothly into a CG world. A golden skeleton warrior emerges in the darkness, with a slow-motion shot of their left hand bursting with golden particles. 8-15 seconds: Use rapid 'jump cuts' in sync with the rhythm to showcase multi-angle close-ups of the character. The ending frame gradually darkens, echoing the opening color tone to form a visual loop. 【Visual and Transition Quality】 Maintain a cinematic, realistic look with high contrast throughout. Transitions must be smooth, without any jarring jumps, and character movements should flow naturally. 【Voiceover and Sound Design】 1. Use a deep, magnetic, slightly husky male voice for the narration, with a steady pace and a strong sense of storytelling. 2. Narration content: 'At the boundary between reality and illusion, the only truth is the desire to fight.' 3. Sound design: Precisely sync the visual rhythm with the narration's emphasis and background sound effects. At the 5-second mark, the energy burst must be accompanied by a powerful sub-bass.",
+      "tags": [
+        "game-trailer",
+        "cinematic",
+        "action-match-cut",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-reality-illusion-fight-desire",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/reality-illusion-fight-desire.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/reality-illusion-fight-desire-poster.jpg",
+        "duration": 15.12,
+        "ratio": "9:16",
+        "resolution": "1440x2560",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@johnAGI168 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/johnAGI168/status/2046214282174427182",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00064"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/reality-illusion-fight-desire.md"
+    },
+    {
       "slug": "goku-seedance-2-0-retro-cat-cheesy-pickup-line",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -4378,6 +5198,47 @@
       "file": "prompts/cinematic/riverside-forest-anime-cooking.md"
     },
     {
+      "slug": "goku-seedance-2-0-sakura-sword-duel-dark-lake",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Epic Sakura Sword Duel On Dark Lake"
+      },
+      "description": {
+        "en": "A production-ready video prompt for epic sakura sword duel on dark lake, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Two elite swordsmen face each other on a vast dark lake under storm clouds. The lake surface is calm like black glass, reflecting faint moonlight.\n\nIMPORTANT: Each character performs individually before any combat begins.\n\nSCENE 1 (0–4s): Introduction Performance — Sakura Warrior\nThe female Sakura swordswoman (Image1) stands gracefully on a floating wooden platform. She slowly steps forward, showing calm mastery. She performs a controlled sword demonstration: slow elegant katana movements in the air, precise and fluid, with sakura petals forming around her blade. The camera focuses on her elegance, balance, and breathing control. No opponent interaction yet.\n\nSCENE 2 (4–8s): Introduction Performance — Three-Blade Warrior\nThe male Three-Blade swordsman (Image2) stands on a separate floating platform across the lake. He performs his own combat demonstration: controlled dual stance transitions, shifting weight, and rapid footwork visualization without advancing. His swords are revealed one by one in a disciplined sequence. Green wind energy subtly flows around his movements. Camera focuses on strength, discipline, and precision.\n\nSCENE 3 (8–12s): Mutual Awareness\nBoth characters stop their demonstrations and lock eyes across the lake. The atmosphere becomes tense. Wind intensifies. Water begins to ripple between them. Camera slowly zooms out to reveal distance and scale of the battlefield.\n\nSCENE 4 (12–16s): Water Run Engagement\nBoth warriors simultaneously step onto the water surface, running across it with controlled speed. Each character creates independent ripples and splash trails. No shared motion path. Camera tracking shot follows their separate trajectories as they close distance.\n\nSCENE 5 (16–20s): First Clash\nThey meet mid-air above the lake. A powerful collision of sakura-pink energy and green wind force explodes outward, distorting the water surface below like shattered glass. Camera performs slow 360 orbit around impact point.\n\nSCENE 6 (20–24s): Aftermath\nBoth land on opposite sides of the lake, standing still. Mist slowly rises. The lake returns to silence. Final slow pull-back reveals the vast dark battlefield.\n\nLighting: cinematic moonlight, volumetric fog, storm atmosphere, high contrast reflections.  \nStyle: cinematic wuxia realism, grounded physics, epic samurai duel tone.  \nAudio: wind pressure, katana movement, water footsteps, distant thunder, impact shockwave.\n\n4K Ultra HD, rich details, sharp clarity, cinematic texture, stable picture. Maintain face and clothing consistency, no distortion, high detail. Generate video without subtitles.",
+      "tags": [
+        "sword",
+        "martialarts",
+        "epic",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-sakura-sword-duel-dark-lake",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/sakura-sword-duel-dark-lake.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/sakura-sword-duel-dark-lake-poster.jpg",
+        "duration": 22.69,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Cupang1997 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Cupang1997/status/2071848498430112010",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_04176"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/sakura-sword-duel-dark-lake.md"
+    },
+    {
       "slug": "goku-seedance-2-0-shadow-speed-mountain-pass",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -4458,6 +5319,47 @@
       "featured": false,
       "captured_at": "2026-10-15",
       "file": "prompts/cinematic/shiba-summer-joy.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-silk-dress-lab-combat",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Raw Silk Dress Lab Combat"
+      },
+      "description": {
+        "en": "A production-ready video prompt for raw silk dress lab combat, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "Shot handheld with an IMAX 70mm film camera, this is a high-intensity, raw hand-to-hand combat scene set in a dark, dirty chemical laboratory at night. The footage is full of realistic film grain, slight shutter shake, and the feeling of hand-held movement, featuring a cool, greenish-blue color gradation, strong motion blur, and imperfect composition, alternating between Dutch angles and dramatic low-angle perspectives. 16:9 aspect ratio, cinematic high detail. An East Asian woman, approximately 35 years old, with shoulder-length black hair that swings wildly and with momentum during her movements, has several fresh scratches and bruises on her face. Her eyes are sharp, her brows furrowed, and her lips tightly pressed together, conveying anger and power. She wears an elegant, flowing white silk slip dress with thin straps; the delicate silk fabric billows, spins, and slightly tears during the intense action, the skirt&#39;s fluttering contrasting sharply with the violent movements. The skin has realistic pore texture, sweat reflections, and scratch details; taut muscles and rapid breathing are visible throughout the action. The identity, clothing, hairstyle, and appearance remain completely consistent throughout the video. The male attacker, approximately 40 years old, is of robust build. His dark long-sleeved shirt and trousers are disheveled from the struggle, and his face is covered in blood and swelling. The scene is an abandoned chemical laboratory at night: peeling white walls reveal cement and rust, rows of rusty metal workbenches and shelves, broken glass test tubes and beakers scattered across the concrete floor, a metal trolley leaning askew, flickering and unstable overhead lights casting shifting greenish shadows, dust particles floating in the air, and chemical residue stains and reflective shards of glass on the ground. The fight sequence begins with a handheld follow-cam of a sideways grappling, close-ups of the woman&#39;s fierce expression, her hair and white silk skirt flying, dust kicked up by her movements. Suddenly, she leaps and delivers a spinning kick to the man&#39;s head, deforming his head from the impact, causing his lip to rupture and bleed, and his body to lose balance and crash heavily into the workbench, shattering numerous glass instruments with a crisp cracking sound. After landing, the woman delivers a series of powerful punches to the man&#39;s torso, and during the struggle, the man grabs one of her arms and retaliates, striking her face. A close-up of her angry expression as she shouts and delivers a series of rapid kicks to the man&#39;s ribs and abdomen, causing him to clutch his stomach and stagger backward. She catches up, slamming him to the ground and striking his body repeatedly with her elbows, producing dull thuds. Then, in a dramatic twist, she knees him firmly in the chest. The man struggles, grabbing a test tube from the ground and lunging to stab her in the side, but misses, abruptly stopping. The woman whips her hair up, spitting in the man&#39;s face, and, panting heavily, walks heroically toward the camera, filmed from a low angle with a handheld camera. The crunching sound of her footsteps on shattered glass echoes in the empty laboratory, her heavy breathing clearly visible. The film emphasizes realistic physics: the tumbling and tearing of silk fabric and air resistance, the natural inertia of her hair, the force of her punches and kicks and her body swaying, the flying particles of shattered glass, the dust rising, and the subject&#39;s panting and the feedback of gravity. The handheld camera exhibits noticeable shaking, brief defocusing, and motion blur during rapid kicks and rotations. The composition deviates from the center when the operator chases the action, and flickering lights cause slight exposure fluctuations. Realistic particle effects, cinematic natural lighting and film-like texture, an emotionally empowered tone, and high-detail 4K cinematic quality. At the end, she walks breathlessly towards the foreground; the image retains the imperfect texture of the handheld camera and the slight sense of breathing, gradually framing the shot around her before cutting to black. Only natural ambient sounds and on-location recordings are used: heavy breathing, muffled punches and kicks, the rustling and tearing of a silk skirt, the crisp sound of shattering glass, the dull thud of metal colliding, a woman&#39;s angry shout, a man&#39;s painful groan, and the echoing crunch of footsteps on broken glass. There is no background music, no sound design, and no narration.",
+      "tags": [
+        "handheld-combat",
+        "cinematic-fight",
+        "female-empowerment",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-silk-dress-lab-combat",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/silk-dress-lab-combat.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/silk-dress-lab-combat-poster.jpg",
+        "duration": 15.07,
+        "ratio": "9:16",
+        "resolution": "2160x3840",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@newtonmark13 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/newtonmark13/status/2082100302480626158",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_10909"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/silk-dress-lab-combat.md"
     },
     {
       "slug": "goku-seedance-2-0-sky-rogue-aerial-bazaar-dive",
@@ -4579,6 +5481,47 @@
       "file": "prompts/cinematic/space-station-collapse-engineer-race.md"
     },
     {
+      "slug": "goku-seedance-2-0-suit-archer-bullseye",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Suit Archer Bullseye Shot"
+      },
+      "description": {
+        "en": "A production-ready video prompt for suit archer bullseye shot, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "A realistic film scene begins in a vast wilderness under a warm golden sky late in the afternoon. A man in a dark suit stands in the foreground, holding a modern recurve bow. His posture was steady and focused, his breathing controlled, his gaze fixed on a distant target on the distant horizon. The surroundings feel quiet and expansive, with a gentle breeze brushing the grass and soft sunlight casting long shadows. When he released the bowstring, the arrow shot forward with a crisp sound. The shot immediately accelerated and locked onto the arrow in flight. The lens tracks directly behind and slightly to the side of the arrow, perfectly aligned as it cuts through the air. Motion blur surrounds the background, while the arrows remain clear and centered. As the arrows flew straight and true, the howling wind intensified. The goal quickly grows. In the final seconds, the camera tightly closes when the arrow hits the center of the bullseye. It ends with an extreme close-up of an arrow embedded in the red center, with a slight vibration, accompanied by a crisp impact and dramatic silence.",
+      "tags": [
+        "archery",
+        "slow-motion",
+        "precision",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-suit-archer-bullseye",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/suit-archer-bullseye.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/suit-archer-bullseye-poster.jpg",
+        "duration": 10.1,
+        "ratio": "16:9",
+        "resolution": "1920x1080",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@umesh_ai via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/umesh_ai/status/2020786771865260285",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_05085"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/suit-archer-bullseye.md"
+    },
+    {
       "slug": "goku-seedance-2-0-surfer-riding-ocean-barrel",
       "model": "seedance-2.0",
       "industry": "media-entertainment",
@@ -4694,6 +5637,47 @@
       "featured": false,
       "captured_at": "2026-09-30",
       "file": "prompts/cinematic/wingsuit-pilot-ancient-canyon.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-woman-leaps-onto-dragon",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Woman Leaps onto Dragon Mid-Air"
+      },
+      "description": {
+        "en": "A production-ready video prompt for woman leaps onto dragon mid-air, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "The camera shoots upward from below, sweeping past the rugged cliff face, then suddenly tilts down to reveal the churning sea below, where waves explode against the black rocks. At the edge of the cliff stands a woman (Image 1), fearless, staring into the whirlpool as if challenging it to raise higher waves. Without hesitation, she steps forward and leaps off the cliff, arms outstretched, plummeting straight down through the howling wind and flying spray. The camera follows her in free fall, her long hair and cloak whipping wildly in the air as the dark rocks and turbulent waters rush closer. Then, a massive shadow tears through the mist below—a dragon soars up, its wings spread like storm sails, its scales glistening with a wet sheen amid the splashing waves. It swoops beneath her mid-descent, and she lands on its back with practiced grace, her fingers gripping the ridges along its neck. The dragon banks sharply, climbing in a spiral arc past the cliff face. The camera stays close, circling tightly, then pulls back, finally settling on a close-up frontal shot: she rides the beast straight into the sky, wind tousling her hair, her expression eerily calm, her eyes burning with unwavering determination, while the raging sea below, now distant, appears small and powerless.",
+      "tags": [
+        "dragon-rider",
+        "cliff-jump",
+        "fantasy-action",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-woman-leaps-onto-dragon",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/woman-leaps-onto-dragon.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/woman-leaps-onto-dragon-poster.jpg",
+        "duration": 15.12,
+        "ratio": "16:9",
+        "resolution": "2560x1440",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@john87445528 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/john87445528/status/2042194856835961343",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00377"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/cinematic/woman-leaps-onto-dragon.md"
     },
     {
       "slug": "minimax-h3-paper-boat-rain-puddle",
@@ -5355,6 +6339,47 @@
       "featured": false,
       "captured_at": "2026-10-14",
       "file": "prompts/surreal-vfx/hidden-arctic-futuristic-city.md"
+    },
+    {
+      "slug": "goku-seedance-2-0-human-to-machine-precision",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "surreal-vfx",
+      "title": {
+        "en": "Human to Machine Precision"
+      },
+      "description": {
+        "en": "A production-ready video prompt for human to machine precision, with explicit scene, camera, motion, timing, and atmosphere direction."
+      },
+      "prompt": "High-speed urban environment under extreme pressure. Hyper-realistic, grounded physics. The tone shifts from human tension to machine-level precision.\nShot on 35mm anamorphic lens, f/2.8. Natural motion blur, realistic exposure, high dynamic range. Golden hour light cutting through dust, glass particles, and atmospheric haze.\nSubject: A skilled driver under intense stress. Fully human at the start, breathing, micro-errors, instability. Gradually transitions into passive role as control shifts to a system beyond them.\nAudio: starts organic (breath, friction, engine strain) → evolves into tight, mechanical, synchronized sound → ends in overwhelming environmental impact.\n0–2s: Interior close-up. Hands gripping controls (steering wheel / throttle / harness). Micro-corrections, slight oversteer, imperfect rhythm. Breath audible. Stress visible.\n2–4s: Rapid cuts: exterior tracking shot (speed established), side angle (environment rushing past), forward POV (danger ahead forming). Everything is still human-driven, slightly unstable.\n4–6s: Wide shot, impossible situation ahead: blocked path, collapsing structure, incoming collision, or narrowing space. No clear solution.\n6–8s: Back inside, the subject braces. Then controls shift subtly on their own. Movement becomes smoother… too smooth. Sound tightens. Breathing drops out of focus.\n8–11s: Camera language changes: ultra-stable tracking shots, perfect alignment through space, impossible micro-adjustments at high speed. Multiple angles: top-down threading through obstacles, side pass with millimeter clearance, forward POV locking onto optimal path. The subject is no longer driving,  just holding on.\n11–13s: The system commits to a maneuver no human would attempt: threading through collapsing debris / crossing moving objects / cutting through a closing gap at full speed. Time feels compressed and precise.\n13–15s: Massive physical consequence: debris explosion, chain reaction collisions, shockwave through environment. But the subject emerges through it cleanly. \nFinal shot: interior close-up,  subject still frozen, realizing they were not in control. Sound fades from mechanical precision back to raw breathing.\nUltra-photorealistic 8K, cinematic HDR lighting, perfect motion continuity, physically accurate mass interaction, multi-angle coherence, no artifacts, grounded realism.",
+      "tags": [
+        "hyper-realistic",
+        "high-speed",
+        "driver-stress",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-human-to-machine-precision",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/human-to-machine-precision.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/human-to-machine-precision-poster.jpg",
+        "duration": 15.12,
+        "ratio": "16:9",
+        "resolution": "3840x2160",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AllaAisling via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AllaAisling/status/2045872043783290947",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_id": "SD2_00094"
+      },
+      "status": "published",
+      "featured": false,
+      "captured_at": "2026-10-16",
+      "file": "prompts/surreal-vfx/human-to-machine-precision.md"
     },
     {
       "slug": "goku-seedance-2-0-infinite-magical-bookstore",
