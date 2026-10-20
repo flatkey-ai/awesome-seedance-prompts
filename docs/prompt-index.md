@@ -1,6 +1,6 @@
 # Prompt index
 
-Published entries: **310**
+Published entries: **335**
 Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
@@ -67,6 +67,9 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 
 - [Alien Escape: Station Crash](../prompts/action/alien-escape-station-crash.md) — `seedance-2.0`
 - [Avalanche Chases Train Through Mountains](../prompts/action/avalanche-chases-train-through-mountains.md) — `seedance-2.0`
+- [Cloud Bridge Motorcycle Chase](../prompts/action/cloud-bridge-motorcycle-chase.md) — `seedance-2.0`
+- [Cool Dog Neon Skate Chase](../prompts/action/cool-dog-neon-skate-chase.md) — `seedance-2.0`
+- [Crystal Cavern Mag-Lev Chase](../prompts/action/crystal-cavern-mag-lev-chase.md) — `seedance-2.0`
 - [Cyberpunk Speeder Night Chase](../prompts/action/cyberpunk-speeder-night-chase.md) — `seedance-2.0`
 - [Dogs Rally Race Chaos](../prompts/action/dogs-rally-race-chaos.md) — `seedance-2.0`
 - [Dusk Delivery Dash](../prompts/action/dusk-delivery-dash.md) — `seedance-2.0`
@@ -78,14 +81,17 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 - [Giant Beast Strikes](../prompts/action/fog-giant-beast-attack.md) — `seedance-2.0`
 - [Glacier Avalanche One-Take Chaos](../prompts/action/glacier-avalanche-one-take-chaos.md) — `seedance-2.0`
 - [High-Speed Orbital Capital Ship Duel](../prompts/action/orbital-capital-ship-duel.md) — `seedance-2.0`
+- [Ice Canyon Survival Escape](../prompts/action/alien-ice-canyon-escape.md) — `seedance-2.0`
 - [Ice Lion Queen's Epic Drake Battle](../prompts/action/ice-lion-queen-drake-battle.md) — `seedance-2.0`
 - [Ink Warriors Break the Canvas](../prompts/action/ink-warriors-break-the-canvas.md) — `seedance-2.0`
 - [Lightning Chase: Ground Zero Survival](../prompts/action/lightning-chase-ground-zero.md) — `seedance-2.0`
 - [Macro Fae Battlefield FPV Oner](../prompts/action/macro-fae-battlefield-fpv-oner.md) — `seedance-2.0`
 - [Miniature Museum Portal Escape](../prompts/action/miniature-museum-portal-escape.md) — `seedance-2.0`
+- [Moonlit Piano Chase Trap](../prompts/action/moonlit-piano-chase-trap.md) — `seedance-2.0`
 - [Narrow Escape from Ancient Door](../prompts/action/narrow-escape-ancient-door.md) — `seedance-2.0`
 - [Neon Car Transforms into Robot](../prompts/action/neon-car-transforms-into-robot.md) — `seedance-2.0`
 - [Neon Hunter Cinematic Action](../prompts/action/neon-hunter-night.md) — `seedance-2.0`
+- [One Shot Planetary Disaster Escape](../prompts/action/one-shot-planetary-disaster-escape.md) — `seedance-2.0`
 - [Orbital Ring Collapse Rescue Mission](../prompts/action/orbital-ring-collapse-rescue.md) — `seedance-2.0`
 - [Pirate Ship vs Sea Monster](../prompts/action/pirate-ship-monster-storm.md) — `seedance-2.0`
 - [Portal Collapse Hero Escape](../prompts/action/portal-collapse-hero-escape.md) — `seedance-2.0`
@@ -106,8 +112,10 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 ### cinematic
 
 - [10 Female War Goddess Armor Transformations](../prompts/cinematic/10-female-war-goddess-armor-transformations.md) — `seedance-2.0`
+- [10,000 Years of Coastal Evolution](../prompts/cinematic/10000-years-coastal-evolution.md) — `seedance-2.0`
 - [12 Months of Senso-ji Gate](../prompts/cinematic/12-months-sensoji-gate-timelapse.md) — `seedance-2.0`
 - [1980s Street Noir Cinematic](../prompts/cinematic/1980s-street-noir.md) — `seedance-2.0`
+- [3D Printer Builds Tiny Building](../prompts/cinematic/3d-printer-building-miniature.md) — `seedance-2.0`
 - [Abandoned Hallway Horror POV](../prompts/cinematic/abandoned-hallway-horror-pov.md) — `seedance-2.0`
 - [Abandoned Station Rebuilds at Dusk](../prompts/cinematic/abandoned-station-rebuilds-at-dusk.md) — `seedance-2.0`
 - [Ancient Machine Awakens in Nebula](../prompts/cinematic/ancient-machine-awakens-in-nebula.md) — `seedance-2.0`
@@ -142,6 +150,7 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 - [Dreamlike Desert Wanderer](../prompts/cinematic/dreamlike-desert-wanderer.md) — `seedance-2.0`
 - [Elderly Flute Player in Neon Rain](../prompts/cinematic/elderly-flute-player-neon-rain.md) — `seedance-2.0`
 - [Epic Sakura Sword Duel On Dark Lake](../prompts/cinematic/sakura-sword-duel-dark-lake.md) — `seedance-2.0`
+- [Feline Watchmaker at Work](../prompts/cinematic/feline-watchmaker-workshop.md) — `seedance-2.0`
 - [Film previsualization camera blocking](../prompts/cinematic/film-previz-camera-blocking.md) — `seedance-2.5`
 - [Flash-Style Kitchen Cooking Commercial](../prompts/cinematic/flash-style-kitchen-cooking-commercial.md) — `seedance-2.0`
 - [Flood Panic Crowd Survival](../prompts/cinematic/flood-panic-crowd-survival.md) — `seedance-2.0`
@@ -153,8 +162,11 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 - [Giant Burning Hands Crush Demon](../prompts/cinematic/burning-hands-crush-demon.md) — `seedance-2.0`
 - [Giant Metallic Ring Descends](../prompts/cinematic/giant-metallic-ring-descends.md) — `seedance-2.0`
 - [Giant Octopus Destroys Stormy City](../prompts/cinematic/giant-octopus-city-destruction.md) — `seedance-2.0`
+- [Giant Spider City Attack](../prompts/cinematic/giant-spider-city-attack.md) — `seedance-2.0`
+- [Glowing Wolves of the Blizzard](../prompts/cinematic/blizzard-glowing-wolves.md) — `seedance-2.0`
 - [Golden Hour in a Fishing Village](../prompts/cinematic/fishing-village-golden-hour.md) — `seedance-2.0`
 - [Golden Morning Lifestyle Diary](../prompts/cinematic/golden-morning-lifestyle.md) — `seedance-2.0`
+- [Guardian of the Luminous Wild](../prompts/cinematic/guardian-luminous-forest.md) — `seedance-2.0`
 - [Harajuku Fashion Prep](../prompts/cinematic/harajuku-fashion-prep.md) — `seedance-2.0`
 - [Harbor Break Run](../prompts/cinematic/harbor-break-run.md) — `seedance-2.0`
 - [High-Speed Motorcycle Cinematic Ride](../prompts/cinematic/high-speed-motorcycle-cinematic-ride.md) — `seedance-2.0`
@@ -166,10 +178,12 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 - [Impossible Seamless World Collision](../prompts/cinematic/impossible-seamless-world-collision.md) — `seedance-2.0`
 - [Impossible Siege Tower Shot](../prompts/cinematic/impossible-siege-tower-shot.md) — `seedance-2.0`
 - [Indulgent Ramen Cooking Anime](../prompts/cinematic/indulgent-ramen-cooking-anime.md) — `seedance-2.0`
+- [Ink Monk vs Paper Dragon Duel](../prompts/cinematic/ink-monk-paper-dragon-duel.md) — `seedance-2.0`
 - [Inside the Knight's Helmet: Giant Attack](../prompts/cinematic/knight-helmet-giant-attack.md) — `seedance-2.0`
 - [Jade Blade Breaks Ice Ink](../prompts/cinematic/jade-blade-breaks-ice-ink.md) — `seedance-2.0`
 - [Last Train Home Cinematic Short](../prompts/cinematic/last-train-home.md) — `seedance-2.0`
 - [Library Where Words Come Alive](../prompts/cinematic/ancient-library-forbidden-books.md) — `seedance-2.0`
+- [Lightning Wolf vs Thunderbird Clash](../prompts/cinematic/lightning-wolf-thunderbird-clash.md) — `seedance-2.0`
 - [Lone Figure on Crumbling Cliff](../prompts/cinematic/cliff-lone-figure-waves.md) — `seedance-2.0`
 - [Luxury Desert Villa Sunrise Calm](../prompts/cinematic/luxury-desert-villa-sunrise-calm.md) — `seedance-2.0`
 - [Luxury Morning Breakfast](../prompts/cinematic/luxury-morning-breakfast.md) — `seedance-2.0`
@@ -178,9 +192,11 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 - [Maroon-Haired Paraglider's Coastal First Flight](../prompts/cinematic/maroon-paraglider-coastal-flight.md) — `seedance-2.0`
 - [Matcha Roll Cake Creation](../prompts/cinematic/matcha-roll-cake-creation.md) — `seedance-2.0`
 - [Mecha Armor Assembles Mid-Fall](../prompts/cinematic/mecha-armor-assembles-mid-fall.md) — `seedance-2.0`
+- [Mechanic Fights Junker to Life](../prompts/cinematic/mechanic-fights-junker-to-life.md) — `seedance-2.0`
 - [Modern Girl In Joseon Palace](../prompts/cinematic/modern-girl-joseon-palace.md) — `seedance-2.0`
 - [Nano Exo-Suit Hero Awakens](../prompts/cinematic/nano-exo-suit-hero-awakens.md) — `seedance-2.0`
 - [Neon Rain City Night](../prompts/cinematic/neon-rain-city-night.md) — `seedance-2.0`
+- [Neon Rain Convoy Action Sequence](../prompts/cinematic/neon-rain-convoy-action.md) — `seedance-2.0`
 - [Night Street Racing Cinematic Sequence](../prompts/cinematic/night-street-racing-cinematic.md) — `seedance-2.0`
 - [Ocean Churns: Elixir & Poison](../prompts/cinematic/ocean-churns-elixir-poison.md) — `seedance-2.0`
 - [Odysseus Outsmarts the Cyclops](../prompts/cinematic/odysseus-cyclops-claymation.md) — `seedance-2.0`
@@ -192,12 +208,15 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 - [Pets Hide Phones from Golden Retriever](../prompts/cinematic/pets-hide-phones-from-golden-retriever.md) — `seedance-2.0`
 - [Phoenix vs Storm Griffin Aerial Duel](../prompts/cinematic/phoenix-griffin-aerial-duel.md) — `seedance-2.0`
 - [Pigeon vs Seagull Rooftop Showdown](../prompts/cinematic/pigeon-vs-seagull-rooftop.md) — `seedance-2.0`
+- [Pink Hanfu Combat Dance in Ancient Temple](../prompts/cinematic/pink-hanfu-combat-dance-ancient-temple.md) — `seedance-2.0`
 - [Premium Matte Black Earbuds Ad](../prompts/cinematic/matte-black-earbuds-ad.md) — `seedance-2.0`
+- [Pyramid Sandstorm Aerial Spectacle](../prompts/cinematic/pyramid-sandstorm-aerial.md) — `seedance-2.0`
 - [Raccoon Heist Gone Wrong](../prompts/cinematic/raccoon-donut-heist.md) — `seedance-2.0`
 - [Rain-Soaked Rooftop Confrontation](../prompts/cinematic/rain-soaked-rooftop-confrontation.md) — `seedance-2.0`
 - [Raw Silk Dress Lab Combat](../prompts/cinematic/silk-dress-lab-combat.md) — `seedance-2.0`
 - [Reality Illusion Fight Desire](../prompts/cinematic/reality-illusion-fight-desire.md) — `seedance-2.0`
 - [Rescue on a Drowned City](../prompts/cinematic/drowned-city-rooftop-rescue.md) — `seedance-2.0`
+- [Retro Anime Cat Apple Dance](../prompts/cinematic/retro-anime-cat-apple-dance.md) — `seedance-2.0`
 - [Retro Cat's Cheesy Pickup Line](../prompts/cinematic/retro-cat-cheesy-pickup-line.md) — `seedance-2.0`
 - [Riverside Forest Healing Cook](../prompts/cinematic/riverside-forest-anime-cooking.md) — `seedance-2.0`
 - [Seoul Arcade Nostalgic MiniDV Footage](../prompts/cinematic/seoul-arcade-nostalgia.md) — `seedance-2.0`
@@ -205,14 +224,20 @@ Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/
 - [Shanghai Cyberpunk City Pulse](../prompts/cinematic/shanghai-cyberpunk-city-pulse.md) — `seedance-2.0`
 - [Shiba Inu Summer Joy With Girl](../prompts/cinematic/shiba-summer-joy.md) — `seedance-2.0`
 - [Sky Rogue: Aerial Bazaar Dive](../prompts/cinematic/sky-rogue-aerial-bazaar-dive.md) — `seedance-2.0`
+- [Sky Whale vs Storm Kraken](../prompts/cinematic/sky-whale-vs-storm-kraken.md) — `seedance-2.0`
+- [Skytree Transforms Into Giant Railgun](../prompts/cinematic/skytree-giant-railgun-space-aurora.md) — `seedance-2.0`
 - [Snow Leopard Hunt: Mountain Apex](../prompts/cinematic/snow-leopard-hunt-mountain-apex.md) — `seedance-2.0`
 - [Space Station Collapse: Race Against Time](../prompts/cinematic/space-station-collapse-engineer-race.md) — `seedance-2.0`
 - [Spring Han River Bike Ride](../prompts/cinematic/han-river-spring-bike-ride.md) — `seedance-2.0`
 - [Squash Life Cycle Timelapse](../prompts/cinematic/squash-life-cycle-timelapse.md) — `seedance-2.0`
+- [Steam Swell: Glider Cuts Flooded City](../prompts/cinematic/steam-swell-glider-flooded-ruins.md) — `seedance-2.0`
+- [Stormy Galleon Cabin Flight](../prompts/cinematic/stormy-galleon-cabin-flight.md) — `seedance-2.0`
 - [Suit Archer Bullseye Shot](../prompts/cinematic/suit-archer-bullseye.md) — `seedance-2.0`
 - [Surfer Riding a Massive Ocean Barrel](../prompts/cinematic/surfer-riding-ocean-barrel.md) — `seedance-2.0`
+- [Survivor Ascends in Neon Storm](../prompts/cinematic/survivor-ascends-neon-storm.md) — `seedance-2.0`
 - [The Black Wall Devours Megacity](../prompts/cinematic/black-wall-megacity.md) — `seedance-2.0`
 - [Urban Fantasy Kuala Lumpur](../prompts/cinematic/urban-fantasy-kuala-lumpur.md) — `seedance-2.0`
+- [Volcanic ATV Stunt Jump](../prompts/cinematic/volcanic-atv-stunt-jump.md) — `seedance-2.0`
 - [Weekend Courtyard Cleaning Vlog](../prompts/cinematic/weekend-courtyard-cleaning.md) — `seedance-2.0`
 - [Whimsical Forest Creature Berry Chase](../prompts/cinematic/whimsical-forest-berry-chase.md) — `seedance-2.0`
 - [Wingsuit Pilot Threads Ancient Canyon](../prompts/cinematic/wingsuit-pilot-ancient-canyon.md) — `seedance-2.0`
