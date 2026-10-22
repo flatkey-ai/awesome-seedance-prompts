@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **360**
-Model-detail assets: **110** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **385**
+Model-detail assets: **135** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -429,4 +429,29 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Riverside Forest Healing Cook](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Odysseus Outsmarts the Cyclops](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Giant Octopus Destroys Stormy City](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Desert to Oasis Time-Lapse Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Seamless Interior Renovation Animation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cat Explorer's Pyramid Escape](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rain-Soaked Night Brawl](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Steampunk Blitz Combat](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Voice Control Cinematic Scene Shifts](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Jungle Tiger Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Dark Fantasy Ink Demon Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Korean Fantasy Magic Storm](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Red Heels: Find Your Treasure](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Jet Transforms Into Rocket](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Neon Sky Duel Above Ruins](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rusted Bus Transforms Into Mech T-Rex](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Liquid Metal Monster Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Snowy Night Cat's Winter Journey](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cloud Fashion Flight](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lone Diver Over Dark Ocean](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Industrial Loft Fashion Film](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Parrot Hunts Butterfly in One Shot](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Stormborn Orca Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [The Flame Chef: Culinary Cinema](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Celestial Biomechanical Angel Awakening](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [The Falling City Surreal Short Film](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Mercury Dancer Void](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Tsunami Titan Awakens](../catalog/model-detail-assets.json) — `seedance-2.0`
 
