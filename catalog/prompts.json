@@ -16136,6 +16136,726 @@
       },
       "status": "published",
       "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-stone-golem-lake-spirit",
+      "assetId": "diffsynth-minimax-h3-stone-golem-lake-spirit",
+      "model": "minimax-h3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Stone Golem and Lake Spirit"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a wide shot on a stone golem with a red knitted scarf and glowing orange chest orb sitting at the edge of a tranquil lake beneath swaying willow branches, then slowly pushes in as the water shimmers with pale light and chimes softly. A fairy (S1), a young adult female on-screen translucent figure made of soft white and pale blue light with small orbiting sparks, with a slow, soft, high-pitched whisper and a neutral accent, rises above the surface, floats close to the golem, and whispers <d>[English] Humanity awaits you. Only you can save them.</d> while the golem's black eyes widen and his chest orb flares with a bright resonant pulse of golden light.\n\noverall_soundscape: Water laps gently at the lake shore while willow branches rustle, the water chimes as the fairy emerges, and a bright resonant pulse sounds when the golem's orb flares.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "stone-golem",
+        "lake-spirit",
+        "fantasy",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-stone-golem-lake-spirit",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-stone-golem-lake-spirit.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-stone-golem-lake-spirit-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-000058",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-cat-ramen-master",
+      "assetId": "diffsynth-minimax-h3-cat-ramen-master",
+      "model": "minimax-h3",
+      "industry": "ecommerce-retail",
+      "category": "commercial",
+      "title": {
+        "en": "Cat Ramen Master"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic medium shot, a cat as a professional ramen master wearing a small apron gently pushes a steaming deep blue ceramic bowl of ramen across a wooden bar counter toward the camera and nods slightly, while warm yellow lanterns, blurred distant street neon lights, and a Japanese-style late-night ramen stall surround it, and the camera slowly Pulls Out with small amplitude as white steam rises and the ceramic bowl slides softly against the wood.\n\noverall_soundscape: Faint late-night city-street ambience surrounds the stall while the ceramic bowl slides across the wooden counter and hot broth releases a soft hissing steam.\n\nnon_diegetic_music: A solo saxophone score plays at a slow tempo with long sustained notes and a steady soft dynamic.",
+      "tags": [
+        "cat",
+        "ramen",
+        "restaurant",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-cat-ramen-master",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-cat-ramen-master.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-cat-ramen-master-poster.jpg",
+        "ratio": "5.166666666666667:5.333333333333333",
+        "duration": 5.17,
+        "resolution": "992x1024",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-000385",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-tiger-chase-tail-pov",
+      "assetId": "diffsynth-minimax-h3-tiger-chase-tail-pov",
+      "model": "minimax-h3",
+      "industry": "media-entertainment",
+      "category": "pov-fpv",
+      "title": {
+        "en": "Tiger Chase Tail POV"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a rigid trailing POV framed from the tiger's tail shows the tail filling the foreground as a tiger sprints after a deer across a grassy field, with the camera performing a rigid POV Tracking Shot at fast speed while the tiger accelerates, hind legs extending explosively, spine compressing and releasing, muscles flexing, fur vibrating in the airflow, and the deer ahead moving erratically with sharp direction changes as the distance rapidly closes; grass flattens and dirt kicks up under the impacts, motion parallax streams through the field, and roaring wind with rapid footfall sounds sync to each stride.\n\noverall_soundscape: Roaring wind surrounds the sprint as rapid footfalls strike grass and soil, with grass rustling and dirt scattering under each impact.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "tiger",
+        "wildlife",
+        "pov",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-tiger-chase-tail-pov",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-tiger-chase-tail-pov.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-tiger-chase-tail-pov-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-000275",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-miniature-dragon-bonsai-gardener",
+      "assetId": "diffsynth-minimax-h3-miniature-dragon-bonsai-gardener",
+      "model": "minimax-h3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Miniature Dragon Bonsai Gardener"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic fairy-tale style with realistic materials, the camera holds a static shot on a miniature dragon gardener among tiny bonsai trees, then slowly pushes in with small amplitude through moss as the dragon lifts a small flame to trim leaves. Warm sunlight catches dewdrops and delicate textures while the dragon carefully snips foliage with the flame, producing faint hissing and tiny snipping sounds.\n\noverall_soundscape: Faint flame hiss and tiny leaf snips occur as the miniature dragon trims bonsai foliage. A soft rustle moves through the tiny trees.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "miniature",
+        "dragon",
+        "bonsai",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-miniature-dragon-bonsai-gardener",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-miniature-dragon-bonsai-gardener.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-miniature-dragon-bonsai-gardener-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-001081",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-cosmic-dessert-ring",
+      "assetId": "diffsynth-minimax-h3-cosmic-dessert-ring",
+      "model": "minimax-h3",
+      "industry": "media-entertainment",
+      "category": "surreal-vfx",
+      "title": {
+        "en": "Cosmic Dessert Ring"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a static wide shot on a star ring where a cosmic dessert chef shapes a giant ice cream, then slowly pushes in as stardust falls like powdered sugar around the chef, soft sprinkling sound accompanying the drifting sparkle while the chef lifts a spoon and stirs glowing swirls in a sundae cup with faint sweeping sounds.\n\noverall_soundscape: Soft sprinkling sounds accompany falling stardust, with faint sweeping sounds from the spoon moving through the giant dessert and light shimmering accents as glowing swirls form.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "cosmic",
+        "dessert",
+        "surreal",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-cosmic-dessert-ring",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-cosmic-dessert-ring.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-cosmic-dessert-ring-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-001098",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-cloud-sundae-airplane-window",
+      "assetId": "diffsynth-minimax-h3-cloud-sundae-airplane-window",
+      "model": "minimax-h3",
+      "industry": "travel-hospitality",
+      "category": "surreal-vfx",
+      "title": {
+        "en": "Cloud Sundae Through Airplane Window"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic. The camera holds a static shot on the oval airplane window framing clusters of clouds drifting outside, then slowly zooms in with small amplitude toward one centered cloud dotted with colorful candy beans as it remains suspended against the sky and gradually swells and reshapes into a soft ice-cream scoop, the candy beans glinting while the cloud texture smooths into a creamy swirl and faint ambient air sound stays synchronized with the drifting motion.\n\noverall_soundscape: Faint ambient air sound is present throughout as the clouds drift past the airplane window and the centered cloud slowly changes shape.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "cloud",
+        "airplane-window",
+        "transformation",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-cloud-sundae-airplane-window",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-cloud-sundae-airplane-window.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-cloud-sundae-airplane-window-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-001149",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-range-hood-clears-cooking-smoke",
+      "assetId": "diffsynth-minimax-h3-range-hood-clears-cooking-smoke",
+      "model": "minimax-h3",
+      "industry": "ecommerce-retail",
+      "category": "commercial",
+      "title": {
+        "en": "Range Hood Clears Cooking Smoke"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a medium shot on a stainless-steel range hood above a dark kitchen cooktop, then pushes in as pale oil smoke rises from a hot pan and is pulled upward into the hood. The suction stream tightens visibly, the fan mesh trembles slightly, and the hood's work light catches the moving vapor as a low motor hum and rushing airflow stay synchronized with the smoke being drawn upward.\n\noverall_soundscape: Kitchen room tone is present, then the range hood starts with a steady mechanical motor hum. Strong rushing airflow follows the suction, with a faint pan sizzle and subtle metal vibration.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "range-hood",
+        "kitchen",
+        "product-demo",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-range-hood-clears-cooking-smoke",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-range-hood-clears-cooking-smoke.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-range-hood-clears-cooking-smoke-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-001163",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-butterflies-from-ruined-piano",
+      "assetId": "diffsynth-minimax-h3-butterflies-from-ruined-piano",
+      "model": "minimax-h3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Butterflies From a Ruined Piano"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a medium close-up frames a broken piano among vine-covered ruins under a broken dome, with volumetric light and drifting dust. The camera slowly pushes in, then holds a static shot as the piano plays by itself, each struck key producing a soft note that becomes a glowing butterfly lifting from the keys. Wind stirs the vines and dust in the light beams.\n\noverall_soundscape: Wind rustles through the broken dome and stirs the vines and dust.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "piano",
+        "butterflies",
+        "ruins",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-butterflies-from-ruined-piano",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-butterflies-from-ruined-piano.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-butterflies-from-ruined-piano-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-001292",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-color-cycling-product-turntable",
+      "assetId": "diffsynth-minimax-h3-color-cycling-product-turntable",
+      "model": "minimax-h3",
+      "industry": "marketing-advertising",
+      "category": "commercial",
+      "title": {
+        "en": "Color-Cycling Product Turntable"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a medium shot frames the product centered in the frame as it rotates smoothly in place. The camera performs a Push In with small amplitude at slow speed. The background flashes red, pink, purple, and blue in rapid succession. The color cycle repeats as the product continues rotating and the framing gradually tightens.\n\noverall_soundscape: The sequence contains no ambient or action sound.\n\nnon_diegetic_music: A rhythmic electronic score plays throughout at a steady tempo, using drum-machine percussion, pulsing synthesizer chords and bass pulses. The arrangement maintains a steady level throughout.",
+      "tags": [
+        "product",
+        "turntable",
+        "studio-lighting",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-color-cycling-product-turntable",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-color-cycling-product-turntable.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-color-cycling-product-turntable-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-001413",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-neon-glass-opera-reflection",
+      "assetId": "diffsynth-minimax-h3-neon-glass-opera-reflection",
+      "model": "minimax-h3",
+      "industry": "media-entertainment",
+      "category": "surreal-vfx",
+      "title": {
+        "en": "Neon Glass Opera Reflection"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a static POV shot on a rain puddle reflecting a Gothic opera house made of neon glass in the center of a midnight rainy city. Raindrops strike the puddle surface with soft taps, rippling the reflection. Glowing umbrellas spin in the reflection. The camera performs a Pedestal Up with small amplitude, revealing hundreds of glowing umbrellas drifting in the air. Then the camera performs a Push In at fast speed through a colored window while glowing umbrellas sweep close past the lens. Volumetric fog fills the neon light, and the camera performs a Shake Slightly as the light pulses.\n\noverall_soundscape: Rain falls on neon glass and wet streets. Air rushes past the spinning umbrellas.\n\nnon_diegetic_music: A choral score built from sustained voices moves in a steady beat. The rhythm pulses regularly, and the dynamics swell as the camera pushes through the window.",
+      "tags": [
+        "neon-glass",
+        "opera-house",
+        "rain",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-neon-glass-opera-reflection",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-neon-glass-opera-reflection.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-neon-glass-opera-reflection-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-001512",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-rainbow-gummy-canyon-race",
+      "assetId": "diffsynth-minimax-h3-rainbow-gummy-canyon-race",
+      "model": "minimax-h3",
+      "industry": "media-entertainment",
+      "category": "surreal-vfx",
+      "title": {
+        "en": "Rainbow Gummy Canyon Race"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, exaggerated cartoon forms with realistic lighting, a low ground-level tracking framing of a rainbow gummy bridge track in a vast candy canyon, where glossy snail racers slide forward in a tight race while rabbits in top hats and mechanical squirrels blur in the distant audience. The camera performs a Tracking Shot with large amplitude at fast speed beside the snails as their shells tilt, sticky jam bursts beneath them, and bright splashes rise into slow-motion colorful rain, then the camera shakes slightly as a thick droplet bursts close to the lens while shifting clouds and sweeping light beams glaze the glossy track, with soft slithering, wet jam splatter, faint mechanical whirring, and light audience rustling synchronized to the action.\n\noverall_soundscape: Soft slithering, racing movement, sticky jam splashes, faint mechanical whirring, and light audience rustling fill the candy canyon.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "candy-canyon",
+        "snail-race",
+        "animation",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-rainbow-gummy-canyon-race",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-rainbow-gummy-canyon-race.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-rainbow-gummy-canyon-race-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-001621",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-espresso-swirls-into-iced-milk",
+      "assetId": "diffsynth-minimax-h3-espresso-swirls-into-iced-milk",
+      "model": "minimax-h3",
+      "industry": "ecommerce-retail",
+      "category": "commercial",
+      "title": {
+        "en": "Espresso Swirls Into Iced Milk"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a static shot on a close-up of a crystal-clear glass containing large ice cubes and fresh cold milk on a wooden countertop in a bright Scandinavian-style kitchen, soft golden sunlight streaming through the window, then the camera pushes in to a macro view as a rich double espresso cascades into the glass, creating slow-motion swirling layers of caramel, cream, and deep coffee tones while tiny bubbles rise, ice shifts naturally, and the cubes clink softly.\n\noverall_soundscape: Soft morning kitchen ambience with faint birdsong and moving leaves, ice clinking against glass, espresso pouring, and a gentle liquid swirl.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "espresso",
+        "iced-milk",
+        "macro",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-espresso-swirls-into-iced-milk",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-espresso-swirls-into-iced-milk.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-espresso-swirls-into-iced-milk-poster.jpg",
+        "ratio": "7:4",
+        "duration": 5.17,
+        "resolution": "1344x768",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-002677",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-lantern-courtyard-cat-run",
+      "assetId": "diffsynth-minimax-h3-lantern-courtyard-cat-run",
+      "model": "minimax-h3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Lantern Courtyard Cat Run"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] 2D-animated, cinematic wide shot of a comic-style cat darting through an ancient-style inn courtyard at night, with paper lanterns swaying above wet bluestone pavement. The cat moves rapidly. The camera pushes in at slow speed as lantern light ripples over the wet stone. Faint creaking and soft pawbeats sync with its passage.\n\noverall_soundscape: Night air surrounds the inn, with faint creaking from swaying paper lanterns and soft rapid pawbeats on wet bluestone.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "cat",
+        "lanterns",
+        "courtyard",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-lantern-courtyard-cat-run",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-lantern-courtyard-cat-run.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-lantern-courtyard-cat-run-poster.jpg",
+        "ratio": "4:7",
+        "duration": 5.17,
+        "resolution": "768x1344",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-003833",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-blueberry-cornflakes-milk-pour",
+      "assetId": "diffsynth-minimax-h3-blueberry-cornflakes-milk-pour",
+      "model": "minimax-h3",
+      "industry": "ecommerce-retail",
+      "category": "commercial",
+      "title": {
+        "en": "Blueberry Cornflakes Milk Pour"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, in a vertical macro close-up in slight slow motion, a bowl of cornflakes sits on a colorful kitchen table as warm sunlight streams through a window and casts soft golden highlights over vivid reds, yellows, and greens. Golden flakes glisten as milk pours into the bowl with a light pouring sound, blueberries bounce against the flakes with small taps, and a spoon gently spins on its own while the camera pushes in at slow speed, then remains in a static macro framing with a faint handheld shake.\n\noverall_soundscape: Soft kitchen room tone is present while milk pours into cereal, blueberries tap lightly, and a spoon moves against flakes.\n\nnon_diegetic_music: A fast-tempo non-diegetic track with steady percussion and short rhythmic accents plays, increasing slightly in volume and adding higher-pitched percussion.",
+      "tags": [
+        "cornflakes",
+        "blueberries",
+        "food-macro",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-blueberry-cornflakes-milk-pour",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-blueberry-cornflakes-milk-pour.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-blueberry-cornflakes-milk-pour-poster.jpg",
+        "ratio": "4:7",
+        "duration": 5.17,
+        "resolution": "768x1344",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-004956",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-paper-airplane-city-dive",
+      "assetId": "diffsynth-minimax-h3-paper-airplane-city-dive",
+      "model": "minimax-h3",
+      "industry": "travel-hospitality",
+      "category": "pov-fpv",
+      "title": {
+        "en": "Paper Airplane City Dive"
+      },
+      "description": {
+        "en": "A reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's self-generated Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, hyper-realistic POV flight from a paper airplane, as the camera performs a forward Tracking Shot at fast speed, rigidly mounted on the paper airplane above a rooftop in Marbella, Spain, keeping the sharp white paper airplane tip locked at the bottom-center of the frame. White villas, rooftops, palm trees, narrow streets, balconies and café awnings fill the Mediterranean coastal city below in bright sunlight with warm golden highlights. The camera shakes slightly and performs a small Tilt Down toward the streets, then executes a fast smooth Truck Right into a street leading to the boulevard. Strong parallax makes buildings and palm leaves whip past the frame edges. One bird crosses extremely close in a near-miss, wings flapping. Wind rushes loudly and the paper flutters subtly throughout.\n\noverall_soundscape: Loud wind rush dominates throughout, with subtle paper flutter vibration from the paper airplane. Bird wing flaps occur during the close pass, while distant city ambience adds faint traffic and street noise.\n\nnon_diegetic_music: N/A",
+      "tags": [
+        "paper-airplane",
+        "city-flight",
+        "pov",
+        "minimax-h3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-paper-airplane-city-dive",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-paper-airplane-city-dive.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-paper-airplane-city-dive-poster.jpg",
+        "ratio": "4:7",
+        "duration": 5.17,
+        "resolution": "768x1344",
+        "source": "public-dataset"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_id": "t2va-005041",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T03:49:23.905Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The original DiffSynth-Studio dataset card states that all 11,029 clips were produced with MiniMax-H3 through DiffSynth-Studio.",
+        "num_frames": 124,
+        "num_inference_steps": 30
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
     }
   ]
 }

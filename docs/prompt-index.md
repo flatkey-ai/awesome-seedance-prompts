@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **400**
-Model-detail assets: **150** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **415**
+Model-detail assets: **165** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -469,4 +469,19 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Redhead and Cat Kitchen Chaos](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Ancient Dragon Fossil Awakens In Cave](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Ice Block Dropped Into Active Lava](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Stone Golem and Lake Spirit](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cat Ramen Master](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Tiger Chase Tail POV](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Miniature Dragon Bonsai Gardener](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cosmic Dessert Ring](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cloud Sundae Through Airplane Window](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Range Hood Clears Cooking Smoke](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Butterflies From a Ruined Piano](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Color-Cycling Product Turntable](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Neon Glass Opera Reflection](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Rainbow Gummy Canyon Race](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Espresso Swirls Into Iced Milk](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Lantern Courtyard Cat Run](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Blueberry Cornflakes Milk Pour](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Paper Airplane City Dive](../catalog/model-detail-assets.json) — `minimax-h3`
 
