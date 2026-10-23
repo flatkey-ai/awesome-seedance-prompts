@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **385**
-Model-detail assets: **135** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **400**
+Model-detail assets: **150** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -454,4 +454,19 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [The Falling City Surreal Short Film](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Mercury Dancer Void](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Tsunami Titan Awakens](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rainy Day Laundromat Nostalgia](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Surreal Tokyo Dessert City Animation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lone Explorer Floating Fortress](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Epic Fantasy World Tree CGI](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Kyoto Solo Date Walk](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [T-Rex Jungle Chase Dashcam Footage](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Amazon Warrior Morphing Cinematic One Shot](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Giant Crocodile vs Train Jungle Chase](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Nostalgic MiniDV Tape Reveal](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Jewelry Store Action Sequence](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Soaring Through Fantasy Jungle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Hilarious Vintage Bride Escape](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Redhead and Cat Kitchen Chaos](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ancient Dragon Fossil Awakens In Cave](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ice Block Dropped Into Active Lava](../catalog/model-detail-assets.json) — `seedance-2.0`
 

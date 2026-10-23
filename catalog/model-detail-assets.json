@@ -3,7 +3,7 @@
   "kind": "video-model-detail-assets",
   "repository": "https://github.com/flatkey-ai/awesome-seedance-prompts",
   "generatedFrom": "new-api:d0835b1c6:website/src/lib/video-prompt-templates.ts",
-  "capturedAt": "2026-10-22",
+  "capturedAt": "2026-10-23",
   "entries": [
     {
       "slug": "model-detail-video-seedance-2-5-micro-drama-comic",
@@ -5338,6 +5338,651 @@
         "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
         "dataset_id": "SD2_03133",
         "captured_at": "2026-10-22"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-rainy-day-laundromat-nostalgia",
+      "assetId": "goku-seedance-2-0-rainy-day-laundromat-nostalgia",
+      "model": "seedance-2.0",
+      "industry": "creator-social",
+      "category": "cinematic",
+      "title": {
+        "en": "Rainy Day Laundromat Nostalgia"
+      },
+      "description": {
+        "en": "A production-ready video prompt for rainy Day Laundromat Nostalgia, reviewed against its published output."
+      },
+      "prompt": "Main Subject: \\n\\nYoung Korean woman, 23, natural everyday appearance, shoulder-length black hair loosely tied with a simple fabric scrunchie, wispy bangs, realistic skin texture, minimal makeup, calm and slightly playful personality. Wearing a faded red zip-up hoodie over a white T-shirt, loose dark-blue jeans, white sneakers, and a small navy canvas shoulder bag. Maintain consistent identity, clothing, hairstyle, and appearance throughout.\\n\\nLocation: Small neighborhood laundromat on a rainy afternoon. Old front-loading washing machines, plastic laundry baskets, fluorescent ceiling lights, fogged windows covered with rain droplets, vending machine, folding table, faded Korean instruction stickers, and a quiet residential street visible outside.\\n\\nVisual Style: Ultra-realistic documentary realism. Ordinary, candid behavior with authentic early-2000s Korean neighborhood details.\\n\\nCamera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting between spinning washing machines and her face, fluorescent flicker, exposure pumping near the bright window, faded colors, soft contrast, slight motion blur, DV compression artifacts, mild digital noise, no stabilization.\\n\\n00:00–00:03\\nShe enters carrying a blue laundry basket, shaking a few raindrops from her hoodie. The camera briefly focuses on the wet floor before finding her.\\n\\n00:03–00:06\\nShe loads clothes into an old washing machine and pours detergent from a small plastic bottle. The machine door closes with a heavy click.\\n\\n00:06–00:09\\nShe sits on a plastic chair watching the clothes spin through the round glass door. She rests her chin on one hand, looking slightly bored.\\n\\n00:09–00:12\\nRain becomes heavier outside. She notices the camera and makes a small amused expression before pointing toward the spinning laundry.\\n\\n00:12–00:15\\nThe washing machine suddenly finishes its cycle with a loud beep. She stands and opens the door as the camera moves closer, loses focus, and abruptly cuts to black.\\n\\nAudio: Natural ambience only—washing machines humming, water spinning, fluorescent buzzing, rain against windows, footsteps, plastic basket sounds, machine beeps, distant traffic. No music. No narration.\\n\\nGoal: A forgotten MiniDV home video from 2004, capturing a completely ordinary rainy afternoon at a small Seoul laundromat–mundane, intimate, imperfect, nostalgic, and convincingly real.",
+      "tags": [
+        "laundromat",
+        "nostalgia",
+        "rain",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-rainy-day-laundromat-nostalgia",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-rainy-day-laundromat-nostalgia.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-rainy-day-laundromat-nostalgia-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.13,
+        "resolution": "1920x1080",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ZephyraLeigh via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ZephyraLeigh/status/2088927009053491266",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11364",
+        "published_at": "2026-08-16T09:53:04.002Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-surreal-tokyo-dessert-city-animation",
+      "assetId": "goku-seedance-2-0-surreal-tokyo-dessert-city-animation",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "animation",
+      "title": {
+        "en": "Surreal Tokyo Dessert City Animation"
+      },
+      "description": {
+        "en": "A production-ready video prompt for surreal Tokyo Dessert City Animation, reviewed against its published output."
+      },
+      "prompt": "Create a seamless 9-second surreal animation blending Tokyo with giant desserts: a massive silver fork plunges into a miniature Tokyo street and lifts a strawberry shortcake slice with whipped cream, strawberries, and red glaze; cut to street level where a giant chocolate slab sits in the pavement as thick caramel pours over it and pedestrians pass by; show a bustling skyscraper avenue decorated with strawberries and whipped-cream rooftops; finally, zoom out to reveal the entire city district sitting on a giant decorated cake on a white plate as a huge fork carves out and lifts a slice of the city-cake, seamlessly returning to the aerial Tokyo view.",
+      "tags": [
+        "tokyo",
+        "dessert",
+        "surreal",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-surreal-tokyo-dessert-city-animation",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-surreal-tokyo-dessert-city-animation.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-surreal-tokyo-dessert-city-animation-poster.jpg",
+        "ratio": "16:9",
+        "duration": 10.04,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@noorwithwifi via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/noorwithwifi/status/2088549154079559878",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11399",
+        "published_at": "2026-08-15T08:51:36.356Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-lone-explorer-floating-fortress",
+      "assetId": "goku-seedance-2-0-lone-explorer-floating-fortress",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "sci-fi",
+      "title": {
+        "en": "Lone Explorer Floating Fortress"
+      },
+      "description": {
+        "en": "A production-ready video prompt for lone Explorer Floating Fortress, reviewed against its published output."
+      },
+      "prompt": "A cinematic 15-second sci-fi adventure following a lone explorer aboard a small hovercraft gliding across an endless black ocean beneath a sky filled with eclipsed moons. In the distance, a colossal floating fortress slowly emerges from swirling storm clouds, suspended by glowing energy pillars. As the explorer approaches, massive mechanical gates unlock with thunderous precision, awakening ancient celestial guardians whose eyes ignite with brilliant blue light. The fortress begins to transform, revealing hidden towers, cascading waterfalls of liquid light, and floating islands orbiting its core. Thousands of luminous drones rise into the air like stars as giant space whales glide silently through the clouds overhead. The explorer steps onto a glowing crystal pathway leading toward the heart of the fortress while beams of celestial light pierce the storm. Epic cinematic camera movements, IMAX-scale visuals, breathtaking world-building, volumetric lighting, ultra-realistic weather simulation, premium VFX, emotional orchestral atmosphere, ARRI Alexa 35 aesthetic, anamorphic lenses, photorealistic textures, seamless continuity, 4K HDR, blockbuster movie quality, no text, no logos.",
+      "tags": [
+        "fortress",
+        "explorer",
+        "world-building",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-lone-explorer-floating-fortress",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-lone-explorer-floating-fortress.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-lone-explorer-floating-fortress-poster.jpg",
+        "ratio": "208:267",
+        "duration": 10.04,
+        "resolution": "832x1068",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@codewithhajra via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/codewithhajra/status/2087931487282766159",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11453",
+        "published_at": "2026-08-13T15:57:13.116Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-epic-fantasy-world-tree-cgi",
+      "assetId": "goku-seedance-2-0-epic-fantasy-world-tree-cgi",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "fantasy",
+      "title": {
+        "en": "Epic Fantasy World Tree CGI"
+      },
+      "description": {
+        "en": "A production-ready video prompt for epic Fantasy World Tree CGI, reviewed against its published output."
+      },
+      "prompt": "Ultra-epic cinematic 3D CGI fantasy realm, pure original imagination, hyper-detailed photorealistic 3D render, Unreal Engine 5 + Octane quality, volumetric god rays, intricate crystalline geometry, living magic energy, 8K resolution, seamless continuous camera movement, 30 seconds.\n\nSequence:\n\n0-7 seconds: Colossal establishing shot of an impossible world suspended in the void. A single ancient World-Tree the size of a continent grows upside-down from a shattered floating continent, its roots forming living bridges of glowing amber crystal that stretch across the sky. Rivers of liquid starlight cascade upward into the heavens instead of falling. Slow majestic orbital camera movement as twin eclipsed suns cast dramatic dual-colored light (deep gold and electric violet).\n\n7-15 seconds: Camera dives dramatically through the glowing roots into the heart of the World-Tree. Inside, vast hollow chambers filled with floating luminous orbs that contain entire miniature galaxies. Massive ethereal titans made of living stone and constellation patterns slowly awaken and walk along the inner walls. Energy storms of pure magic swirl in slow motion. Intense volumetric lighting and particle systems.\n\n15-23 seconds: Camera explodes outward from the tree into open sky. A colossal sky-whale made of translucent crystal and nebula gas glides past, its body containing storms and lightning. Below, an entire civilization of spiraling crystal cities grows organically from the floating landmasses like living organisms. Giant rune-covered monoliths rise and rotate in the air, releasing waves of golden energy. Epic wide tracking shot with extreme depth and scale.\n\n23-30 seconds: Final powerful pull-back into deep space revealing the entire original fantasy cosmos: the World-Tree at the center, surrounded by orbiting islands, sky-whales, and rivers of starlight forming a living mandala. The dual suns fully align, unleashing a massive wave of pure magical light that washes across the entire scene. Cinematic slow-motion ending on the glowing silhouette of the World-Tree against the cosmic void.\n\nStyle: Pure 3D imagination only, no 2D, hyper-realistic materials, extreme scale contrast, dramatic lighting, rich atmospheric haze, intricate original designs never seen before, epic and awe-inspiring mood, seamless one-shot feeling.",
+      "tags": [
+        "world-tree",
+        "fantasy",
+        "cgi",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-epic-fantasy-world-tree-cgi",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-epic-fantasy-world-tree-cgi.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-epic-fantasy-world-tree-cgi-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.13,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@KaminiKamini222 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/KaminiKamini222/status/2087818777920725003",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11467",
+        "published_at": "2026-08-13T08:29:21.110Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-kyoto-solo-date-walk",
+      "assetId": "goku-seedance-2-0-kyoto-solo-date-walk",
+      "model": "seedance-2.0",
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "title": {
+        "en": "Kyoto Solo Date Walk"
+      },
+      "description": {
+        "en": "A production-ready video prompt for kyoto Solo Date Walk, reviewed against its published output."
+      },
+      "prompt": "Create a 15-second ultra-realistic cinematic travel video set in Kyoto, Japan, following a young blonde woman on a peaceful solo date through traditional Kyoto streets.\n\n0–2 sec: Front-facing medium shot of the woman standing outside a traditional Kyoto machiya townhouse with dark wooden lattice doors. She smiles naturally and makes a small playful hand gesture toward the camera. Warm late-afternoon sunlight, realistic skin and hair movement, shallow depth of field.\n\n2–4 sec: Cut to a smooth handheld tracking shot from behind as she walks through a narrow traditional Kyoto alley. Wooden buildings, textured walls, small plants and warm sunlight create beautiful natural depth. Camera follows closely with subtle realistic motion.\n\n4–6 sec: Wide rear tracking shot as she continues walking down a quiet stone-paved alley lined with traditional wooden houses and potted greenery. Soft golden-hour sunlight creates long shadows and gentle lens flare.\n\n6–8 sec: She reaches a small canal and pauses beside the stone wall. A friendly orange-and-white cat walks along the edge of the canal. She looks toward it with a gentle smile. Natural water reflections, subtle breeze moving her hair and clothing.\n\n8–10 sec: Cut to a close cinematic shot beside a Japanese vending machine. She buys a small red canned drink and takes a sip, smiling naturally. Realistic hand movement, authentic vending-machine details, shallow depth of field.\n\n10–12 sec: Golden-hour street scene. She stands near a Kyoto road, casually looking around while a traditional yellow taxi passes behind her. Strong sun flare, realistic traffic movement, cinematic backlight.\n\n12–15 sec: Return to the narrow wooden alley. She walks toward the camera holding her drink, then briefly turns and looks back with a soft smile. Camera slowly pulls backward, revealing the beautiful traditional Kyoto architecture as the scene fades naturally.\n\nOverall style: photorealistic Japanese travel film, authentic Kyoto atmosphere, natural human motion, realistic walking physics, subtle breathing and blinking, detailed hair and fabric movement, warm golden-hour lighting, soft cinematic lens flare, shallow depth of field, natural handheld/gimbal camera movement, realistic shadows and reflections, documentary-style cinematography, 35mm film look, premium travel commercial, highly detailed, seamless transitions, no artificial-looking CGI, no distorted hands or face, consistent character appearance throughout.",
+      "tags": [
+        "kyoto",
+        "travel",
+        "lifestyle",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-kyoto-solo-date-walk",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-kyoto-solo-date-walk.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-kyoto-solo-date-walk-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.08,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Taaruk_ via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Taaruk_/status/2087761897542336655",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11473",
+        "published_at": "2026-08-13T04:43:19.771Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-t-rex-jungle-chase-dashcam-footage",
+      "assetId": "goku-seedance-2-0-t-rex-jungle-chase-dashcam-footage",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "action",
+      "title": {
+        "en": "T-Rex Jungle Chase Dashcam Footage"
+      },
+      "description": {
+        "en": "A production-ready video prompt for t-Rex Jungle Chase Dashcam Footage, reviewed against its published output."
+      },
+      "prompt": "Ultra-realistic 12–15 second blockbuster survival-action sequence filmed as raw dashboard camera / windshield-mounted camera footage from inside a fast-moving military jeep on a flooded jungle road in Vietnam. The footage must feel like authentic accidental real-world capture, not staged cinematography: slight dashboard vibration, realistic camera shake from the suspension, windshield rain streaks, muddy spray, engine vibration, tire slip, natural motion blur, and occasional wiper movement. 2000s/2010s creature-feature realism, grounded and physically believable. No teleportation, no impossible direction changes, no morphing. Vehicle speed, road direction, dinosaur movement, and all collisions must remain spatially coherent.  Location / atmosphere: remote jungle road in Vietnam after heavy rain, shallow floodwater over the road, muddy ruts, broken vegetation, dense green jungle on both sides, grey storm daylight, humid haze, puddles, mist, birds scattering from the trees.  0–2s — ULTRA HOOK: Start already at full speed from the jeep dashcam. A military jeep is racing down a flooded jungle road behind another vehicle when, within the first 2 seconds, a massive T-Rex explodes out of the jungle from the right side and slams into the lead vehicle. The impact sends the vehicle violently sideways across the muddy road, smashing through water and vegetation. The T-Rex roars directly in front of the camera as the driver of the camera jeep yanks the wheel hard left to avoid the wreck. Water and mud blast across the windshield. One soldier inside the jeep shouts: “LEFT! LEFT! LEFT!”  2–5s: The jeep fishtails through the floodwater but keeps moving. The crashed vehicle spins behind them while the T-Rex regains balance and immediately charges after the camera jeep down the road. Keep the motion physically grounded: heavy footfalls, splashing water, mud thrown backward, the predator accelerating with believable weight and inertia. The driver fights for control while the passenger twists around in panic to look back. A soldier yells: “IT’S BEHIND US! GO! GO!”  5–8s: The T-Rex closes the distance, stomping through the road and shoulder, smashing through low trees and sending branches into the air. The jeep bounces over deep muddy ruts and nearly loses traction. The dinosaur lunges once and snaps its jaws just behind the rear of the vehicle, narrowly missing. The driver swerves around a fallen tree while tires spray muddy water in long arcs. The whole scene should feel dangerously unstable but readable.  8–11s — CRISIS: Ahead, part of the road is partially blocked by a large leaning tree weakened by the storm. The driver commits and aims for the narrow gap beside it. The T-Rex charges even harder, almost close enough to bite the jeep. The road curve",
+      "tags": [
+        "dinosaur",
+        "chase",
+        "dashcam",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-t-rex-jungle-chase-dashcam-footage",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-t-rex-jungle-chase-dashcam-footage.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-t-rex-jungle-chase-dashcam-footage-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.08,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@DtheW1995 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/DtheW1995/status/2092158157334217204",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11569",
+        "published_at": "2026-08-25T07:52:29.784Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-amazon-warrior-morphing-cinematic-one-shot",
+      "assetId": "goku-seedance-2-0-amazon-warrior-morphing-cinematic-one-shot",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "transformation",
+      "title": {
+        "en": "Amazon Warrior Morphing Cinematic One Shot"
+      },
+      "description": {
+        "en": "A production-ready video prompt for amazon Warrior Morphing Cinematic One Shot, reviewed against its published output."
+      },
+      "prompt": "Authentic live-action cinematic footage captured as a continuous one-shot sequence on Arri Alexa 65 with Panavision Ultra Vista anamorphic lenses on real Kodak Vision3 35mm film. Ultra-photorealistic Hollywood adventure film aesthetic with natural film grain, cinematic depth of field, realistic handheld camera inertia, dynamic tracking shots, physically accurate motion blur, volumetric golden-hour sunlight, atmospheric jungle mist, practical lighting, realistic water simulation, authentic environmental interaction, and absolutely no CGI or game-engine appearance.\n\nA powerful Amazonian tribal warrior with weathered bronze skin, long braided black hair decorated with jungle feathers, athletic muscular build, worn leather tribal clothing, and intense recognizable eyes sprints through a dense rainforest while the camera performs an energetic low-angle tracking shot weaving between giant roots, rocks, vines, and tropical vegetation. He bursts out onto the edge of a colossal waterfall and leaps into the air as the camera dives beside him. During freefall his body organically transforms into a gigantic Amazon river crocodile with realistic skeletal restructuring, growing scales, extending jaws, muscular limbs, and a powerful tail before crashing into the river below.\n\nThe camera follows underwater in one continuous movement as the crocodile powers through crystal-clear water, scattering schools of fish and passing submerged trees and ancient stone ruins. While swimming at high speed, the crocodile seamlessly transforms into a massive Amazon giant catfish with smooth biological morphing, retracting limbs, sleek skin, broad fins, powerful tail propulsion, and continuous identity preservation. The giant catfish accelerates through flooded jungle ruins before its body thickens and organically transforms into a colossal emerald anaconda with shimmering green scales, enormous muscular coils, and realistic serpentine movement as it glides through submerged temples and rises onto the rainforest floor.\n\nThe colossal anaconda rapidly slithers through dense jungle while the camera performs fast ground-level tracking through mud, roots, and foliage. As it launches over a fallen tree, it seamlessly transforms into a powerful black jaguar with sleek black fur, muscular feline anatomy, realistic shoulder movement, explosive sprinting speed, and intense recognizable eyes. The jaguar races through the rainforest before reaching a towering cliff where it leaps into open air. During the jump, its body organically transforms into a majestic giant harpy eagle as black fur becomes feathers, forelegs expand into enormous wings, hind legs become massive talons, and the eagle catches an air current before soaring high above the endless Amazon canopy.\n\nThe camera transitions into an FPV-style aerial pursuit as the ha",
+      "tags": [
+        "jungle",
+        "transformation",
+        "one-shot",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-amazon-warrior-morphing-cinematic-one-shot",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-amazon-warrior-morphing-cinematic-one-shot.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-amazon-warrior-morphing-cinematic-one-shot-poster.jpg",
+        "ratio": "54:31",
+        "duration": 15.04,
+        "resolution": "1728x992",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@airina_xyz via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/airina_xyz/status/2091949629122240930",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11577",
+        "published_at": "2026-08-24T18:03:52.784Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-giant-crocodile-vs-train-jungle-chase",
+      "assetId": "goku-seedance-2-0-giant-crocodile-vs-train-jungle-chase",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "action",
+      "title": {
+        "en": "Giant Crocodile vs Train Jungle Chase"
+      },
+      "description": {
+        "en": "A production-ready video prompt for giant Crocodile vs Train Jungle Chase, reviewed against its published output."
+      },
+      "prompt": "Hyper-real B-movie creature-feature action. Tropical jungle. Heavy rain from a recent storm. Overgrown railroad crossing cutting through dense vegetation. Rusted warning signs. Fast chaotic pacing. Aggressive handheld camera. Speed ramps. Crash zooms. Whip pans. Sound: engine screaming, crocodile roars, train horn, metal shaking, frantic breathing.  ⸻  0–2s — HOOK  Low front-mounted camera on a speeding jeep.  A survivor is already driving at full speed down a muddy jungle road.  The windshield is covered in mud and rain.  Behind him—  A gigantic mega crocodile bursts through the jungle.  Forty feet long.  Ancient scars across its body.  It crashes through trees and keeps pace with the jeep.  The driver glances into the rear-view mirror.  “COME ON!”  ⸻  2–5s — ESCALATION  Side tracking shot.  The jeep bursts out of the jungle toward an abandoned railroad crossing.  The crocodile gains rapidly.  Its jaws snap shut inches behind the rear bumper.  Mud sprays everywhere.  The survivor spots the tracks ahead and floors the accelerator.  The crocodile lunges.  The jeep barely stays ahead.  ⸻  5–8s — THE PROBLEM  Wide shot.  The jeep reaches the railroad crossing.  Suddenly—  The engine dies.  The vehicle rolls to a stop directly on the tracks.  Silence.  Then a distant train horn.  The survivor looks left.  A freight train is approaching at full speed.  He looks right.  The crocodile is charging.  ⸻  8–11s — CHAOS  Rapid cut-tos.  Train getting closer.  Crocodile getting closer.  The survivor desperately tries restarting the engine.  Nothing.  The crocodile launches forward.  The train horn becomes deafening.  At the very last second—  The survivor dives out of the jeep.  ⸻  11–13s — PAYOFF  Bullet-time shot.  The crocodile leaps.  The freight train arrives.  Impact.  Metal bends.  Mud explodes.  The crocodile is smashed sideways across the crossing.  The jeep is obliterated.  ⸻  13–15s — SHOCKING ENDING  The survivor stands up.  Relieved.  The train continues rolling.  Then—  Something enormous climbs over the top of the moving train.  A gigantic reptilian creature larger than the crocodile.  Its claw crushes a train car roof.  The entire train begins derailing.  The survivor stares in disbelief.  Hard cut to black.",
+      "tags": [
+        "crocodile",
+        "train",
+        "chase",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-giant-crocodile-vs-train-jungle-chase",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-giant-crocodile-vs-train-jungle-chase.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-giant-crocodile-vs-train-jungle-chase-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.13,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@DtheW1995 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/DtheW1995/status/2091783920467456468",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11588",
+        "published_at": "2026-08-24T07:05:24.762Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-nostalgic-minidv-tape-reveal",
+      "assetId": "goku-seedance-2-0-nostalgic-minidv-tape-reveal",
+      "model": "seedance-2.0",
+      "industry": "creator-social",
+      "category": "cinematic",
+      "title": {
+        "en": "Nostalgic MiniDV Tape Reveal"
+      },
+      "description": {
+        "en": "A production-ready video prompt for nostalgic MiniDV Tape Reveal, reviewed against its published output."
+      },
+      "prompt": "Create a highly addictive, nostalgic early-2000s Korean MiniDV home-video story designed to hook viewers within the first second and make them stay until the final reveal.\n\nThe footage should look like a real forgotten MiniDV tape discovered 20 years later — authentic 4:3 consumer camcorder, imperfect handheld movement, CCD noise, soft analog sharpness, tape grain, slight color bleeding, autofocus hunting, exposure fluctuations and occasional blown highlights.\n\nColor palette: warm golden bedroom light, dusty pink highlights, soft cream skin tones, muted teal shadows and subtle faded red accents. Cozy, nostalgic, slightly dreamy but completely realistic.\n\nMain character: a 24-year-old beautiful Korean woman with long dark hair, expressive eyes and minimal natural makeup. She wears an oversized pale-blue T-shirt, loose cream pajama pants and cozy socks.\n\nKeep her face, hairstyle, outfit, bedroom, props and lighting perfectly consistent throughout.\n\nSHOT 1 — 0:00–0:03 — THE HOOK\n\nThe camera is already recording from a slightly crooked position on a bedroom desk.\n\nThe woman suddenly rushes into frame holding a small mysterious red gift box.\n\nShe looks around the room as if checking whether anyone is watching.\n\nShe whispers excitedly:\n\n“I finally found it…”\n\nShe places the box on the bed.\n\nA tiny handwritten label on it reads:\n\n“OPEN WHEN YOU’RE 24.”\n\nShe stares at it in disbelief.\n\nInstant curiosity.\n\nSHOT 2 — 0:03–0:06 — THE MYSTERY\n\nShe sits on the floor beside the bed and carefully opens the box.\n\nInside is an old photograph and a tiny handwritten note.\n\nHer playful expression slowly disappears.\n\nShe picks up the photograph.\n\nThe camera autofocuses onto it.\n\nThe photograph shows a much younger version of herself standing in the exact same bedroom.\n\nShe looks from the photograph to the room.\n\nHer expression becomes completely stunned.\n\nSHOT 3 — 0:06–0:09 — THE CONNECTION\n\nShe slowly looks around.\n\nThe camera remains completely still.\n\nShe notices something behind the old photograph: a tiny folded note.\n\nShe opens it.\n\nHer eyes widen.\n\nShe starts laughing in disbelief while shaking her head.\n\nThe note contains a simple handwritten message:\n\n“If you found this… you finally grew up.”\n\nNatural emotional reaction — not melodramatic.\n\nSHOT 4 — 0:09–0:12 — THE EMOTIONAL TWIST\n\nShe sits silently for a moment.\n\nHer expression becomes soft and emotional.\n\nShe looks at the old photograph again, then smiles warmly.\n\nShe gently places the photograph against her chest.\n\nA tiny nostalgic laugh escapes.\n\nThe warm bedroom lamp creates a beautiful glow across her face while the MiniDV camera struggles slightly with exposure.\n\nSHOT 5 — 0:12–0:15 — THE FINAL REVEAL\n\nSuddenly she notices something written on the back of the photograph.\n\nShe flips it over.\n\nHer eyes go wide.\n\nShe looks directly into the camera as if she has just realized something.\n\nThen she laughs and says:\n\n“Wait… YOU recorded this?”\n\nShe quickly walk",
+      "tags": [
+        "minidv",
+        "nostalgia",
+        "tape",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-nostalgic-minidv-tape-reveal",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-nostalgic-minidv-tape-reveal.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-nostalgic-minidv-tape-reveal-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.08,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@jzaib4269 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/jzaib4269/status/2091394845764108513",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11605",
+        "published_at": "2026-08-23T05:19:22.124Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-cinematic-jewelry-store-action-sequence",
+      "assetId": "goku-seedance-2-0-cinematic-jewelry-store-action-sequence",
+      "model": "seedance-2.0",
+      "industry": "marketing-advertising",
+      "category": "action",
+      "title": {
+        "en": "Cinematic Jewelry Store Action Sequence"
+      },
+      "description": {
+        "en": "A production-ready video prompt for cinematic Jewelry Store Action Sequence, reviewed against its published output."
+      },
+      "prompt": "A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. A confident young woman with long dark hair, olive skin, and sharp green eyes is the hero. She wears an elegant emerald silk evening gown and gold earrings. Three masked thieves in black tactical gear attempt a robbery, and she single-handedly defeats them with fast, precise martial arts choreography. She vaults over glass display cases, shattering them in dramatic slow motion as diamonds, pearls, and glass shards scatter and sparkle through the air like rain, catching warm spotlight beams. She slides across a marble counter, throws one attacker into a shelf of watches, and disarms the last with a spinning kick. At the end, she stands calm amid the glittering wreckage, picks up a single diamond ring, examines it in the light, and looks directly into the camera with a faint smile. Dynamic handheld camera, whip pans, slow-motion inserts, moody warm lighting with deep shadows, realistic physics, high production value, cinematic style, 4K.",
+      "tags": [
+        "jewelry",
+        "action",
+        "cinematic",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-cinematic-jewelry-store-action-sequence",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-cinematic-jewelry-store-action-sequence.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-cinematic-jewelry-store-action-sequence-poster.jpg",
+        "ratio": "16:9",
+        "duration": 10.08,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@mimu_ai1 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/mimu_ai1/status/2091215411341930633",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11612",
+        "published_at": "2026-08-22T17:26:21.624Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-soaring-through-fantasy-jungle",
+      "assetId": "goku-seedance-2-0-soaring-through-fantasy-jungle",
+      "model": "seedance-2.0",
+      "industry": "travel-hospitality",
+      "category": "fantasy",
+      "title": {
+        "en": "Soaring Through Fantasy Jungle"
+      },
+      "description": {
+        "en": "A production-ready video prompt for soaring Through Fantasy Jungle, reviewed against its published output."
+      },
+      "prompt": "Style: Avatar-scale fantasy jungle. Hyper-realistic - no CGI gloss, no game-engine look.\n\nCinematography: Single continuous take, wide lens, GoPro-on-creature intimacy.\n\nLighting: Golden god-rays through canopy, rainbow through waterfall mist.\n\nAction: 15s soaring flight - butterflies, waterfall skim, razor-narrow gap, full world reveal.",
+      "tags": [
+        "jungle",
+        "flight",
+        "fantasy",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-soaring-through-fantasy-jungle",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-soaring-through-fantasy-jungle.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-soaring-through-fantasy-jungle-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.12,
+        "resolution": "1920x1080",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xsavagespark via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xsavagespark/status/2105491368428601530",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11740",
+        "published_at": "2026-10-01T02:53:55.028Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-hilarious-vintage-bride-escape",
+      "assetId": "goku-seedance-2-0-hilarious-vintage-bride-escape",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Hilarious Vintage Bride Escape"
+      },
+      "description": {
+        "en": "A production-ready video prompt for hilarious Vintage Bride Escape, reviewed against its published output."
+      },
+      "prompt": "Use the character sheet as the visual reference. Preserve the bride’s exact face, hairstyle, dress, body proportions, and accessories throughout the entire video. 16:9 landscape.\n\n0–3 sec — THE ESCAPE\nA church wedding is happening when the bride suddenly bursts through the giant church doors and sprints down the steps, still holding her bouquet. Her expression is determined but hilariously excited. Her veil and dress fly wildly behind her. Camera rapidly tracks backward in front of her as she runs. A few confused wedding guests appear in the background, realizing what is happening.\n3–5 sec — GET TO THE CAR\nShe spots a bright red 1950s vintage car waiting at the curb. She kicks off one white bridal heel while running, then throws herself toward the driver's door. Fast whip-pan follows her movement.\n\n5–8 sec — PEEL OUT\nShe jumps into the car, slams the door, starts the engine and PEELS AWAY at ridiculous speed. Tires squeal, a tiny cloud of smoke appears, and her long white veil gets caught in the closing door and streams dramatically behind the car. The bouquet lands on the passenger seat.\n8–11 sec — CHAOS\nRapid comedic interior cuts:\nBride gripping the steering wheel and laughing → her veil whipping around her face → bouquet bouncing around the passenger seat → her other bridal heel flying through the air → wedding guests running helplessly behind the disappearing car.\n\n11–15 sec — SHE’S FREE\nDynamic side tracking shot of the red car racing down a sunny vintage highway. The bride drives one-handed, completely carefree. She looks into the rearview mirror, sees the church disappearing in the distance, grins, then blows a huge pink bubblegum bubble.\nFinal frame:\nThe red car speeds toward the horizon, veil flying behind it.\n\nStyle: fast-paced physical comedy, playful rebellious energy, 1950s Americana, saturated red vintage car, creamy white wedding dress, warm golden sunlight, cinematic vintage film grain, slightly painterly realism, realistic motion, energetic camera movement, whip pans, quick cuts, exaggerated but believable comedy.\nImportant: No slow motion, no sad mood, no dramatic romance, no dialogue, no text, no extra brides, no face changes, no outfit changes, no distorted hands, no morphing.",
+      "tags": [
+        "vintage",
+        "bride",
+        "comedy",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-hilarious-vintage-bride-escape",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-hilarious-vintage-bride-escape.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-hilarious-vintage-bride-escape-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.08,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Caden_Flux via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Caden_Flux/status/2105228156085137501",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11744",
+        "published_at": "2026-09-30T09:28:00.315Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-redhead-and-cat-kitchen-chaos",
+      "assetId": "goku-seedance-2-0-redhead-and-cat-kitchen-chaos",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "animation",
+      "title": {
+        "en": "Redhead and Cat Kitchen Chaos"
+      },
+      "description": {
+        "en": "A production-ready video prompt for redhead and Cat Kitchen Chaos, reviewed against its published output."
+      },
+      "prompt": "Created a video, a cinematic cartoon-style kitchen story featuring a curly red-haired woman and a cute fluffy gray cat in a warm, cozy home kitchen. The video begins with the woman entering the kitchen while the curious gray cat stays nearby, creating a playful and innocent atmosphere. The camera then moves closer to the cat as it reaches toward a button on the kitchen counter with its tiny paw. Suddenly, a funny kitchen mishap begins, filling the room with clouds of flour and food flying through the air. The woman reacts with surprise as the cat remains at the center of the chaos, making the scene humorous and energetic. Show dynamic camera movements, expressive facial reactions, detailed character animation, and natural body movement throughout the sequence. Gradually reveal the messy kitchen with flour, food, and ingredients scattered across the counters and floor. End with the woman and the cat sitting together in the messy kitchen, looking innocent and confused after the hilarious disaster. Keep the same characters, appearance, hairstyle, clothing, kitchen environment, lighting, and visual style consistent from beginning to end, with polished cinematic cartoon-quality animation.",
+      "tags": [
+        "cat",
+        "kitchen",
+        "comedy",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-redhead-and-cat-kitchen-chaos",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-redhead-and-cat-kitchen-chaos.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-redhead-and-cat-kitchen-chaos-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.08,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Lianaalane via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Lianaalane/status/2104431076089414068",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11760",
+        "published_at": "2026-09-28T04:40:41.635Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-ancient-dragon-fossil-awakens-in-cave",
+      "assetId": "goku-seedance-2-0-ancient-dragon-fossil-awakens-in-cave",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Ancient Dragon Fossil Awakens In Cave"
+      },
+      "description": {
+        "en": "A production-ready video prompt for ancient Dragon Fossil Awakens In Cave, reviewed against its published output."
+      },
+      "prompt": "15-second photorealistic live-action dark fantasy. Two explorers inside a vast underground cavern discover the enormous fossilized skeleton of an ancient dragon embedded in rock. The complete skull and massive rib cage are clearly visible. Realistic geology, headlamps, dust, scale and human movement.  \n\n0–4s - DISCOVERY: Wide shot. The explorers walk beneath gigantic fossilized ribs towering over them. One places his gloved hand against a rib for scale.  THUMP.  A deep heartbeat reverberates through the entire skeleton.  Both explorers freeze.  \n\n0–8s  IT BEATS AGAIN: Close shot on the hand touching the fossil.  THUMP.  Stronger.  Dust jumps from every bone simultaneously. The explorer immediately pulls his hand away.  THUMP.  The dragon’s huge rib cage visibly expands a few centimeters as if taking its first breath in centuries, then settles.  The explorers slowly back away.  \n\n8–12s - WAKING: Camera tracks toward the enormous fossilized skull.  Another violent heartbeat.  Small rocks fall from the skull. Its lower jaw slowly opens with a deep grinding sound.  Inside the empty eye socket, something moves deep in the darkness.  \n\n12–15s - CLIFF-HANGER: Wide shot with the tiny explorers beneath the skeleton.  THUMP.  The entire cavern shakes.  The dragon’s enormous fossilized front claw suddenly CLOSES against the stone floor.  The explorers stare upward.  A massive inhale echoes through the cavern.  \n\nCUT TO BLACK.  Sound: cavern ambience, increasingly powerful heartbeats resonating through bone, falling grit, grinding fossilized joints, final enormous breath.  Photorealistic and physically grounded. The dragon remains a fossilized skeleton throughout - no flesh regeneration, transformation, magical glow or fire. Keep exactly two explorers and one consistent skeleton. Real bone weight, dust and rock interaction. No extra limbs, changing anatomy, glowing eyes, fantasy particles or CGI look.",
+      "tags": [
+        "fossil",
+        "cave",
+        "dragon",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-ancient-dragon-fossil-awakens-in-cave",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-ancient-dragon-fossil-awakens-in-cave.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-ancient-dragon-fossil-awakens-in-cave-poster.jpg",
+        "ratio": "16:9",
+        "duration": 15.19,
+        "resolution": "1280x720",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@DeCat2025 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/DeCat2025/status/2104414219047166049",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11761",
+        "published_at": "2026-09-28T03:33:42.603Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-ice-block-dropped-into-active-lava",
+      "assetId": "goku-seedance-2-0-ice-block-dropped-into-active-lava",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "action",
+      "title": {
+        "en": "Ice Block Dropped Into Active Lava"
+      },
+      "description": {
+        "en": "A production-ready video prompt for ice Block Dropped Into Active Lava, reviewed against its published output."
+      },
+      "prompt": "【风格】 真人写实，竖屏极限探险纪实短视频，手持手机广角摄影质感。真实人物、真实机舱内饰、透明冰块的折射与内部裂纹、黑色火山岩 and 橙红色熔岩。保留手持微晃、飞行振动、自然运动模糊和曝光变化。舱内偏暗，舱外天空明亮，熔岩从下方向人物手臂、冰块和门槛投射橙红色反光。最后的喷发采用逼真的电影特效，白色气柱有立体层次、体积感和翻卷细节。  \n【时长】 15秒，9:16竖屏，全程一个连续镜头。实时动作，不切镜、不慢放、不插入其他机位。  \n【场景】 一架直升机悬停在火山熔岩区上方，侧面舱门完全打开。摄影机位于机舱内部、靠近敞开的舱门，朝门口人物及舱外拍摄。画面左侧和上方可见暗色门框及机舱内壁，下方是深灰色防滑纹理地板、金属门槛和固定扣件。  舱外下方是大片暗灰黑色凝固熔岩壳，表面分布蜿蜒的橙红色发光裂缝。裂缝包围一处近圆形的明亮熔岩池，池内金黄色和橙红色熔融物缓慢翻涌，局部形成鼓泡、亮斑和破裂的暗色浮壳。薄薄的灰色烟雾贴着地表流动。圆形熔岩池位于舱门外的下方，成为冰块坠落和后续气柱喷发的同一落点。  \n【角色】 一名成年东亚女子，棕色长发扎成马尾，穿冲锋衣、灰绿色工装长裤、深色靴子，身体佩戴黑色安全背带，头戴带麦克风的航空耳机。头发被舱门外强风持续吹向侧后方。开场神态轻松，先看摄影机微笑，随后将注意力转向舱外；结尾受到喷起的白色气柱惊吓，迅速弯腰向机舱内退避。  人物始终留在机舱内，仅手臂和冰块伸向舱门外，不跳出直升机。  \n【核心道具】 仅一块巨大透明长方体冰块，约从女子胸口延伸到膝部，宽度接近她的躯干宽度。冰块厚重，具有明确的顶面、正面、侧面与厚度，边角略有融化，内部有乳白色冰雾、细碎气泡及不规则裂纹，表面湿润。  女子双手分别扣住冰块左右两侧，前臂夹持支撑，表现出物体的重量。冰块在抱持时保持竖立；推出舱门后倾斜下坠，只发生轻微翻转，不变成薄玻璃、塑料袋、液体或多个碎块。  \n【摄影机】 开场为近距离手持中景，女子位于画面左侧，巨大冰块位于中间偏右，舱外明亮空间位于右侧背景。摄影机与女子相距约一米多，能够同时看见她的头部、躯干、弯曲的双腿和完整冰块。  冰块释放后，摄影机向右下方转动并俯拍，视线越过门槛，持续追踪冰块下坠。摄影机始终留在机舱门口，不跟随冰块一起飞出去。随后保持高处俯瞰熔岩池，最后随着气柱逼近而快速后撤回机舱。  \n[00:00–00:01.30] 镜头动作1：抱住巨冰，面向镜头微笑 女子侧身站在敞开的机舱门边，双脚前后错开，膝盖微屈。巨大长方体冰块竖立在她胸腹前方，底部悬在地板上方。她双手扣住冰块两侧，双肘弯曲，将冰块稳稳夹在身前。  她看向摄影机，嘴角上扬，短暂露出轻松兴奋的笑容。风将她的马尾和散发向左后方吹起。冰块随手臂和机身振动轻微晃动，但始终保持完整形状。冰面折射明亮天空，内部的白色冰纹清晰可见。  摄影机保持近距离中景，轻微手持晃动，右侧能够看到舱外的灰黑色火山地貌。  音效：持续的直升机旋翼声、机舱振动声和舱门风声。  [00:01.30–00:02.30] 镜头动作2：转头看向落点，屈膝移重心 女子收起对摄影机的注视，先转头看向右侧舱外，再低头看向下方熔岩池。肩膀和躯干跟着向舱门方向转动，双腿进一步弯曲，身体重心降低。  她把冰块从贴近胸腹的位置向外移，手臂逐渐伸展，冰块底部靠近金属门槛。她没有突然抛掷，而是带着明显负重感，将整块冰缓慢而连续地送向舱外。冰块朝向熔岩的一面逐渐染上橙红色反光，背向熔岩的一面仍保持冷白透明。  摄影机开始轻微向右、向下倾斜，让冰块与门槛成为画面重点。  音效：旋翼声持续，衣物和安全背带摩擦声，人物短促用力呼气。 \n [00:02.30–00:03.10] 镜头动作3：推过门槛，手指松开 女子屈膝前倾，双臂继续向门外伸出，把冰块的重心送过门槛。冰块先保持接近竖直，随后顶部向舱外倾斜，底部脱离门口区域。  她伸直手臂，双手手指依次松开，让冰块完全离手。松手后双掌短暂留在空中，随后收回。冰块沿向外、向下的方向开始坠落，顶面发生轻微转动，仍然是同一块完整厚重的长方体。  摄影机立即顺着冰块运动方向向下俯拍，女子的脸退出画面，只在左上角短暂保留手臂；门槛和防滑地板留在画面下方前景。  音效：风声增强，旋翼低频持续，不添加玻璃破碎声。  [00:03.10–00:04.60] 镜头动作4：冰块远离，俯拍追踪落点 冰块从门口近景迅速变为舱外下方的小长方体，沿连续下坠轨迹向圆形熔岩池接近。冰块有轻微倾斜和翻转，顶面与侧面交替反光，朝下的一面被熔岩照成粉橙色，边缘仍然保持半透明冷白色。  摄影机继续向下转动，将明亮的圆形熔岩池移到画面中央。左下角保留一条斜向的金属门槛，帮助观众理解摄影机仍在直升机上。冰块随着距离增加不断缩小，最后成为熔岩亮区上方的一小块浅色物体，并在接触翻涌表面后被亮光和熔融物遮没。  不要在接触瞬间直接喷起巨大气柱，必须保留后续等待过程。  音效：旋翼声、高空风声和低沉火山环境声。  [00:04.60–00:08.20] 镜头动作5：保持俯视，熔岩翻涌，延迟反应 冰块已经从画面中消失。摄影机持续俯瞰同一处近圆形熔岩池，镜头轻微向池中心收紧，前景门槛逐渐退出，只剩地表和熔岩。  池内橙红色熔融物缓慢翻卷，亮黄色纹理不断改变形状；薄薄的暗色浮壳被撕开，形成不规则亮缝，池边偶尔鼓起小浪。周围黑色地壳与细密的红色裂纹保持固定位置，灰色薄烟缓慢飘过。  这一段要呈现明显的等待：落点持续翻滚，但还没有高大的喷发柱。摄影机不切走、不回拍人物，以轻微手持振动维持悬念。  音效：持续旋翼声，熔岩低沉翻滚声，暂时没有爆炸巨响。  [00:08.20–00:11.50] 镜头动作6：小团白气出现，断续冒起并蓄势 熔岩池中央略偏上的落点出现一个很小的白色气团。白气先是紧贴表面的浅色圆点，然后变成松散的小团，短暂膨胀、散开，又从同一位置继续冒出。  白气附近的熔岩更加活跃，金橙色熔融物向周围翻开，局部鼓起并坍落。小团白气逐步变得浓密，但在这一阶段仍然贴近熔岩表面，不能提前遮住整座熔岩池。  摄影机始终锁定同一个落点，保持近乎垂直向下的俯拍角度。黑色火山地壳和发光裂纹仍包围熔岩池，提供尺度对比。  音效：逐渐增强的嘶嘶声、熔岩鼓泡声和低频轰鸣，旋翼声持续存在。  [00:11.50–00:12.40] 镜头动作7：白气骤然膨胀，竖直气柱冲起 同一落点的白色气团突然加速膨胀，从一个小鼓包变成粗大的白色喷发柱。气柱根部固定在熔岩池内，顶部迅速向上生长，朝高处的摄影机逼近。  白色气柱由连续翻卷的气团组成，内部有明暗层次，边缘呈蓬松的不规则团块。新喷出的气体不断从底部向上推动，形成层层叠起的体积变化。气柱底部被熔岩映成淡橙粉色，上部为明亮白色，背光位置为灰白色。  熔岩围绕气柱根部剧烈翻涌，但不要把整个地面炸碎。画面重点是粗大的白色气柱突然上冲，迅速超过原先熔岩池的视觉尺度。  音效：骤然增强的喷气轰鸣和沉闷冲击声。  [00:12.40–00:13.60] 镜头动作8：气柱逼近镜头，摄影机惊慌后撤 白色气柱持续向上翻卷，顶部和两",
+      "tags": [
+        "volcano",
+        "ice",
+        "extreme",
+        "seedance-2-0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-ice-block-dropped-into-active-lava",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-ice-block-dropped-into-active-lava.mp4",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-ice-block-dropped-into-active-lava-poster.jpg",
+        "ratio": "9:16",
+        "duration": 15.03,
+        "resolution": "720x1280",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@TanLuAI via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/TanLuAI/status/2096984350055436729",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_11895",
+        "published_at": "2026-09-07T15:30:03.795Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
       },
       "status": "published"
     }
