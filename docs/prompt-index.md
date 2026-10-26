@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **415**
-Model-detail assets: **165** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **458**
+Model-detail assets: **208** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -484,4 +484,47 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Lantern Courtyard Cat Run](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Blueberry Cornflakes Milk Pour](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Paper Airplane City Dive](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Swimmer Emerges in Cinematic Slow Motion](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Golden Hour Urban Fashion Film](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Korean Luxury Lifestyle Ad](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Retro VHS Fitness Diary Vlog](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Barn Fire Horse Rescue Action](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Bodega Princess Rap Performance](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Old Man and Pigeon Warm Moment](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Glitch Face Dimension Crash](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Magnetic Crush vs Giant Boss](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Luxury Tycoon Gathering At Dusk Terrace](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Japanese Summer Festival Night Vlog](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Authentic Film Gym Chest Day Vlog](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Xianxia Sister's Deadpan Ghost Prank Reaction](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Penthouse Assassin Takedown](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Birthday Blowtorch Prank Reveal](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Idol Swimwear Lookbook Vlog](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Epic Zodiac Battle VFX Showdown](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rainy Night Store Suspense](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cyberpunk Rider and Mech Landing](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Guqin Performance in a Crane Courtyard](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Backstage Fashion Confrontation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Ancient Garden Culinary Performance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Mage Duel at the Shadow Castle](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Orbital Spiral and Fireball Impact](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Floating Orb Space Station Encounter](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Rainy Train Platform Farewell](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Dragon Attack on a Celestial Palace](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Lotus Spirit Transformation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Wuxia Stage Battle Performance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Warehouse Dance Formation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Laundromat Spirit Appearance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Celestial Ceremony at a Mountain Temple](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Masked Dancer in a Ruined Loft](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Street Food Noodle Tasting](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Stadium Dribble Challenge](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Capybara City Walk Animation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [White-Robed Garden Duel](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Street Vendor Food Vlog](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Desert Mecha Transformation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Arcane Library Duel](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Coastal Scooter Selfie](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Overgrown Train Carriage Explorer](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Flower Fairy Water Bloom](../catalog/model-detail-assets.json) — `minimax-h3`
 
