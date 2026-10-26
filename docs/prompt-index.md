@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **458**
-Model-detail assets: **208** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **465**
+Model-detail assets: **215** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -527,4 +527,11 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Coastal Scooter Selfie](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Overgrown Train Carriage Explorer](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Flower Fairy Water Bloom](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Jiangnan Rainy Reunion Cinematic Zoom](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Hyper Realistic IMAX 8K Cinematic Visuals](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Authentic Japanese Summer Festival Vlog](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Deli Counter Queen Bars](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Pro Surfer Aerial Maneuver](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Stop Motion Blizzard Wolf Attack](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Blonde Idol Cute Kpop Dance](../catalog/model-detail-assets.json) — `seedance-2.0`
 
