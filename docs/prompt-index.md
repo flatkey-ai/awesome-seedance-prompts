@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **465**
-Model-detail assets: **215** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **515**
+Model-detail assets: **265** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -534,4 +534,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Pro Surfer Aerial Maneuver](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Stop Motion Blizzard Wolf Attack](../catalog/model-detail-assets.json) — `seedance-2.0`
 - [Blonde Idol Cute Kpop Dance](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Warrior Meets Ancient Turtle City](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Tea Leaf of Annihilation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Warrior's Desperate Bridge Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [RAY-G: Point Break Mecha Sprint](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Awakening Strike in Ruins](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Silk & Steel: The Tailor's Kill Shot](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Aero City Cyber Duel](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Immortal's Golden Ink Spectacle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Clash of Ink and Flame Fury](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Wasteland Chariot Clash](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Paris to Shanghai Mecha Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Shinkansen: Dawn to Cabin](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Serious Cat Cooks Tomato Eggs](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Night BMX Park Backflip](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Skull Mask Soldier Spin](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Creepy VHS Forest Ramen Attack](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Goddess Fan Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Japanese Live Female Superhero Showdown](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Antiques Roadshow Eldritch Appraisal](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Alien Fly Attack: POV Speed Ramp](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Space Manta Dogfight Oner](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Adrift: Shattered Earth](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Into the Star's Magnetic Eye](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Shattered Mirror Dance](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Blood Dusk Cavalry Charge](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lava River Army Clash](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Golden Calligraphy Spell](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Mountain Trail Motorcycle POV](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Snow Courtyard Gunfight](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Android Pizza Makeup Surreal](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cheetah Jungle Pursuit](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Bespoke Tailoring Workshop](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Mountain Road Luxury Drive](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Studio Interview Conversation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Desert Peak Travel Reveal](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Animated Cavalry Card Reveal](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Park Levitation Dance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Retro Spacecraft Conversation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Dragon Encounter on Alpine Ridge](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Futuristic Gallery Arrival](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Animated Capybara Cooking](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Desert Road Trip Driver](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Desert Mech Car Reveal](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Tiger Jeep Jungle Encounter](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Tiny Fairy Grassland Flight](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Minimalist Martial Arts Flow](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Fine Dining Gift Reveal](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Robot Ballet Under Moonlight](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cat Sushi Surprise](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Neon Mythology Projection Performance](../catalog/model-detail-assets.json) — `minimax-h3`
 
