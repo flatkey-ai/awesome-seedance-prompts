@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **515**
-Model-detail assets: **265** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **565**
+Model-detail assets: **315** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -584,4 +584,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Robot Ballet Under Moonlight](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Cat Sushi Surprise](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Neon Mythology Projection Performance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Ultimate Tropical Escape Dive](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Space Colony Dawn Woman](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Love Fractured in Time](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Eastern Cyberpunk Wuxia Duel](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dawn Citadel: Elven Orc War](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [The Last Warrior's Vigil](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Island Port Diorama Rising](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fallen Angel's Sacred Rebirth](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fallen Angel's Holy Feather Awakening](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [1990 Textile Factory Shift Change](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [A Northern New Year's Eve Feast](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Skyward Journey Through Four Worlds](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cyberpunk Alley Blade Duel](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dunhuang Scroll Transformation Dance](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Nostalgic Anime Hands in Kitchen](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Hyperkinetic Camera Dance Micro-Motions](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Wuxia Swordfight at Dusk](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Secret Roof Repair Romance](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lavender Assassin Palace Fight](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [80s Japanese Mushroom Challenge Fail](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Xianxia Dual Cultivator Epic Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Maid Mecha Sky Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Comet Crashes On Frozen Tundra](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Bone Dragon Awakens](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dragon Hunter's Last Stand](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Haute Couture Tailoring Session](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Calligraphy Museum Lightbox Reveal](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Blueprint to Dream Home](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Quiet Mountain Morning](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Creative Agency Interview](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Remote Outfit Transformation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Courtyard Candle Celebration](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Aurora ASMR Ice Crystal](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Tiger Temple Encounter](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cherry Blossom Jazz Ensemble](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cat and Rooster Warehouse Chase](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Orbital Corridor Zero-Gravity Fight](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Skincare Serum Water Splash](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Citrus Soda Product Burst](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Mythic Deities Neon Descent](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Synchronized Dance Studio Routine](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Donut Laboratory Robot Awakening](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Ink Circle Breakdance Duel](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Desert Jeep Road Trip](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Surreal Candlelit Banquet Ritual](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Illuminated Fantasy Map](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Nail Color Forecast Studio](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Ink Brush Breakdance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Executive Interview to Alpine Vision](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Sky Koi Above the Mountains](../catalog/model-detail-assets.json) — `minimax-h3`
 
