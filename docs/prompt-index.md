@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **565**
-Model-detail assets: **315** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **615**
+Model-detail assets: **365** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -634,4 +634,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Ink Brush Breakdance](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Executive Interview to Alpine Vision](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Sky Koi Above the Mountains](../catalog/model-detail-assets.json) — `minimax-h3`
+- [10,000 Years of Coastal Evolution](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Feeding West Lake Fish Prank](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Opera Cat Chaos](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Bionic Heroine Unleashes Energy Rings](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Warrior's Brutal Parking Lot Brawl](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Electric Duo Stage Domination](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Giant Koi Leaping Through Golden Clouds](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Goddess Descends: Divine Annihilation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dragon vs Ninja Stage Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Solene's Skyfall Annihilation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dimensional Rift Battle Unleashed](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Sengoku Mountain Castle Siege](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Karla's Virtual Ice Escape](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Northeastern Auntie Cooks Alien](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fractured Pupil: One Unbroken Take](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Samurai's Last Stand Against Giant](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Supersonic Bride Cutting Through Nebula](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rooftop Hurricane Run](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rally Driver: Dust and Glory](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Invisible Match: Daily to Epic](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Neon Rain Solitude Wong Kar-wai Style](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Magical Moonlight Transformation Reveal](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [China Weapon Evolution Through Ages](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [The Redacted City Anime PV](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Festival Selfie Vlog Glow](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Old Kyoto Alley Food Tasting](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Rose Petal Couture Awakening](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Monster and Dragon Jungle Quest](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Riverside Campfire Noodle Bowl](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Clock Tower Bell Escape](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Ballerina in the Flooded Opera](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Apple Cat Dance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cat Siblings Find the Candy House](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Commercial Kitchen Ingredient Rush](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Tokyo Alley Ramen Sprint](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Neon Rooftop Katana Duel](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Minimalist Desk Kinetic Machine](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Retro Skate and Strawberry Shake](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Ghost Train Lantern Heroine](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Chameleon Hunts in the Rainforest](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Chocolate Pinwheel Biscuit Burst](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Whale Beneath an Inverted Ocean](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Megalodon Speedboat Chase](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Storm Giant and Winged Lion Riders](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Steampunk Dragonfly Over the Pond](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Armored Ant Battlefield](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Knight Bride Flower Shockwave](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Crystal Hoverboard Canyon Clash](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Dragon Rider Over the Volcano](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Giant Crocodile Attacks a Houseboat](../catalog/model-detail-assets.json) — `minimax-h3`
 
