@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **615**
-Model-detail assets: **365** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **650**
+Model-detail assets: **400** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -684,4 +684,39 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Crystal Hoverboard Canyon Clash](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Dragon Rider Over the Volcano](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Giant Crocodile Attacks a Houseboat](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Desert Leviathan Belly Dancer](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [One Man, One Gun, No Mercy](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Painting Immortal's Deadly Fairyland](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Mecha Samurai's Waterfall Slash](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Spider Cave Trial Budget Enlightenment](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Android Woman Reveals Hidden Face Panel](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fluffy Red Puppy's Playful Side Glances](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lazy Afternoon Rap Vibes](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Golden Duel of Blades](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fresh Apple Lifestyle Beverage Ad](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Snow Ridge Boar Caravan](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Global Fashion Orbit](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Village Rooftop Firefight](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Thunder Swordsman Hell Valley Duel](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Late Night Dorm Food Vlog](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Green Courier Studio Turnaround](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Sparkling Apple Street Ad](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Neon Alley Gun Disarm](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Retro Apartment Style Switch](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Graffiti Street Dance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cybernetic Warrior Bridge Awakening](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Stickman Stairwell Kung Fu](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Ace of Spades Gothic Transformation](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Hacienda Mafia Standoff](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cyber Beetle Jungle Sprint](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Sword Dance Gesture Study](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Matador Bull Chase](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Tang Garden Peony Portrait](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Caramel Ice Cream Macro](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Orbital Megastructure Explorer](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Grandmother Studio Dance](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Volcanic Temple Artifact Escape](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Carnival Clown Golem Battle](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Red Line Brutalist Megacity](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Indian Street Food Rush](../catalog/model-detail-assets.json) — `minimax-h3`
 
