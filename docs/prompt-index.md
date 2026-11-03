@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **650**
-Model-detail assets: **400** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **700**
+Model-detail assets: **450** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -719,4 +719,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Carnival Clown Golem Battle](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Red Line Brutalist Megacity](../catalog/model-detail-assets.json) — `minimax-h3`
 - [Indian Street Food Rush](../catalog/model-detail-assets.json) — `minimax-h3`
+- [Cat and Mouse Outsmart Bulldog](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Anime Countryside Cooking Montage](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Giant Chases Dragon in Lake](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Knight Slaying Colossal Stone Titan](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Photorealistic Airplane Crash Sequence](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Leviathan Awakens Beneath Frozen Lake](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Journey to Earth's Underground Ocean](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Vanishing Bridge Escape](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Anime Campside Beef Pho](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Molten Phoenix Knight Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ice Titan Awakens In Frozen Valley](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Paris Silver Eclipse Apocalypse](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rally Car Escapes Alpine Avalanche](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Casual Road Trip Phone Footage](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Arranging Fresh Pink Roses Artfully](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Floating Blonde Desert Orbit](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Modern Townhouse Construction Time-Lapse](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Courier's Epic Treasure Hunt Chase](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Snowbound Ghost Cabin Horror](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Retro Anime Sunset Metropolis](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Apocalyptic Sky Collapse](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Door Gods Watch at Midnight](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dark Orbital Station Tape](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Llama Bunny Retro Party Chaos](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Skybound Luxury Penthouse](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Asteroid Tunnel Cockpit Dive](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Rain-Slick Motorcycle Wheel Tracking](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Amber Filament Light Bloom](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Neon Door Into Crystal Passage](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Rainy Hong Kong Alley Sprint](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Guqin Above the Taiji Cloudsea](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Avalanche Chase Along Alpine Rails](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Sky Whale Above Storm Peaks](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Golden Light Through Ancient Tree](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Eagle Dive Across Sunrise Peaks](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Wind Turbines Above Cloud Sea](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Flowers Rise Into Living Sculpture](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Thousand Lanterns in Cyber Alley](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Honey Moth Fairy in Hollow Log](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Dragon Flight Over Volcanic Range](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Tabby Cat Cooks Breakfast](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Minotaur Takes Tea](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Meteor Fire Over Blue City](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Storm Bus Transforms Into Mech](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Ghost Orchestra Conductor](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Piano in Bombed Cathedral](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Traditional Yu Opera Entrance](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Bandaged Cat Escapes Science Lab](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Portal Opens on Rainy Paris Street](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Multicolor Cube Geometry Swarm](../catalog/model-detail-assets.json) — `MiniMax-H3`
 
