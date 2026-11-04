@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **700**
-Model-detail assets: **450** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **750**
+Model-detail assets: **500** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -769,4 +769,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Bandaged Cat Escapes Science Lab](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Portal Opens on Rainy Paris Street](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Multicolor Cube Geometry Swarm](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Cyber Heroine Sunset Blast](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cherry Blossom Blade Strike](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Alien Terror in Emergency Room](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rooftop Leap Under Police Spotlight](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Flying Inside Nested Hollow Worlds](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dark Xianxia Epic Fantasy](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Auren Purges the Blighted City](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Tranquil Forest Picnic Animation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Orbital Ring Collapse Chase](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dreamy Bear Under Pastel Sky](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Astronaut's Epic Leap into Earth](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Post-Apocalyptic Action Trailer](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Astronaut Wanders Abandoned Park At Twilight](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [One Drop Revives Dead Stadium](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ink Rebirth Paradise](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Desert Titan Awakening](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Princess Riding Through Magical Kingdom](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Golden Storm Paladin Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [1976 Shanghai Alley Dusk Life](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fire Empress Transformation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Smoke Beast Awakens](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Traveler Awakens Ancient Floating Ruins](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Sunlit Floral Arrangement](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ancient Stone Mandala Temple Glow](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Exploring an Interstellar Space Tree](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lone Samurai Beneath the Moon](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Alien Beneath the City Bus](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Abstract Product Silhouette Reveal](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Surfer Rides the Emerald Barrel](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Street Phone Footage at Dusk](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Conductor Lights the City](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Desert Rally Drift](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Fractured City at Midnight](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Hovercraft Crosses the Savanna](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [FPV Flight Through Ancient Sindhu](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Black Supercar Night Tracking](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Endless Hallway Light Descent](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Roller Skate City Glide](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Seed Sprouts in Timelapse](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Mermaid Beneath the Blue](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Chair Assembly Product Film](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Modern Office Building Flythrough](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Lone Wanderer in Ruined Landscape](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Monochrome Alley Walk](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Surreal Luxury Interior Reveal](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Butter Melts in Macro](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Armored Vehicle Crests the Dune](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Astronaut in Dim Spacecraft Cabin](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Elephant Guides Kitten Across River](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Moonlit Ancient Forest Wanderer](../catalog/model-detail-assets.json) — `MiniMax-H3`
 
