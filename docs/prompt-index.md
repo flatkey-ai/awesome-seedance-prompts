@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **750**
-Model-detail assets: **500** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **800**
+Model-detail assets: **550** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -819,4 +819,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Astronaut in Dim Spacecraft Cabin](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Elephant Guides Kitten Across River](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Moonlit Ancient Forest Wanderer](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Cinematic Gouache Concept Art Animation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cyber Swordswoman Destroys Orbital Warship](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ice Racer Canyon Escape](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Leaked Drone Becomes Cinematic](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lightspeed Frozen City Runner](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Wildlife Documentary Visuals](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Morning Zen Calm](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Caribbean 3D Cute Comedy Short](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Vintage Wagon on Desert Highway](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Elastic Cartoon Comedy in One Shot](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Clay Figures' Fiery Farewell](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lone Astronaut Skiing on Moon](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Infinite Library & Black Hole](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [One-Shot Police Car Chase Action](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Glowing Portal Rips Paris Avenue](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Morning Rush: Coffee & Code](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Spy Cat vs Exploding Chicken](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Hyper-Realistic CGI Figurine Render](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Luxury Smartwatch Cinematic Demo](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Hanok 3D Architectural Visualization](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dark Fantasy Beast Rider Charge](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Chronosaurus Attacks Underwater Pier](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Jet Ejection And Missile Explosion](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Tokyo Rainy Neon Alley Night](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Boss Lady Bodyguard Action Scene](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Post-Apocalyptic Desert War Machine](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Rain-Soaked Tokyo Sports Car](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Knight's Last Stand on Broken Bridge](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [White-Robed Swordsman Above Cloud Sea](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Donkey Motorcycle Snow Jump](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Rainy Art Deco City Canyon](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Armored Truck Crushes Desert Wreckage](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Bamboo Drones Over Tea Terraces](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Lightning Storm Survival Run](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Valkyrie Strikes Stained-Glass Cerberus](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Matchbox and Candle Meet Fire Extinguisher](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Astronaut in Abandoned Amusement Park](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Traveler Becomes Ancient Tree Guardian](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Energy Duel in Bathhouse Dojo](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Cat Spins on Floating Island](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Night Fight in Chemical Laboratory](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Astronaut Crystallizes on Frozen Exoplanet](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Runner Escapes a Colossal Monster](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Runaway Foam Fills Bathroom Sink](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Officer's Salute Sends Cap Flying](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [King Rises From Floating Obsidian Throne](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Zero-G Space Warrior Clash](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Molten Metal Rivers in Obsidian Forge](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Ancient Temple Statue Awakens](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Shrine Cat at Sunset Festival Bell](../catalog/model-detail-assets.json) — `MiniMax-H3`
 
