@@ -35016,7 +35016,7 @@
         "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
         "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
         "dataset_id": "SD2_05220",
-        "published_at": "1970-01-21",
+        "published_at": "2026-06-23",
         "captured_at": "2026-11-06",
         "collected_at": "2026-11-06T03:13:28Z",
         "generation_model": "seedance@2.0",
