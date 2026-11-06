@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **800**
-Model-detail assets: **550** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **850**
+Model-detail assets: **600** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -869,4 +869,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Molten Metal Rivers in Obsidian Forge](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Ancient Temple Statue Awakens](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Shrine Cat at Sunset Festival Bell](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Desert Truck Shockwave Chase](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Victorian Ballroom Floating Above Clouds](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dragon Rider Storm Chase One Take](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [The Shadow That Closes His Fist](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ronin vs Mech in Storm](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Void Lord Total Decay Vision](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Floating Through Neon Dreams](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Japanese Takoyaki Vendor Flipping at Festival](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Storm Rider's Final Slash](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cryo-Lab Woman in Diagnostic Pod](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Warrior Monk Epic Stone Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Impossible Naval War Shot](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Angelic Warriors Duel in Dusty Warehouse](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dark Doppelgänger Transformation Video](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Seedance Video Prompt Engineering Guide](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cat Assassin in Tang Robe](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Brutalist Garden Rap](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cosmic Rift Over Neon Megacity](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Time Builds Empires From Sand](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Breathing Clash: Petal vs Crimson](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Sorceress Dark Armor Awakening](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Glacier Tiger's Frozen Hunt](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Snow Temple Kung Fu Revenge Duel](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [FPV Drone Pipe Explosion](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Fashion Montage With Glitch Effects](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Forest Knights Clash at the Colossus](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Parking Lot Sparring Exchange](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Lantern Market Delivery Ride](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Sunlit Ocean Swim Portrait](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Emerald Jungle Snake Strike](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Bicycle Descent First-Person View](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Rainforest Frog and Glowing Mushrooms](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Quiet Morning in a Period Room](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Aerial Rescue from the Rubble](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Volcanic Ramen Journey](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Forging a Luminous Blade](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Crown of the Empty Cathedral](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Rooftop Pigeon Close Encounter](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Bamboo Grove Sword Duel](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Desert Cat Swordsman](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Red Dress Stage Monologue](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Desert Mech Transformation](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Pickup Truck Becomes a Rhino](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Sunlit Museum Corridor Walk](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Flying Whale Library Voyage](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Precision Teppanyaki Slicing](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [The Corridor Wall Collapse](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Neon Spider Drone Pursuit](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Color Bead Wave Over the City](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Dragon Awakens in the Burning Castle](../catalog/model-detail-assets.json) — `MiniMax-H3`
 
