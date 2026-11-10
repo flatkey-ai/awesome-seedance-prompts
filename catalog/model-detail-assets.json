@@ -3,7 +3,7 @@
   "kind": "video-model-detail-assets",
   "repository": "https://github.com/flatkey-ai/awesome-seedance-prompts",
   "generatedFrom": "new-api:d0835b1c6:website/src/lib/video-prompt-templates.ts",
-  "capturedAt": "2026-11-06",
+  "capturedAt": "2026-11-10T03:17:18Z",
   "entries": [
     {
       "slug": "model-detail-video-seedance-2-5-micro-drama-comic",
@@ -26612,6 +26612,2281 @@
         "num_frames": 124,
         "num_inference_steps": 30,
         "sha256": "c2972b59ea741540e4cb413348e84a16b12f83c42f83c8b12fef215f1ac8e4f9"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-mech-collapse-escape",
+      "assetId": "goku-seedance-2-0-mech-collapse-escape",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Mech Collapse Escape"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Massive humanoid mech collapsing mid-battle — pilot must escape from inside as the structure fails around them. Interior cockpit, alarms blaring, mech losing balance. Impact, mech hits the ground, violent shock through the cockpit. System failure, panels exploding, sparks filling the space. Escape attempt: pilot unstrapping while the mech tilts further. Structural shift: internal walls bending, pathways deforming. Near-crush: a bulkhead slams down just behind them. Fire burst: explosion blocks the main exit. Alternate route: pilot climbing through damaged internal structure. Collapse chain: limbs tearing off, structure breaking apart. Final jump: pilot ejects just before total collapse. End: mech slamming down behind in pieces.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-mech-collapse-escape",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-mech-collapse-escape.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-mech-collapse-escape-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@AllaAisling via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AllaAisling/status/2046716774209495336",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_00007",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "de92d67d7e059f88293259af01a971f0466fa05f1acc29f3060a5bc32cf656f2"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-galaxy-soccer-goal-explosion-ai",
+      "assetId": "goku-seedance-2-0-galaxy-soccer-goal-explosion-ai",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Galaxy Soccer Goal Explosion AI"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Kick → space circuit → completely generate goal explosions in a timeline format ・Reference: Uses images of players wearing galaxy-patterned uniforms (emphasis on consistency) Pollo AI's dynamic camera work was absolutely perfect!",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-galaxy-soccer-goal-explosion-ai",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-galaxy-soccer-goal-explosion-ai.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-galaxy-soccer-goal-explosion-ai-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1920x1080"
+      },
+      "source": {
+        "label": "@doraking_jp via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/doraking_jp/status/2063702191924523196",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_03456",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "e13a70feb5aa8a3af412f7908f95ef940871715ebd888297895280e8e85620f2"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-laundromat-horror-creature-attack",
+      "assetId": "goku-seedance-2-0-laundromat-horror-creature-attack",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Laundromat Horror: Creature Attack"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "High-tension horror sequence inside a brightly lit 24-hour laundromat at night. Rows of industrial washing machines, fluorescent lighting, reflective tiled floor, vending machines humming softly. Sound: washing machine hum, distant traffic outside, phone scrolling taps, slowly interrupted by violent metallic banging. Shot 1 (0–3s): A young woman sits alone in the laundromat scrolling on her phone while several washing machines run behind her. Suddenly— All the machines begin vibrating unnaturally at the same time. Coins rattle. Lights flicker slightly. She slowly looks up. Shot 2 (3–6s): The vibrations intensify into loud metallic BANGS from inside the machines. One machine violently shakes side to side. Then another. Green-tinted water suddenly begins leaking out beneath the doors, spreading across the floor. She stands up nervously: “What… what is happening?” Shot 3 (6–9s): The camera slowly circles around her as more machines begin slamming violently from inside. The laundromat now echoes with distorted screeching noises mixed with the banging. Green liquid floods across the tiles. Shot 4 (9–12s): One washing machine door suddenly POPS open. A grotesque wet creature crawls out. Then another machine opens. Then another. More creatures emerge one by one from different machines around her, dripping green slime onto the floor. She slowly backs away in panic as the camera continues orbiting around her. Shot 5 (12–15s): All the creatures suddenly stop moving. Silence for half a second. Then every creature simultaneously SCREAMS and charges toward her from every direction across the laundromat. She panics and stumbles backward— the creatures leap— cut to black.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-laundromat-horror-creature-attack",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-laundromat-horror-creature-attack.mp4",
+        "ratio": "4:3",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-laundromat-horror-creature-attack-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1112x834"
+      },
+      "source": {
+        "label": "@rahulnanda86 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/rahulnanda86/status/2053665690528411801",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_02914",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "fd06fe6426fbd6e14453781371c003815dab3da52c8e7839bf5bda7ca15417fa"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-lone-figure-faces-shockwave",
+      "assetId": "goku-seedance-2-0-lone-figure-faces-shockwave",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Lone Figure Faces Cataclysmic Shockwave"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "A lone figure standing still in the middle of a street, wind starting to rise. A massive shockwave expands from behind, tearing through buildings and streets instantly. Urban environment disintegrating outward in all directions. Wide tracking shot pushing toward the figure, shockwave catching up, debris flying past lens, environment collapsing in real time.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-lone-figure-faces-shockwave",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-lone-figure-faces-shockwave.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-lone-figure-faces-shockwave-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@CharaspowerAI via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/CharaspowerAI/status/2045872571686572528",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_00093",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "66c81a0690c9c31a1dff269879a6ae9ea4a745a222998538e47782c29a3497ee"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-bouncy-frog-pond-animation",
+      "assetId": "goku-seedance-2-0-bouncy-frog-pond-animation",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Bouncy Frog Pond Animation"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "A 15-second 2D animated short in a hand-drawn cartoon style, starring FRIC — a chunky lime-green frog with a thick wobbly black outline, simple dot eyes, and a flat mouth. Squash-and-stretch animation, bouncy timing, pond setting with soft watercolor",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-bouncy-frog-pond-animation",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-bouncy-frog-pond-animation.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-bouncy-frog-pond-animation-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1920x1080"
+      },
+      "source": {
+        "label": "@TheJordude via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/TheJordude/status/2052628602542506493",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_02613",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "9b88bb1a901f56cdc774b26a246d4263ac7b4cb82008eefa9f26baeac9e3ac00"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-epic-alien-war-cinematic",
+      "assetId": "goku-seedance-2-0-epic-alien-war-cinematic",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Epic Alien War Cinematic"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "[CINEMATIC SETUP] Style: Ultra-realistic sci-fi blockbuster, epic alien war film, high-end cinematic action. Camera: IMAX-style action cinematography, dynamic tracking shots. Lens: 24mm, 35mm, 50mm. Color Grade: Cold blue steel tones, deep blacks, intense orange energy blasts.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-epic-alien-war-cinematic",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-epic-alien-war-cinematic.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-epic-alien-war-cinematic-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@MayorKingAI via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MayorKingAI/status/2041616502974247201",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_00432",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "b6b2cdf9c017314546be6c94e085be029658b7ffcbf0105a4385151c7e88cb5a"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-biotech-city-fpv-nightmare",
+      "assetId": "goku-seedance-2-0-biotech-city-fpv-nightmare",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Biotech City FPV Nightmare"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "In a ruined biotech city overtaken by organic growth, a hyper-speed FPV camera blasts forward through streets consumed by biomechanical structures; mutated soldiers clash with armored squads as acid rain streaks diagonally across the frame; the camera snaps into vertical climbs along living skyscraper walls, spins through ruptured interiors pulsing with bioluminescent veins, then dives back into open combat zones filled with explosions and collapsing terrain; organic particles and debris smear into luminous trails, creating a nightmarish fusion of technology, decay, and relentless motion",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-biotech-city-fpv-nightmare",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-biotech-city-fpv-nightmare.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-biotech-city-fpv-nightmare-poster.jpg",
+        "duration": 5.11,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@MayorKingAI via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MayorKingAI/status/2016975952841187625",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_01983",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "d6417b3fb78270c9f1cca63885fddd5df6e7b5890df20f1b86719f224b47cce8"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-rainy-gothic-city-detective",
+      "assetId": "goku-seedance-2-0-rainy-gothic-city-detective",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Rainy Gothic City Detective"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "In a rain-soaked Gothic city, a detective stands on the edge of a high-rise building, his trench coat flapping violently in the strong wind. The camera slowly pulls back from his determined profile, revealing a bird's-eye night view of the entire city, where neon lights are blurred by the rain. A voice-over rings out: \"In this city, everyone has a secret.\" Finally, the camera zooms in rapidly on a mysterious badge in his hand, and the screen fades to black.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-rainy-gothic-city-detective",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-rainy-gothic-city-detective.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-rainy-gothic-city-detective-poster.jpg",
+        "duration": 12.1,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@CodeByPoonam via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/CodeByPoonam/status/2044363568058167585",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_00195",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "a29740f3e461ddda5e3014659955abc736b2f0472fed22b6bcd248d516fff373"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-enchanted-forest-spirit-encounter",
+      "assetId": "goku-seedance-2-0-enchanted-forest-spirit-encounter",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Enchanted Forest Spirit Encounter"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Beautiful hand-drawn fantasy anime-style continuous sequence in a magical forest at twilight, glowing fireflies drifting through the air, soft wind moving through tall grass and ancient trees. A young traveler walks slowly along a narrow forest path carrying a lantern. The camera follows smoothly in one uninterrupted shot from behind and gradually circles around to reveal the character’s calm expression. As the traveler advances, small glowing spirits emerge gently from the forest, floating around with soft trailing light. Leaves and particles drift naturally in the wind while distant glowing creatures move subtly in the background. The traveler pauses near a shallow river reflecting the night sky. The lantern light flickers softly across the water while the camera continues moving fluidly around the character without cuts. A massive ancient spirit creature slowly appears behind the trees, enormous but peaceful, partially hidden by mist and moonlight. Its eyes glow softly as it watches silently. The traveler looks upward in awe. Fireflies gather around both figures, creating a magical atmosphere while the spirit moves slowly through the forest with elegant weight and scale. Final seconds: the camera rises gently above the trees, revealing the glowing forest beneath the moonlight while the traveler and spirit continue walking together into the distance. Camera: single uninterrupted cinematic take, smooth floating motion, gentle orbit movement, no cuts. Lighting: soft moonlight, warm lantern glow, subtle magical bioluminescence. Style: high-end fantasy anime, hand-drawn feel, atmospheric depth, emotional calmness, fluid environmental animation, poetic fantasy mood, no text, no overlays, normal proportions without stretch.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-enchanted-forest-spirit-encounter",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-enchanted-forest-spirit-encounter.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-enchanted-forest-spirit-encounter-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@LudovicCreator via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/LudovicCreator/status/2053411423032590728",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_02523",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "f6a36b408d16a554ac2e02f4a083386b40d21c78fcc10b4747c661a52fdaa70c"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-giant-mechanical-creature-emerges",
+      "assetId": "goku-seedance-2-0-giant-mechanical-creature-emerges",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Giant Mechanical Creature Emerges"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "A quiet environment suddenly disrupted by a massive transformation. Objects in the scene begin shifting and assembling into a giant mechanical creature. The camera pulls back to reveal scale. Dust, debris, and shockwaves",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-giant-mechanical-creature-emerges",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-giant-mechanical-creature-emerges.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-giant-mechanical-creature-emerges-poster.jpg",
+        "duration": 10.1,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@JaynitMakwana via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/JaynitMakwana/status/2042520910771687725",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_00352",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "912cb42c37e0b6f1b7e2bf7c76da1c8634544ebd2d0703bbcda34e27b5e7c148"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-golden-chips-cinematic-spectacle",
+      "assetId": "goku-seedance-2-0-golden-chips-cinematic-spectacle",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Golden Chips Cinematic Spectacle"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Frame 1: Chips bag slowly emerging from darkness, golden spotlight gradually brightening from above, smoke wisps drifting upward, metallic packaging shimmering, ultra slow cinematic zoom in, no people, 4K Frame 2: Chips exploding outward from bag in slow motion, golden particles bursting dramatically, chips tumbling through darkness, only golden light catching edges, cinematic slow motion, no people, 4K Frame 3: Single golden chip rotating slowly mid air, dramatic side light revealing crispy texture, deep black background, chip glowing golden, mesmerizing slow spin, no people, 4K Frame 4: Chip splitting apart in extreme slow motion, crispy crumbs floating outward gently, golden light catching every crumb, pure black background, ultra satisfying macro, no people, 4K Frame 5: Golden spice particles drifting slowly around chip, warm light catching every particle, chip glowing in darkness, mysterious slow motion, cinematic macro, no people, 4K Frame 6: Steam rising slowly from chips bowl, golden spotlight intensifying from above, chips glistening, dark ceramic bowl gleaming, luxurious slow reveal, no people, 4K Frame 7: Hand slowly picking up chip from darkness, dramatic golden spotlight only on fingertips and chip, rest pure black, ultra premium slow motion, cinematic, 4K Frame 8: Chip stack slowly rising upward, golden backlight halo expanding dramatically, deep shadows in front, epic cinematic slow motion, no people, 4K Frame 9: Dramatic slow zoom out from chips bag, smoke wisps settling, golden spotlight slowly expanding, chips scattered at base glowing, epic cinematic finale, no people, 4K Settings for all frames: Image to Video, Duration 2 sec, Motion Low to Medium, Dark premium cinematic style",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-golden-chips-cinematic-spectacle",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-golden-chips-cinematic-spectacle.mp4",
+        "ratio": "9:16",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-golden-chips-cinematic-spectacle-poster.jpg",
+        "duration": 15.14,
+        "resolution": "720x1280"
+      },
+      "source": {
+        "label": "@itsshara_ai via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/itsshara_ai/status/2060634928124166655",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_03669",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "4fe05ad9725e22467005d02724e393de8923b66cd870d30c71b93e62cc7474aa"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-street-dance-battle-under-bridge",
+      "assetId": "goku-seedance-2-0-street-dance-battle-under-bridge",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Street Dance Battle Under Bridge"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "This is not a synchronized duet dance, nor is it two people repeating the same moves, nor is it a tutorial video. This is a real street battle between two young Chinese dancers under an elevated bridge at night. Every frame is a clear plot point and movement node, with the camera allowed to switch, use close-ups, low angles, and slow-motion highlights.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-street-dance-battle-under-bridge",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-street-dance-battle-under-bridge.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-street-dance-battle-under-bridge-poster.jpg",
+        "duration": 15.09,
+        "resolution": "1920x1080"
+      },
+      "source": {
+        "label": "@MrLarus via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MrLarus/status/2052058156985905544",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_02706",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "65741be9865b9a34b6f0527009f37f9abbaa88c26770e61354eb6538b0958b74"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-fire-lion-vs-mech-showdown",
+      "assetId": "goku-seedance-2-0-fire-lion-vs-mech-showdown",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Fire Lion vs Mech Warrior Showdown"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "A cinematic, hyper-realistic action sequence set in a sprawling, sunlit metropolis. A colossal, giant lion with a mane made of flowing, glowing fire stands on one side of a wide city avenue. On the opposite side stands a massive, heavily armored metallic mech warrior with a glowing orange core reactor in its chest. The camera captures a wide shot as the two behemoths charge at each other, causing the ground to shake. They clash violently, shattering nearby concrete and sending cars flying. The mech throws a heavy punch, but the giant fire-lion retaliates, tackling the mech into a skyscraper. Debris and smoke fill the air. The sequence ends with the giant lion standing victorious, letting out a powerful roar as smoke clears around it. Photorealistic textures, dramatic golden hour lighting, intense motion blur, studio-quality rendering, 8k resolution.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-fire-lion-vs-mech-showdown",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-fire-lion-vs-mech-showdown.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-fire-lion-vs-mech-showdown-poster.jpg",
+        "duration": 15.19,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@Zyrellix via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Zyrellix/status/2057464081104425456",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_03926",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "afe0e8d0f8fc33bcf6fc0aa5272a47f52b03f0512444cc395a57d357538626f9"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-epic-rooftop-chase-sequence",
+      "assetId": "goku-seedance-2-0-epic-rooftop-chase-sequence",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Epic Rooftop Chase Sequence"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "A continuous tracking shot following a runner from the street up the stairs, through a corridor, onto the rooftop, and finally overlooking the city.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-epic-rooftop-chase-sequence",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-epic-rooftop-chase-sequence.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-epic-rooftop-chase-sequence-poster.jpg",
+        "duration": 14.14,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@XuekaiGao via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/XuekaiGao/status/2021067623404834818",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_01926",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "54cee5779d52fa49b0b903a9a6ba0436c3b20141422210ade241cd3ad76bb25a"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-future-mecha-parkour",
+      "assetId": "goku-seedance-2-0-future-mecha-parkour",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Cinematic Futuristic Mecha Parkour Escape"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Cinematic high-octane action sequence: A futuristic protagonist in sleek black tactical gear performs intense urban parkour across a modern city at dusk — leaping between rooftops, sliding down rails, wall-running, and jumping across gaps with fluid, athletic motion. Suddenly, during a daring run across a massive suspension bridge, the bridge begins exploding dramatically behind him/her — massive fireballs, flying debris, structural collapse, sparks and smoke filling the air. In the chaos, the character triggers a high-tech biometric mecha transformation. Biometric armor deploys in real-time: metallic plates, glowing energy lines, and heavy mechanical segments rapidly snap, unfold, and lock onto the body mid-sprint and mid-jump. The suit assembles seamlessly from limbs to torso to helmet with satisfying mechanical sounds and glowing effects. The transformation enhances power — the character leaps even farther, lands with superhuman impact, and continues the high-speed escape as the bridge fully collapses. Dynamic camera work: fast tracking shots following the runner from behind and side angles, dramatic low-angle hero shots during transformation, orbiting camera during jumps, quick cuts on explosions. Intense slow-motion on key moments (armor snapping into place, massive leaps, debris impacts). Style: Hyper-realistic, Hollywood blockbuster action (like Transformers meets Mirror's Edge or John Wick), cinematic lighting with golden hour/dusk tones turning to fiery oranges and dramatic shadows, volumetric smoke, particle effects, high detail on metal textures, reflections, and fabric-to-armor transition. Perfect physics, momentum, and temporal consistency. 8-12 seconds, high motion coherence.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-future-mecha-parkour",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-future-mecha-parkour.mp4",
+        "ratio": "319:180",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-future-mecha-parkour-poster.jpg",
+        "duration": 51.5,
+        "resolution": "1276x720"
+      },
+      "source": {
+        "label": "@aiwithaly via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/aiwithaly/status/2069649046688637361",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_03058",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "950051d7bc74179ef28c8a78bdf38c133a8691098aeb487322ce88914862ca51"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-quiet-urban-earphone-ad",
+      "assetId": "goku-seedance-2-0-quiet-urban-earphone-ad",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Quiet Urban Earphone Ad"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Generate 15-second, 9:16, hyper-realistic original true wireless earphone ads. Restraint, quietness, and urban breath. Protagonist: 28-year-old East Asian female graphic designer, short black hair, natural skin tone, charcoal shirt + white tank top + dark straight-leg pants + low-top canvas shoes. The entire face, hairstyle, clothing, and body shape must be consistent.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-quiet-urban-earphone-ad",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-quiet-urban-earphone-ad.mp4",
+        "ratio": "9:16",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-quiet-urban-earphone-ad-poster.jpg",
+        "duration": 15.14,
+        "resolution": "1080x1920"
+      },
+      "source": {
+        "label": "@hiapi_ai via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/hiapi_ai/status/2081294040415482322",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_10872",
+        "published_at": "2026-07-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "6ff3eed52d4e5f1e0b115bbdd02141552c0e7ec8571e73a9b512c3208e5f9d20"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-molten-dragon-rebirth",
+      "assetId": "goku-seedance-2-0-molten-dragon-rebirth",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Molten Dragon Rebirth"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Ultra-cinematic 15-second fantasy sequence of a massive dragon flying above a volcanic mountain range at sunset, dark smoke clouds and rivers of lava glowing below. The dragon soars through thick ash-filled clouds, wings beating heavily, molten cracks glowing across its body. Lava drips from its scales and burns into sparks as it cuts through the smoky sky. As it dives between volcanic peaks, the outer layer of molten lava skin begins to crack apart. Huge glowing plates peel away from its body in slow motion, breaking into burning fragments that trail behind like meteors. The camera follows in a dynamic aerial tracking shot, circling around the dragon as fresh obsidian-black armor and fiery veins are revealed beneath the shedding lava shell. Mid-flight, the dragon twists violently, shaking off the remaining molten plates. Explosive embers, ash particles, heat distortion, and glowing debris fill the frame. Final seconds: the transformed dragon spreads its wings wide above the volcano, roaring as a massive wave of firelight pulses through the clouds. Camera: dynamic aerial pursuit, slow orbit around the dragon, dramatic push-ins, strong scale. Lighting: volcanic orange glow, sunset backlight, smoke diffusion, intense lava highlights. Style: ultra-cinematic realism, high-end fire and lava VFX, massive fantasy scale, realistic wing physics, heat distortion, no text, no overlays, stable proportions.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-molten-dragon-rebirth",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-molten-dragon-rebirth.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-molten-dragon-rebirth-poster.jpg",
+        "duration": 15.07,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@LudovicCreator via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/LudovicCreator/status/2057385930659406130",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_03941",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "9cdb3f8ca87a21d1c3bad0a0fdec5d71e0c55f911917393923586c528c8fa95b"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-wall-street-chaos-slow-motion",
+      "assetId": "goku-seedance-2-0-wall-street-chaos-slow-motion",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Wall Street Chaos in Slow Motion"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Businessman falling on Wall Street, coffee exploding mid-air, ice & droplets frozen, camera orbits 360° at ground level",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-wall-street-chaos-slow-motion",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-wall-street-chaos-slow-motion.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-wall-street-chaos-slow-motion-poster.jpg",
+        "duration": 15.23,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@ubaid792792 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ubaid792792/status/2040458808481456152",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_00602",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "3d266413d90c61bff6bbc061cd3e26fe62416413acefa336a9b0aa19094695aa"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-retro-wagon-cliff-sunset",
+      "assetId": "goku-seedance-2-0-retro-wagon-cliff-sunset",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Retro Wagon Cliff Sunset Journey"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Generate a 15-second MV video. Keywords: Steady framing / light push and pull / low-angle heroic sense / documentary but high-end A super wide-angle shot, low camera angle shot slightly, the cliff dirt road and retro station wagon occupy the lower third of the screen, the sea and the horizon in the distance open up space, the volumetric light of the sunset side passes through the dust particles, film-level composition, real film grains, the breeze blows the corners of the clothes.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-retro-wagon-cliff-sunset",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-retro-wagon-cliff-sunset.mp4",
+        "ratio": "4:3",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-retro-wagon-cliff-sunset-poster.jpg",
+        "duration": 15.07,
+        "resolution": "1112x834"
+      },
+      "source": {
+        "label": "Original creator via GokuScraper",
+        "platform": "www.seedance2prompt.com / Hugging Face",
+        "url": "https://www.seedance2prompt.com/prompts/15-second-mv-videography-heroic-lowangle-wide-shot",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_04246",
+        "published_at": null,
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "3168438933b2b614b2e559f792577299314d6f98a53865a77a2f799000d32173"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-ancient-book-stormy-sea-diorama",
+      "assetId": "goku-seedance-2-0-ancient-book-stormy-sea-diorama",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Ancient Book Becomes Stormy Sea"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "A hyper-realistic, cinematic video captures an ancient, open book transforming into a living diorama of a stormy sea. The camera, in an extreme close-up, glides over the book's yellowed pages and a simple illustration of a boat on a choppy sea. The sound of a storm begins to fade in, breaking the silence of an old library.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-ancient-book-stormy-sea-diorama",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-ancient-book-stormy-sea-diorama.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-ancient-book-stormy-sea-diorama-poster.jpg",
+        "duration": 10.1,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@IqraSaifiii via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/IqraSaifiii/status/2042317900795822340",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_00367",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "7dc12d24ad010f389c3fb54ff0c993dbcbd5d8a10c5ac25e991495affc7a43a6"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-cinematic-360-match-cut",
+      "assetId": "goku-seedance-2-0-cinematic-360-match-cut",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Cinematic 360 Match Cut"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "FORMAT: live action, cinematic video, 15s, continuous rotation match cut SCENE CONCEPT A stylish woman stands at the center of the frame while the camera performs a smooth circular orbit around her. She moves naturally like a",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-cinematic-360-match-cut",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-cinematic-360-match-cut.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-cinematic-360-match-cut-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@aimikoda via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/aimikoda/status/2032195987805003821",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_01265",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "4ee2d912bdcec2de9d36ac4ffd6dec312c1ba04b073e27f2090dc2a5d57d4e9a"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-office-chair-crush-daydream",
+      "assetId": "goku-seedance-2-0-office-chair-crush-daydream",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Office Chair Crush Daydream Spin"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "She slowly spins in an office chair while hugging a notebook to her chest like she is orbiting around a crush in her imagination, then stops facing the wrong direction and smiles shyly. Soft daylight, cute surreal work-life romance mood, realistic camera",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-office-chair-crush-daydream",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-office-chair-crush-daydream.mp4",
+        "ratio": "9:16",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-office-chair-crush-daydream-poster.jpg",
+        "duration": 15.12,
+        "resolution": "720x1280"
+      },
+      "source": {
+        "label": "@iamsofiaijaz via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/iamsofiaijaz/status/2078179106949333074",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_10141",
+        "published_at": "2026-07-19",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "b1a540598a23a84a663044c1921fbcd55704cf236330c633e54076940d446098"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-convenience-store-horde",
+      "assetId": "goku-seedance-2-0-convenience-store-horde",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Convenience Store Horde"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Single continuous shot, 15 seconds, no cuts. Realistic cinematic live-action style — gritty film grain, shallow depth of field, muted desaturated color grade with cold blues and sickly fluorescent greens, subtle handheld camera feel, A24 horror atmosphere. Setting: a looted, messy convenience store at night during light rain. Shelves knocked askew with scattered remaining goods — fallen cans, torn snack wrappers, spilled bottles on the floor, a few products still standing. The large glass storefront door is barricaded from the inside with shopping carts and stacked chairs wrapped in chains. Outside: a dark rain-slicked street with dead streetlights. Subject: a lone survivor — a tired man in his 30s, stubble, worn jacket, holding a flashlight. He stays inside the store at all times. Action (continuous progression): the survivor calmly walks from the dark aisles toward the barricaded glass door, stepping around debris, flashlight aimed low. He stops behind the barricade and slowly raises the beam through the glass toward the street. As the light sweeps left to right, it reveals zombies shuffling slowly through the rain — first a few, then dozens, then hundreds wandering aimlessly down the entire block, limping, drifting between abandoned cars. None notice the store. He finishes the sweep and slowly lowers the flashlight, shoulders sinking in quiet defeat. Camera: entire shot stays INSIDE the store, never crossing the glass. Slow tracking shot behind him as he walks, settling into an over-the-shoulder framing at the barricade — the zombies are always seen THROUGH the glass door, with the barricade carts and chains visible in the foreground of the frame throughout. The camera never goes outside. Lighting and mood: flickering fluorescent interior, the flashlight beam as the only light reaching the street, rain glittering in the beam; slow dread, eerie stillness, hopeless quiet.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-convenience-store-horde",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-convenience-store-horde.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-convenience-store-horde-poster.jpg",
+        "duration": 15.12,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@josephweb3 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/josephweb3/status/2080895825442750580",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_10661",
+        "published_at": "2026-07-26",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "dd0478fbabe02bf386b6c0cd6d797518c063cf269f5a6d464d766a2a5d5da03e"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-chubby-cat-defeats-kung-fu-master",
+      "assetId": "goku-seedance-2-0-chubby-cat-defeats-kung-fu-master",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Chubby Cat Defeats Kung Fu Master"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Testing martial arts choreography, fur physics, and comedic timing. 0:00 – 0:02: Extreme close-up of a chubby British Shorthair cat’s eyes. Ultra-detailed fur. 0:02 – 0:04: Hard cut to the Kung Fu master’s eyes. Focused and calm. 0:04 – 0:05: The cat softly says: “Mew.” Silence. 0:05 – 0:08: Rapid martial arts exchange. The cat dodges, spins, and flips with incredible agility. Leaves swirl and dust lifts. 0:08 – 0:10: The master spins and lands on the ground, outmatched. 0:10 – 0:13: The cat casually walks up, sniffs the master’s nose, and walks away calmly. 0:13 – 0:15: Camera zooms on the master lying still. Style: Ultra-realistic, 4K, shallow depth of field.",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-chubby-cat-defeats-kung-fu-master",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-chubby-cat-defeats-kung-fu-master.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-chubby-cat-defeats-kung-fu-master-poster.jpg",
+        "duration": 15.13,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@ChangningL29508 via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ChangningL29508/status/2036255897458995469",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_00997",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "0ad0dd588d11c9629a009b2b94b82034b42aca9760123ab4ca7e85a38657883a"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-seedance-2-0-raccoon-lonely-night-shift",
+      "assetId": "goku-seedance-2-0-raccoon-lonely-night-shift",
+      "model": "seedance-2.0",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Raccoon's Lonely Night Shift"
+      },
+      "description": {
+        "en": "A manually reviewed Seedance 2.0 prompt-and-video example with traceable CC BY 4.0 attribution."
+      },
+      "prompt": "Hyper-realistic cinematic raccoon working the overnight shift at a lonely 24/7 convenience store during heavy rain at 3AM, oversized employee uniform, tired eyes, messy wet fur, emotional human-like expressions. Flickering fluorescent lights, empty snack aisles, steaming coffee machine, neon “24/7 OPEN” signs reflecting on wet floors and rainy streets outside. Slow handheld camera movement, cinematic closeups, shallow depth of field, muted colors with neon red and green highlights, security camera aesthetic mixed with movie-quality cinematography. The raccoon quietly scans instant noodles while an angry customer argues in the background. Emotional late-night loneliness, subtle dark comedy, realistic xfur textures, film grain, natural motion blur, 4K HDR realism. Soft emotional piano and ambient synth music, rain sounds, fluorescent hum, melancholic atmosphere. Final scene: raccoon smoking outside in the rain under neon lights, exhausted and alone, cinematic side-profile shot, emotionally devastating mood",
+      "tags": [
+        "cinematic",
+        "seedance-2.0"
+      ],
+      "artifact": {
+        "assetId": "goku-seedance-2-0-raccoon-lonely-night-shift",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-raccoon-lonely-night-shift.mp4",
+        "ratio": "16:9",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/seedance-2.0/goku-seedance-2-0-raccoon-lonely-night-shift-poster.jpg",
+        "duration": 15.16,
+        "resolution": "1280x720"
+      },
+      "source": {
+        "label": "@Fujimoto_hina via GokuScraper",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Fujimoto_hina/status/2052770029335363665",
+        "license": "CC BY 4.0 (GokuScraper dataset)",
+        "dataset_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+        "dataset_revision": "66dacc5fd21062f9e078a6099b2ac817616a0717",
+        "dataset_id": "SD2_02588",
+        "published_at": "2026-06-29",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "seedance@2.0",
+        "generation_model_evidence": "The source dataset row records model_info.name=seedance and model_info.version=2.0.",
+        "sha256": "ffe65f7191c85fb1ba46fd49357316c444d6adca4c5ddbe54e2d14f830ef8e79"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-ocean-color-block-portal",
+      "assetId": "diffsynth-minimax-h3-ocean-color-block-portal",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Ocean Color-Block Portal"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a static shot on a stormy wave where four colored squares sit together as water churns around them. The squares vibrate rapidly. Then they eject outward and reshape into the limbs of a surfer holding an action camera in one hand. The camera pushes in slowly as the surfer lifts the camera. overall_soundscape: A stormy wave roars and churns. The colored squares emit a rapid vibration sound, followed by a brief whoosh as they eject and reshape. Water splashes lightly around the surfer. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-ocean-color-block-portal",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-ocean-color-block-portal.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-ocean-color-block-portal-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-000190",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "fa85389e92058ed7001b4dc83eb33411e1c0aa66668a59d03cdd7b638696f807"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-bustling-fisheye-city-walk",
+      "assetId": "diffsynth-minimax-h3-bustling-fisheye-city-walk",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Bustling Fisheye City Walk"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, Japanese pedestrians move through busy Tokyo streets as a wide-angle drone POV Tracking Shot advances, with natural warm sunlight casting sharp shadows around them. [Shot 2] At 00:02.000, the camera cuts to a cluster of Japanese pedestrians passing close to the lens as the wide-angle drone POV Tracking Shot continues forward, their shadows sliding across the sunlit pavement while the drone propellers whir. overall_soundscape: A continuous drone propeller whir underlies the forward movement. Open urban ambience fills the busy streets, with scattered pedestrian footsteps. Soft clothing rustle and indistinct crowd noise accompany the passing pedestrians. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-bustling-fisheye-city-walk",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-bustling-fisheye-city-walk.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-bustling-fisheye-city-walk-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-000212",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "adeabd797ba01c66ec34e02bfb3f9e70b86e4f2e845569b9e2d231d6d12aeaa1"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-backyard-basketball-routine",
+      "assetId": "diffsynth-minimax-h3-backyard-basketball-routine",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Backyard Basketball Routine"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera shakes slightly in a medium shot as it frames a man in his back garden. He dribbles a basketball with a low thump in front of a mini basketball court while a cute dog walks behind him. [Shot 2] At 00:01.400, the camera cuts to a low side view as the man pivots and releases the ball toward the mini hoop without looking, then the ball rattles the rim while the dog keeps walking. overall_soundscape: Basketball bounces sound as the man dribbles and releases the ball. Shoe scuffs and fabric rustle accompany his pivot. The dog's paws make soft footsteps in the background. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-backyard-basketball-routine",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-backyard-basketball-routine.mp4",
+        "ratio": "4:7",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-backyard-basketball-routine-poster.jpg",
+        "duration": 5.17,
+        "resolution": "768x1344"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-000423",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "bf261aa9d5cdb1ba4c7bdb6de1b9de7e525e9b59a91c0cf6bb9eb3e8d16d6983"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-telekinetic-makeup-transformation",
+      "assetId": "diffsynth-minimax-h3-telekinetic-makeup-transformation",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Telekinetic Makeup Transformation"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic. A woman applying makeup to her face is framed in a medium shot inside a room, with an open door visible behind her. Thick mud-like liquid suddenly surges in through the doorway with heavy sloshing. She flinches in fear. [Shot 2] At 00:02.600, the shot cuts to the woman floating near the ceiling in the mud-like liquid as the camera tilts upward. She strikes the ceiling with her hands. The ceiling cracks open, revealing sunlight. overall_soundscape: Quiet room tone and soft makeup rustle give way to heavy liquid sloshing as the mud-like liquid surges in. The woman gasps. Loud impacts and cracking sound as she strikes the ceiling and it opens. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-telekinetic-makeup-transformation",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-telekinetic-makeup-transformation.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-telekinetic-makeup-transformation-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-000724",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "092f9da495a46a1046baf5c3a3d25af3ac64398772f757d3a651a722562bf831"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-clockwork-tea-castle",
+      "assetId": "diffsynth-minimax-h3-clockwork-tea-castle",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Clockwork Tea Castle"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic wide shot: brass gears open and close like petals around a steampunk teahouse as the camera pushes in over a sea of clouds, soft warm light catching the metal while gear clicks sound in sync. [Shot 2] At 00:01.800, the camera cuts to a mechanical giraffe tea master elegantly pouring glowing tea for a traveler as the camera trucks right beside the brass counter, liquid trickling softly. [Shot 3] At 00:03.000, the shot cuts to tea mist rising from the cup and revealing a miniature city with tiny airships as the camera arcs around the teacup, faint mechanical whirring accompanying the reveal. overall_soundscape: Wind drifts around the floating teahouse. Brass gears click and mechanical joints whir. Glowing tea pours with a soft liquid sound. Tea mist rises quietly as tiny airships hum faintly. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-clockwork-tea-castle",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-clockwork-tea-castle.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-clockwork-tea-castle-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-001377",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "21fc2976d9028153b5f71741b8590537760ab48d4a02a9709883ad299ca3a269"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-street-food-rush",
+      "assetId": "diffsynth-minimax-h3-street-food-rush",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Street Food Rush"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a medium shot frames the counter of a small fried chicken shop, the camera trucks right with small amplitude as the owner, a middle-aged man wearing a plain apron, stands behind stacked trays and packaging. He lifts a paper box. He folds the lid. He places golden fried chicken pieces inside with tongs. Steam drifts upward. The tongs click against the tray in time with his quick hand movements. overall_soundscape: A busy fried chicken shop fills the scene with faint sizzling oil, rustling paper, clicking tongs, and soft cardboard folding. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-street-food-rush",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-street-food-rush.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-street-food-rush-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-001457",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "8e357a5c87559e164c132fb2bac3dd2d6752642958bcb5c271a0749981be7eee"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-underwater-mechanical-seahorse",
+      "assetId": "diffsynth-minimax-h3-underwater-mechanical-seahorse",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Underwater Mechanical Seahorse"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a seahorse mail carrier carrying a letter bag drifts in slow motion through the blue-green space before an undersea post office built from coral, while jellyfish lanterns sway and glow near the entrance and fine dust particles drift around them; the camera holds a wide static shot, then slowly pushes in toward the seahorse as faint water movement and soft bubbling sound accompany its gentle floating passage. overall_soundscape: Soft underwater ambience surrounds the scene, with faint water movement from the seahorse's drifting passage and delicate bubbling around the glowing jellyfish lanterns. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-underwater-mechanical-seahorse",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-underwater-mechanical-seahorse.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-underwater-mechanical-seahorse-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-001722",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "906ee08e19996ff25916bec522ef2fcc929396732b90646ce62c0bf76f7c6446"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-morning-skincare-close-up",
+      "assetId": "diffsynth-minimax-h3-morning-skincare-close-up",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Morning Skincare Close-Up"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic medium close-up beauty shot, a young adult female model (S1), on-screen, with a soft medium-pitched voice, warm timbre, calm rate, and neutral English accent, gently applies moisturizer to her cheeks in circular motions, in a bright minimalist room filled with natural sunlight. The camera performs a slow Push In toward her face, then a small-amplitude Arc Shot around her as the cream blends into fresh glowing skin. S1 says in an off-screen voiceover <d>[English] Soft, smooth, and lightweight.</d> Her lips remain closed. overall_soundscape: Soft skin-contact sound accompanies the circular cheek application and blending. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-morning-skincare-close-up",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-morning-skincare-close-up.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-morning-skincare-close-up-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-002132",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "e4e4c81a03906dcee001851b760df6450888bd6363ff391becbcedf4d8bb2d96"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-rooftop-couple-moment",
+      "assetId": "diffsynth-minimax-h3-rooftop-couple-moment",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Rooftop Couple Moment"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, (S1), an on-screen young woman with bright pitch, clear timbre, moderate rate, and Japanese accent, and another on-screen person lean close over a phone in medium selfie framing on a rooftop terrace, their bangs lifting in the wind. The camera pushes in slowly. A soft phone shutter clicks. They peer at the screen. Then they burst out laughing together. (S1) says while laughing <d>[Japanese] あ、目つぶってる</d> overall_soundscape: Wind moves around the rooftop terrace, faint voices drift from distant seating, a soft phone shutter clicks, and the two people laugh together. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-rooftop-couple-moment",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-rooftop-couple-moment.mp4",
+        "ratio": "4:7",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-rooftop-couple-moment-poster.jpg",
+        "duration": 5.17,
+        "resolution": "768x1344"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-002168",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "a14e32d57754383a257adeb05b475219833a517442ba46cbd1a5ea18c7f79519"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-floating-woman-street-vision",
+      "assetId": "diffsynth-minimax-h3-floating-woman-street-vision",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Floating Woman Street Vision"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, in an ultra-low-angle upward shot, Sword Immortal Sister, a female sword immortal with long hair and a skirt, rides a floating silver long sword about two meters above a sunny urban main road with two-way vehicle lanes, a roadside non-motor-vehicle lane, and a sidewalk, keeping her hands behind her back, her chin slightly raised, and her gaze cold and proud. The camera pulls out quickly to follow her. Her long hair and skirt blow backward in the oncoming airflow. Sunlight glints sharply off the silver blade as a faint silver sword-qi trail cuts the air with a whoosh and a low hum. Then a large blue truck speeds through the adjacent vehicle lane. The camera shakes slightly as a strong side wind hits her. Her hair, skirt, and proud expression fly into disorder. The silver long sword beneath her feet sways violently left and right. She drifts sideways and grabs twice at the air while the truck horn sounds low and the side wind roars. overall_soundscape: Open-air city road ambience surrounds the scene. Air-cut whooshing and a low sword hum rise as the blade moves. A low truck horn blasts, and strong side wind roars past. The sword hum wavers as the metal sways. non_diegetic_music: A non-diegetic score of sustained strings, low brass, and high bell accents moves in a slow, steady pulse. It cuts to silence as the truck passes.",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-floating-woman-street-vision",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-floating-woman-street-vision.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-floating-woman-street-vision-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-002639",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "04ff4e1b6dda0c74b32244b4ada0a445c61d2c4931aae15067c82f9a8f1975a2"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-portal-morning-routine",
+      "assetId": "diffsynth-minimax-h3-portal-morning-routine",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Portal Morning Routine"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the initial framing shows a young woman with messy red hair, a sleep mask pushed up on her forehead, and pajamas sleeping soundly in a real bed. A loud alarm begins, and the camera shakes slightly. Then she wakes abruptly, sits up fast, and makes an irritated expression. [Shot 2] At 00:01.500, the camera cuts to a portal effect that sucks her inward with a warp whoosh distortion and rapid motion blur. She lands perfectly seated on a spinning backless makeup stool at a vanity in the same bedroom, still in pajamas. As she spins to face the camera, she brushes her teeth with an electric toothbrush. overall_soundscape: A loud alarm rings. A warp whoosh accompanies the portal effect, and an electric toothbrush buzzes. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-portal-morning-routine",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-portal-morning-routine.mp4",
+        "ratio": "4:7",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-portal-morning-routine-poster.jpg",
+        "duration": 5.17,
+        "resolution": "768x1344"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-003258",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "501d4aebf93325f898af4945e788f8bd6afb3e4154e6ce399c88a3ad49811624"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-dog-dance-in-sunlit-room",
+      "assetId": "diffsynth-minimax-h3-dog-dance-in-sunlit-room",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Dog Dance in Sunlit Room"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic vertical video, extreme low ground-level angle slightly from behind, an extremely plump spherical brown-and-white furry dog-like creature with a comically round beach-ball body, tiny stubby legs and paws, and a short fluffy tail stands on a glossy polished golden wooden floor in a modern minimalist home interior. Its rich chocolate brown fur with creamy white patches shows hyper-detailed individual strands, while subtle reflections appear on the floor beneath it. Soft natural daylight illuminates the warm earth tones, shallow depth of field and gentle vignette. The camera performs a slow Push In with small amplitude, keeping the absurd cute proportions framed in the humorous surreal meme style as the creature shifts its weight slightly and its tiny paws make faint contact sounds on the polished wood. overall_soundscape: A soft indoor room tone fills the minimalist interior. Faint contact sounds from tiny paws on glossy polished wood remain present. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-dog-dance-in-sunlit-room",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-dog-dance-in-sunlit-room.mp4",
+        "ratio": "4:7",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-dog-dance-in-sunlit-room-poster.jpg",
+        "duration": 5.17,
+        "resolution": "768x1344"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-003725",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "34965f54e5b5867383e031a4a09ac9e38a1eaf5f376742f33e7b4bb2ec2b9554"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-colossal-city-creature",
+      "assetId": "diffsynth-minimax-h3-colossal-city-creature",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Colossal City Creature"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a static shot on gargantuan, pulsating organic entities as they eclipse the urban skyline of a downtown area, their tactile surfaces rippling rhythmically in high-contrast light while low organic pulsing sounds sync with each movement. [Shot 2] At 00:03.300, dust shakes loose from rooftop ventilation grilles as the camera cuts to a rooftop beneath the entities, their ridged skins pulsing in high-contrast light. overall_soundscape: Faint city air moves through the downtown streets, and loose rooftop metal rasps lightly as dust falls. Low organic pulsing sounds accompany the entities' expansion and contraction. non_diegetic_music: A non-diegetic percussion track at 140 BPM maintains a steady rhythm with hard accents on each beat. The percussion level rises slightly during the final second.",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-colossal-city-creature",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-colossal-city-creature.mp4",
+        "ratio": "16:7",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-colossal-city-creature-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1536x672"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-004308",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "f8d2ed7fe80708896180ec94ade6d2cf12eb427c858fce31c805e952dfa5b99e"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-lantern-alley-ninja-duel",
+      "assetId": "diffsynth-minimax-h3-lantern-alley-ninja-duel",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Lantern Alley Ninja Duel"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a wide framing keeps a female ninja in dark clothing in view as she fights in a dark alley under dramatic lighting. The camera makes a Tracking Shot as she exchanges sword strikes, then Pushes In while sword swishes and metallic impacts sound. [Shot 2] At 00:03.400, the camera cuts to a close Static Shot of the ninja's masked face as her eyes narrow and she exhales sharply under the alley light. overall_soundscape: Dark alley ambience surrounds the movement. Sword swishes and metallic impacts ring out. Footsteps scrape and fabric rustles. Quick breathing accompanies the ninja's rapid movement. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-lantern-alley-ninja-duel",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-lantern-alley-ninja-duel.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-lantern-alley-ninja-duel-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-004377",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "79e8415bcfa77431ba78f5b27f63eb4e3f2cb0f4e91434a61fb1cdc056baf03f"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-celestial-impact-awakening",
+      "assetId": "diffsynth-minimax-h3-celestial-impact-awakening",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Celestial Impact Awakening"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a long-haired woman in white robes and lace-up high heels heavily strikes the cracked dark red scorched earth with her foot in an extreme long shot under a gloomy dark gray sky, then the camera performs a Zoom In with large amplitude at slow speed as dust bursts outward, fractures radiate, and a heavy impact sound rings out. [Shot 2] At 00:03.800, the woman sweeps her folding fan horizontally before silhouetted ranks of countless soldiers as the camera cuts to a wide Static Shot, releasing a huge golden ring-shaped shockwave with a sweeping shockwave sound that lifts sand and dust and illuminates the dark battlefield. overall_soundscape: Wind moves across the scorched battlefield while dust scatters. A heavy heel impact cracks the ground, followed by a sharp fan whoosh and a rumbling shockwave burst. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-celestial-impact-awakening",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-celestial-impact-awakening.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-celestial-impact-awakening-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-005971",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "77258a6a992dd32deff2855bd2ae2c42dd2aadc6f21b7885dce16fd49a5296be"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-medieval-portal-on-busy-street",
+      "assetId": "diffsynth-minimax-h3-medieval-portal-on-busy-street",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Medieval Portal on Busy Street"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a wide Static Shot and shakes slightly on a busy modern Karachi street in humid afternoon light, with light dust in the air, as a glowing blue portal opens in the middle of the street and a fully armored medieval knight steps out slowly, metal armor clinking while people in shalwar kameez freeze and stare amid traffic noise. [Shot 2] At 00:03.600, the camera cuts to a medium Tracking Shot that follows the knight from the side as he walks confused through traffic, a rickshaw passes close, and a loud bike honk makes him flinch and lift his sword slightly. overall_soundscape: Busy Karachi street ambience carries continuous traffic noise. Metal armor clinks as the knight steps out of the portal. A rickshaw passes close and a bike honks sharply. non_diegetic_music: A fast-tempo South Asian percussion score with dholak, tabla and handclaps maintains a steady rhythm at a constant volume.",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-medieval-portal-on-busy-street",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-medieval-portal-on-busy-street.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-medieval-portal-on-busy-street-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-006198",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "b5c3e40683bc64ef2c284106272c506f70cc6cd9aed11845e47efbb5896bfef6"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-storm-born-sea-monster",
+      "assetId": "diffsynth-minimax-h3-storm-born-sea-monster",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Storm-Born Sea Monster"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic low-angle static shot of a giant feline titan rising from a stormy night ocean, surrounded by lightning-lit waves, rain, mist, and navy warships. Water pours from its fur as it roars, sending a shockwave rippling across the sea while cannons fire and explosions flash. [Shot 2] At 00:03.800, the shot cuts to a wide-angle aerial view of a concentrated blue energy beam flashing from the titan's mouth across the fleet as a warship erupts in a fireball. overall_soundscape: Wind, rain, rolling waves, and thunder surround the stormy ocean. Water cascades from the titan's fur as cannons launch, explosions crack, and its roar drives a shockwave across the sea. A sharp energy discharge follows as the warship bursts apart. non_diegetic_music: An orchestral score with strings, brass, and percussion moves at a steady tempo with sustained chords and repeated percussive accents. The dynamics rise from soft sustained tones to a loud ensemble hit.",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-storm-born-sea-monster",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-storm-born-sea-monster.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-storm-born-sea-monster-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-006569",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "f4f9979cdcedbf9458579adb6419da843059f4d5dcfc104cfd0d49c257889b44"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-city-chase-through-crowds",
+      "assetId": "diffsynth-minimax-h3-city-chase-through-crowds",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "City Chase Through Crowds"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a wide low-angle framing shows a man in a black jacket with panic carved into his face as he desperately sprints across a broad city street, fleeing a blurred, surging group of police and civilians while the camera uses a low-angle Tracking Shot to keep him centered. [Shot 2] At 00:02.200, the camera cuts to a low-angle Static Shot of his shoes pounding the pavement as his jacket flaps. [Shot 3] At 00:03.400, the camera cuts to a Tracking Shot of the blurred police and civilians surging forward behind him, their bodies and arms filling the broad street as the chase continues. overall_soundscape: Rapid footsteps strike the broad city street as the man runs, while his jacket rustles with the motion. Behind him, the blurred surging crowd produces continuous movement sounds. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-city-chase-through-crowds",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-city-chase-through-crowds.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-city-chase-through-crowds-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-006686",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "c15999447247ed8bce05f4b44c3cb3d62e81d423346b5a4aff3ac019d462c7d3"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-playful-studio-product-reveal",
+      "assetId": "diffsynth-minimax-h3-playful-studio-product-reveal",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Playful Studio Product Reveal"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic. The camera holds in a Static Shot, framed from the waist up at a slight low angle with clean composition and subtle film grain, showing a playful character in a colorful pop-art room with vivid candy-pink and sky-blue walls, oversized polka dots, star shapes, confetti accents, and bright studio lighting as they cross their arms, then flick them open with fluttering fingers while bouncing their shoulders, with soft fabric rustle accompanying the movement. [Shot 2] At 00:02.700, the camera cuts to a full-body Static Shot that reveals the character's shoes against the bright studio floor as they side-step once to the left while poking their cheek with one finger, and a light footstep lands with the step. overall_soundscape: Fabric rustles during the arm flick, and a light footstep sounds during the side-step. non_diegetic_music: A 120 BPM Japanese pop jingle features ukulele and glockenspiel melody, handclaps on the beat, and female scat vocals, staying steady through the shots with a small lift in volume on the final handclap.",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-playful-studio-product-reveal",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-playful-studio-product-reveal.mp4",
+        "ratio": "4:7",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-playful-studio-product-reveal-poster.jpg",
+        "duration": 5.17,
+        "resolution": "768x1344"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-006921",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "aa3f3a768cbfe8df86e678fc224761279aff50cb5ba35b6a7b3bd46a214ad8a2"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-stone-gorilla-awakening",
+      "assetId": "diffsynth-minimax-h3-stone-gorilla-awakening",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Stone Gorilla Awakening"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a static shot on a large creature in wide framing on a muddy battlefield in rain, low light and heavy shadows. It shifts its weight forward. Mud sucks around its limbs with a wet, heavy sound. Rain streaks past as the creature leans slowly into another step, its mass sinking into the ground. overall_soundscape: Rain falls over the muddy battlefield. Heavy movement displaces mud and water. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-stone-gorilla-awakening",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-stone-gorilla-awakening.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-stone-gorilla-awakening-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-007445",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "18c77fe25e346a1b6ca2b0e1c05bfa6df455a0883ec25432d7068475a80a8095"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-neon-skateboarding-cartoon-dog",
+      "assetId": "diffsynth-minimax-h3-neon-skateboarding-cartoon-dog",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Neon Skateboarding Cartoon Dog"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] 2D-animated, cinematic, a low-angle Tracking Shot frames the glowing skateboard from the front as a super cool cartoon dog with sunglasses and a backwards cap leans forward on it. He speeds down a glowing neon cyber-city street with his tongue out and wind in his fur. Bright neon signs, flying drones, holographic billboards, futuristic buildings, and colorful digital elements surround him. The skateboard wheels hum against the glowing street as wind rushes past. The camera continues the Tracking Shot backward at fast speed, then performs a Zoom In with small amplitude as the dog crouches and ollie flips smoothly over a floating holographic obstacle. Sparks fly and crackle as the board lands. Neon lights flash on his sunglasses while the dog barks happily. overall_soundscape: Rapid skateboard wheels roll over the glowing street as wind rushes past. Sparks crackle when the board lands. The dog barks happily. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-neon-skateboarding-cartoon-dog",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-neon-skateboarding-cartoon-dog.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-neon-skateboarding-cartoon-dog-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-007566",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "cdf8dc0e82ee0dfa52c0b751ff4277c4352bf174895629f9d48f8004364b103e"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-ocean-portal-discovery",
+      "assetId": "diffsynth-minimax-h3-ocean-portal-discovery",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Ocean Portal Discovery"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, ultra detailed, realistic motion, 4K, the camera performs a Tracking Shot from behind a young woman with shoulder-length black hair and stylish streetwear as she races through secret island tunnels amid falling rock and surging water. [Shot 2] At 00:03.800, the camera cuts to an Arc Shot around her as she bursts from the tunnel onto a rocky shore and a treasure chamber rises from the sea behind her. overall_soundscape: Crumbling stone, heavy impacts, rushing water, and rapid footsteps fill the tunnel escape. A loud surge rises as the chamber emerges from the sea. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-ocean-portal-discovery",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-ocean-portal-discovery.mp4",
+        "ratio": "7:4",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-ocean-portal-discovery-poster.jpg",
+        "duration": 5.17,
+        "resolution": "1344x768"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-007643",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "f268a0875f8cd4ab7e572929422519a792774859aec680faddfe7e8dd184125c"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-graphic-cycling-transition",
+      "assetId": "diffsynth-minimax-h3-graphic-cycling-transition",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Graphic Cycling Transition"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, a wide framing shows a solitary cyclist on a titanium road bike against a minimal European road landscape in slate grey and electric yellow. The camera performs a slow Push In as cold blue pre-dawn light brightens into dawn, the cyclist begins climbing, and the wheel spokes blur slowly. [Shot 2] At 00:03.200, the camera cuts to a low Tracking Shot skimming the road surface as the cyclist's tires roll forward and mountain mist drifts through the frame. overall_soundscape: Bicycle tires roll over the road surface as the drivetrain turns softly. Faint breathing comes from the solitary cyclist. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-graphic-cycling-transition",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-graphic-cycling-transition.mp4",
+        "ratio": "27:37",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-graphic-cycling-transition-poster.jpg",
+        "duration": 5.17,
+        "resolution": "864x1184"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-007727",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "23ef7b2289493f37cf5062294997cce1865eeb3b76750018507d8cab474b44c0"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-champagne-gown-lookbook",
+      "assetId": "diffsynth-minimax-h3-champagne-gown-lookbook",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Champagne Gown Lookbook"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera performs a slow Push In across a luxury fashion design board surface as soft golden studio reflections glide over a framed portrait of an elegant female lead. She slightly turns her face. She blinks and breathes softly. [Shot 2] At 00:01.700, the shot transitions to a static shot of the female lead in the warm studio. She turns gracefully in place. Her silk gown flows, jewelry catches warm highlights, and the fabric rustles softly. overall_soundscape: A hushed studio ambience surrounds the scene, with soft silk fabric rustle and faint quiet breathing from the female lead. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-champagne-gown-lookbook",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-champagne-gown-lookbook.mp4",
+        "ratio": "27:37",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-champagne-gown-lookbook-poster.jpg",
+        "duration": 5.17,
+        "resolution": "864x1184"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-007730",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "358d7a7f8071d593deabd002f62f71137e9190cecadc0d7f49c7cf6affd6a8e3"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "diffsynth-minimax-h3-urban-football-freestyle",
+      "assetId": "diffsynth-minimax-h3-urban-football-freestyle",
+      "model": "MiniMax-H3",
+      "industry": "media-entertainment",
+      "category": "cinematic",
+      "title": {
+        "en": "Urban Football Freestyle"
+      },
+      "description": {
+        "en": "A manually reviewed MiniMax H3 prompt-and-video example from DiffSynth-Studio's Apache-2.0 dataset."
+      },
+      "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, the camera holds a static shot on a medium framing of a solo freestyle football performer on a street as the performer rolls a football down one leg toward the shoe, with soft fabric rustle and light ball contact audible. [Shot 2] At 00:02.000, the camera cuts to a low close-up of the performer's feet as the football lands on the street and makes a quick circle around one ankle. [Shot 3] At 00:03.500, the shot cuts to a medium wide view and the camera pushes in with small amplitude as the performer flicks the ball upward and catches it on one thigh, while a shoe scuffs the pavement. overall_soundscape: Soft street ambience surrounds the movement. Fabric rustles as the ball travels down the leg. Light ball impacts and shoe scuffs mark the footwork. Subtle breathing accompanies the routine. non_diegetic_music: N/A",
+      "tags": [
+        "cinematic",
+        "MiniMax-H3"
+      ],
+      "artifact": {
+        "assetId": "diffsynth-minimax-h3-urban-football-freestyle",
+        "kind": "video",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-urban-football-freestyle.mp4",
+        "ratio": "4:7",
+        "source": "public-dataset",
+        "poster": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/diffsynth/minimax-h3/diffsynth-minimax-h3-urban-football-freestyle-poster.jpg",
+        "duration": 5.17,
+        "resolution": "768x1344"
+      },
+      "source": {
+        "label": "DiffSynth-Studio MiniMax-H3 Self-Generated Dataset",
+        "platform": "ModelScope / Hugging Face mirror",
+        "url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "license": "Apache-2.0 (DiffSynth-Studio dataset); prompts adapted from GokuScraper CC BY 4.0",
+        "dataset_url": "https://www.modelscope.ai/datasets/DiffSynth-Studio/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_mirror_url": "https://huggingface.co/datasets/ml-resources/MiniMax-H3-Self-Generated-Dataset",
+        "dataset_revision": "3fc304474661febda24520ef19aff8e848fb0184",
+        "dataset_id": "t2va-008247",
+        "dataset_updated_at": "2026-10-18",
+        "captured_at": "2026-11-10",
+        "collected_at": "2026-11-10T03:17:18Z",
+        "generation_model": "MiniMax-H3",
+        "generation_model_evidence": "The DiffSynth-Studio dataset card states that its clips were generated with MiniMax-H3; this row is keyed by the original T2VA identifier.",
+        "num_frames": 124,
+        "num_inference_steps": 30,
+        "sha256": "f8aa45e68bda59d19462b5d56c9d7bbe748d22c85b9829673ba98567e092b047"
       },
       "status": "published"
     }

@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **850**
-Model-detail assets: **600** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **900**
+Model-detail assets: **650** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -919,4 +919,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Neon Spider Drone Pursuit](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Color Bead Wave Over the City](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Dragon Awakens in the Burning Castle](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Mech Collapse Escape](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Galaxy Soccer Goal Explosion AI](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Laundromat Horror: Creature Attack](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Lone Figure Faces Cataclysmic Shockwave](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Bouncy Frog Pond Animation](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Epic Alien War Cinematic](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Biotech City FPV Nightmare](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rainy Gothic City Detective](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Enchanted Forest Spirit Encounter](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Giant Mechanical Creature Emerges](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Golden Chips Cinematic Spectacle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Street Dance Battle Under Bridge](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fire Lion vs Mech Warrior Showdown](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Epic Rooftop Chase Sequence](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Futuristic Mecha Parkour Escape](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Quiet Urban Earphone Ad](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Molten Dragon Rebirth](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Wall Street Chaos in Slow Motion](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Retro Wagon Cliff Sunset Journey](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ancient Book Becomes Stormy Sea](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic 360 Match Cut](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Office Chair Crush Daydream Spin](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Convenience Store Horde](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Chubby Cat Defeats Kung Fu Master](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Raccoon's Lonely Night Shift](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ocean Color-Block Portal](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Bustling Fisheye City Walk](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Backyard Basketball Routine](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Telekinetic Makeup Transformation](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Clockwork Tea Castle](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Street Food Rush](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Underwater Mechanical Seahorse](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Morning Skincare Close-Up](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Rooftop Couple Moment](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Floating Woman Street Vision](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Portal Morning Routine](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Dog Dance in Sunlit Room](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Colossal City Creature](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Lantern Alley Ninja Duel](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Celestial Impact Awakening](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Medieval Portal on Busy Street](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Storm-Born Sea Monster](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [City Chase Through Crowds](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Playful Studio Product Reveal](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Stone Gorilla Awakening](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Neon Skateboarding Cartoon Dog](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Ocean Portal Discovery](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Graphic Cycling Transition](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Champagne Gown Lookbook](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Urban Football Freestyle](../catalog/model-detail-assets.json) — `MiniMax-H3`
 
