@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **900**
-Model-detail assets: **650** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **950**
+Model-detail assets: **700** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -969,4 +969,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Graphic Cycling Transition](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Champagne Gown Lookbook](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Urban Football Freestyle](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Epic Water Fire Fantasy Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Armored Alien Battles Female Warrior](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Scorpion Morphs Into Luxury Heels](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Single Take Battle Long Shot](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Fantasy Enchantress and Mechanical Owl](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dark Knight Transformation Sequence](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Neo Wuxia Epic Wave Stunt](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Blood Moon Portal Eclipse Chaos](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Parisian Morning Coffee Lifestyle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Morning Coffee Ritual Ad](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Swordswoman Warlord Night Market Standoff](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Obsidian Lava Warrior Gameplay Demo](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Explosive Baji Quan Sonic Boom](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Kittens Dancing On Night Beach](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Epic Elemental Warriors Clash Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rainy Night Alien Chase](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Futuristic Robot Arena Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [1950s Diner Time Rewind Cinematic](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Mirror Glitch Girl Visual Effects](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rainy Tokyo Violin Street Performance](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dark Fantasy Titan Battle At Ruins](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Scientist Interview Behind the Scenes](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Kung Fu Master Kicked During Bow](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Pink Skull Truck Desert Rampage](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Gritty Urban Noir Montage](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Live-action, cinematic vertical first-person POV, the camera holds a forward Tracking Shot](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Stop-motion puppet animation, cinematic wide-angle, slight low-angle tilt-shift macro view](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a Nimitz-class supercarrier suffers catastrophic structural failure](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic handheld medium shot in a desaturated teal-gray hallway with flicker](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [2D-animated, cinematic, the protagonist raises both hands as a fire bird in front of them s](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, photorealistic 8K footage with natural backlight, slight atmospheri](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera opens on a wide low-angle view of the wrecked, burning d](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, framed in a wide deep-focus shot, desaturated cool palette, Kodak V](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera holds a static shot on a busy Manila street at golden su](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic photorealistic cyberpunk action sequence shot with anamorphic lenses](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic medium shot of a handsome young adult male with short dark hair, rea](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [2D-animated, cinematic, a static wide view of a white minimalist tech display frame with sl](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera moves in a low-altitude Tracking Shot skimming the sand,](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic 2000s home MiniDV footage with soft detail, slight noise, low contra](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a low-angle Tracking Shot opens on a dusty 1880s American frontier](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic bullet-time collision orbit, the camera holds a Static Shot on the b](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a young male skater in his early 20s with messy curly brown hair, p](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic wide shot of a stylish young Korean woman in her early twenties step](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera holds a medium-wide static shot on a night BMX park aren](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [3D-animated, cinematic, six high-precision 3D-rendered adult dancers arranged in front, mid](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a handheld medium shot of a young athletic woman with long blonde h](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a realistic cat stands on a dark red-brown flying sword in a compos](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a 25-year-old white woman with light brown semi-long hair tied low,](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [3D-animated, cinematic, a close-up shows Patient Plush, a huge soft teddy-bear-like client](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera holds a static medium tri-shot on the 30-year-old woman](../catalog/model-detail-assets.json) — `MiniMax-H3`
 
