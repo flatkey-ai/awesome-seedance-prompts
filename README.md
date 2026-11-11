@@ -6,7 +6,7 @@ An industry-organized library of Seedance video prompts, shot patterns, and curr
 
 [![Prompts](https://img.shields.io/badge/Prompts-20%20curated%20cases-111111)](docs/prompt-index.md)
 [![Video assets](https://img.shields.io/badge/Video%20assets-10%20bundled%20%2B%201%20CDN-6f42c1)](docs/video-assets.md)
-[![Model](https://img.shields.io/badge/Model-Seedance%202.5-6f42c1)](https://flatkey.ai/models/seedance-2.5)
+[![Model](https://img.shields.io/badge/Model-Seedance%202.5-6f42c1)](https://flatkey.ai/models/seedance-2.5?utm_source=github&utm_medium=referral&utm_campaign=awesome-seedance-prompts&utm_content=awesome-seedance-prompts.readme.en.model)
 [![CLI](https://img.shields.io/badge/Run%20with-Flatkey%20CLI-0f766e)](https://github.com/flatkey-ai/flatkey-cli)
 [![中文](https://img.shields.io/badge/中文-查看-ef476f)](README.zh-CN.md)
 
