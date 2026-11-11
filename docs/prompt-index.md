@@ -1,7 +1,7 @@
 # Prompt index
 
-Published entries: **900**
-Model-detail assets: **650** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
+Published entries: **950**
+Model-detail assets: **700** (see [catalog/model-detail-assets.json](../catalog/model-detail-assets.json))
 
 ## Automotive & Mobility
 
@@ -969,4 +969,54 @@ These entries mirror the reviewed media and prompts shown on Flatkey model-detai
 - [Graphic Cycling Transition](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Champagne Gown Lookbook](../catalog/model-detail-assets.json) — `MiniMax-H3`
 - [Urban Football Freestyle](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Luxury Pizza Commercial Frenzy](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Luxury Perfume Cinematic Commercial](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Flaming Burger Perfect Landing](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Surreal Skincare Morph](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Vintage Paper Journey Through Japan](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Beach Pizza Paradise](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Golden Hour Convertible Coastal Drive](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Tropical Beach BBQ](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Luxury Skincare Commercial](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Quinoa Food Commercial](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Luxury Honey Product Film](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cozy Weekend Escape Packing](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Elegant Businesswoman in Luxury Kitchen](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Matcha Fashion Bullet Time](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Influencer Obsessed Fashion Essentials](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Rainbow Skirt Dance in Light](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Drone Dive Into Her Eye](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Salamis: Fractured Time Battle](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Ink-Wash Duel: Swords Clash](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Cinematic Guitar Podcast Studio Session](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Dark Fantasy Titan Battle At Ruins](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Scientist Interview Behind the Scenes](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Kung Fu Master Kicked During Bow](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Pink Skull Truck Desert Rampage](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Gritty Urban Noir Montage](../catalog/model-detail-assets.json) — `seedance-2.0`
+- [Live-action, cinematic vertical first-person POV, the camera holds a forward Tracking Shot](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Stop-motion puppet animation, cinematic wide-angle, slight low-angle tilt-shift macro view](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic handheld medium shot in a desaturated teal-gray hallway with flicker](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [2D-animated, cinematic, the protagonist raises both hands as a fire bird in front of them s](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, photorealistic 8K footage with natural backlight, slight atmospheri](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera opens on a wide low-angle view of the wrecked, burning d](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, framed in a wide deep-focus shot, desaturated cool palette, Kodak V](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic photorealistic cyberpunk action sequence shot with anamorphic lenses](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic medium shot of a handsome young adult male with short dark hair, rea](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera moves in a low-altitude Tracking Shot skimming the sand,](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic 2000s home MiniDV footage with soft detail, slight noise, low contra](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic bullet-time collision orbit, the camera holds a Static Shot on the b](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a young male skater in his early 20s with messy curly brown hair, p](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic wide shot of a stylish young Korean woman in her early twenties step](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera holds a medium-wide static shot on a night BMX park aren](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [3D-animated, cinematic, six high-precision 3D-rendered adult dancers arranged in front, mid](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a realistic cat stands on a dark red-brown flying sword in a compos](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, a 25-year-old white woman with light brown semi-long hair tied low,](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [3D-animated, cinematic, a close-up shows Patient Plush, a huge soft teddy-bear-like client](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Live-action, cinematic, the camera holds a static medium tri-shot on the 30-year-old woman](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Shot 1 Live Action Cinematic Extreme Close Up Of An](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Shot 1 3D Animated Cinematic Cold Blue Gray City Tones](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Shot 1 Live Action Cinematic A Close Up Frames Frosted](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Shot 1 Live Action Cinematic The Camera Holds A Static](../catalog/model-detail-assets.json) — `MiniMax-H3`
+- [Shot 1 Live Action Cinematic The Camera Performs A Tracking](../catalog/model-detail-assets.json) — `MiniMax-H3`
 
